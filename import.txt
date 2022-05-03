@@ -1,0 +1,48 @@
+Nhớ sửa lại đường dẫn
+
+
+--DB_STUDENTS--
+--Create database db_students;--
+Use db_students;
+--Table student--
+/*
+create table student(ids int, name String, class String, birthday Date)
+Row format delimited
+fields terminated by ','
+lines terminated by '\n'
+stored as textfile;
+*/
+--Table Class--
+create table class(class String, major String)
+Row format delimited
+fields terminated by ','
+lines terminated by '\n'
+stored as textfile;
+--import data--
+/*
+load data local inpath '/home/hadoopphatdat/file/student.txt'
+overwrite into table student;
+*/
+load data local inpath '/home/hadoopphatdat/file/class.txt'
+overwrite into table class;
+--DB_WORKS--
+create database db_works;
+use db_works;
+--Table task--
+create table task(idt int, name String,fromDate date,toDate date)
+Row format delimited
+fields terminated by ','
+lines terminated by '\n'
+stored as textfile;
+--Table res --
+create table res(idt int, ids int)
+Row format delimited
+fields terminated by ','
+lines terminated by '\n'
+stored as textfile;
+--import data--
+load data local inpath '/home/hadoopphatdat/file/task.txt'
+overwrite into table task;
+load data local inpath '/home/hadoopphatdat/file/res.txt'
+overwrite into table res;
+
