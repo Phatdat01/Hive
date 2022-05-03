@@ -1,17 +1,17 @@
-#DB_STUDENTS
+DB_STUDENTS
 
 ids,name,class,birthday
-##data student.txt
+data student.txt
 
 
 class,major
 ##data class.txt
 
 
-#DB_WORKS
+DB_WORKS
 
 idt,name,fromDate,ToDate
-##data task.txt
+data task.txt
 
 idt,ids
-##data res.txt
+data res.txt
