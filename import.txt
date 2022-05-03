@@ -58,3 +58,39 @@ overwrite into table task;
 load data local inpath '/home/hadoopphatdat/file/res.txt'
 overwrite into table res;
 
+Truy vấn :  Ta sẽ đếm số bạn của lớp E có năm sinh là 1996
+
+Select class,count(ids) as total 
+from student 
+where 
+class like 'class E' 
+and 
+year(birthday)=1996
+Group by class;
+
+Kiem tra:
+Select name,class,birthday,year(birthday)as YearOfBirthday
+from student 
+where 
+class like 'class E' 
+and 
+year(birthday)=1996;
+
+--dwh--
+Create table fact (nameOfStudent string,major string, nameOfWork string,fromDate date,toDate date)
+Row format delimited
+fields terminated by ','
+lines terminated by '\n'
+stored as textfile;
+
+Insert: 
+
+Insert into fact select st.name, major,ta.name,fromDate,toDate
+from 
+db_works.task as ta,db_works.res as rs,db_students.student as st,db_students.class as cl
+where
+st.class=cl.class
+and
+st.ids=rs.ids
+and
+rs.idt=ta.idt;
