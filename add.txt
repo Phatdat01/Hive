@@ -1,2574 +1,2574 @@
-7,Elon Musk,2,1971-06-28
-8,Jeff Bezos,1,1964-01-12
-9,Bernard Arnault & family,1,1949-03-05
-10,Bill Gates,3,1955-10-28
-11,Warren Buffett,3,1930-08-30
-12,Larry Page,1,1973-03-26
-13,Sergey Brin,1,1973-08-21
-14,Larry Ellison,2,1944-08-17
-15,Steve Ballmer,6,1956-03-24
-16,Mukesh Ambani,2,1957-04-19
-17,Gautam Adani & family,1,1962-06-24
-18,Michael Bloomberg,6,1942-02-14
-19,Carlos Slim Helu & family,1,1940-01-28
-20,Francoise Bettencourt Meyers & family,4,1953-07-10
-21,Mark Zuckerberg,5,1984-05-14
-22,Jim Walton,6,1948-06-07
-23,Zhong Shanshan,1,1954-12-01
-24,Alice Walton,1,1949-10-07
-25,Rob Walton,5,1944-10-27
-26,Changpeng Zhao,4,1977-09-10
-27,Charles Koch,5,1935-11-01
-28,Julia Koch & family,2,1962-04-12
-29,Amancio Ortega,6,1936-03-28
-30,Michael Dell,2,1965-02-23
-31,Zhang Yiming,6,1984-01-01
-32,David Thomson & family,1,1957-06-12
-33,Phil Knight & family,1,1938-02-24
-34,Dieter Schwarz,4,1939-09-24
-35,Robin Zeng,1,1969-01-01
-36,MacKenzie Scott,6,1970-04-07
-37,Rodolphe Saadé & family,3,1970-03-03
-38,François Pinault & family,4,1936-08-21
-39,Klaus-Michael Kuehne,2,1937-06-02
-40,Ma Huateng,5,1971-10-29
-41,Giovanni Ferrero,4,1964-09-21
-42,Li Ka-shing,3,1928-06-13
-43,Stephen Schwarzman,1,1947-02-14
-44,Lee Shau Kee,4,1928-01-29
-45,Len Blavatnik,2,1957-06-01
-46,Jacqueline Mars,4,1939-10-10
-47,John Mars,4,1935-10-15
-48,Alain Wertheimer,3,1948-08-28
-49,Gerard Wertheimer,6,1951-01-09
-50,German Larrea Mota Velasco & family,3,1953-10-26
-51,Gina Rinehart,3,1954-02-09
-52,Shiv Nadar,5,1945-07-18
-53,Jim Simons,6,1938-04-25
-54,He Xiangjian,6,1942-08-11
-55,Miriam Adelson,6,1945-10-10
-56,Dietrich Mateschitz,3,1944-05-20
-57,Leonardo Del Vecchio & family,4,1935-05-22
-58,Ken Griffin,1,1968-10-15
-59,Tadashi Yanai & family,1,1949-02-07
-60,William Lei Ding,6,1971-10-01
-61,Susanne Klatten,1,1962-04-28
-62,Cyrus Poonawalla,4,1941-05-11
-63,Wang Wei,6,1970-10-01
-64,Qin Yinglin,2,1965-04-17
-65,Sam Bankman-Fried,4,1992-03-05
-66,Takemitsu Takizaki,1,1945-06-10
-67,Li Shufu,2,1963-06-01
-68,Emmanuel Besnier,4,1970-09-18
-69,R. Budi Hartono,1,1941-01-01
-70,Leonard Lauder,2,1933-03-19
-71,Iris Fontbona & family,6,1943-01-01
-72,Jack Ma,5,1964-09-10
-73,Michael Hartono,3,1939-10-02
-74,Eric Schmidt,1,1955-04-27
-75,Ray Dalio,4,1949-08-08
-76,Daniel Gilbert,6,1962-01-17
-77,"Thomas Frist, Jr. & family",1,1938-08-12
-78,Masayoshi Son,3,1957-08-11
-79,Abigail Johnson,2,1961-12-19
-80,Rupert Murdoch & family,5,1931-03-11
-81,Stefan Quandt,5,1966-05-09
-82,Jensen Huang,3,1963-02-17
-83,Huang Shilin,5,1967-01-01
-84,Thomas Peterffy,2,1944-09-30
-85,Radhakishan Damani,2,1955-01-01
-86,Pang Kang,4,1956-01-19
-87,Wang Chuanfu,3,1966-02-15
-88,Reinhold Wuerth & family,3,1935-04-20
-89,"Theo Albrecht, Jr. & family",4,1951-01-01
-90,Yang Huiyan & family,6,1981-09-27
-91,Vladimir Lisin,1,1956-05-07
-92,Fan Hongwei & family,4,1967-01-01
-93,Lakshmi Mittal,1,1950-06-15
-94,Andrew Forrest,2,1961-11-18
-95,Jiang Rensheng & family,3,1953-10-08
-96,Savitri Jindal & family,5,1950-03-20
-97,Wang Wenyin,5,1968-01-01
-98,Li Xiting,5,1951-01-01
-99,Stefan Persson,5,1947-10-04
-100,Steve Cohen,2,1956-06-11
-101,Vladimir Potanin,4,1961-01-03
-102,Harold Hamm & family,4,1945-12-11
-103,Sun Piaoyang,1,1958-09-01
-104,Luo Liguo & family,6,1956-03-01
-105,Peter Woo,6,1946-09-05
-106,Gianluigi & Rafaela Aponte,2,1940-06-27
-107,David Tepper,1,1957-09-11
-108,Renata Kellnerova & family,3,1967-07-04
-109,"John Menard, Jr.",3,1940-01-22
-110,Kumar Birla,6,1967-06-14
-111,Carl Icahn,1,1936-02-16
-112,Lukas Walton,2,1986-09-19
-113,Laurene Powell Jobs & family,5,1963-11-06
-114,James Ratcliffe,6,1953-01-01
-115,Donald Bren,2,1932-05-11
-116,Xu Hang,6,1966-05-22
-117,Lu Xiangyang,2,1962-12-28
-118,Dilip Shanghvi,1,1955-10-01
-119,Wei Jianjun & family,3,1964-03-01
-120,Jorge Paulo Lemann & family,6,1939-08-26
-121,Eyal Ofer,1,1950-06-02
-122,Mike Cannon-Brookes,6,1979-11-17
-123,Wu Yajun,3,1964-01-01
-124,Charlene de Carvalho-Heineken & family,2,1954-06-30
-125,Michael Platt,3,1968-03-18
-126,Pavel Durov,6,1984-10-10
-127,Scott Farquhar,2,1979-12-17
-128,Pallonji Mistry,6,1929-06-01
-129,Dang Yanbao,6,1973-02-01
-130,Robert Pera,1,1978-03-10
-131,Donald Newhouse,1,1929-08-05
-132,Uday Kotak,5,1959-03-15
-133,Aliko Dangote,3,1957-04-10
-134,Leonid Mikhelson,5,1955-08-11
-135,Sunil Mittal & family,1,1957-10-23
-136,Liu Hanyuan,4,1964-01-01
-137,Joseph Lau,4,1951-07-21
-138,Anders Holch Povlsen,6,1972-11-04
-139,Dhanin Chearavanont,5,1939-04-19
-140,Gong Hongjia & family,6,1965-01-01
-141,Liu Yongxing,3,1948-06-01
-142,Alexey Mordashov,1,1965-09-26
-143,Wang Jianlin,1,1954-10-01
-144,David Duffield,3,1940-09-21
-145,Li Zhenguo & family,5,1968-01-01
-146,Harry Triguboff,2,1933-03-03
-147,Zhang Zhidong,6,1972-01-01
-148,Chen Bang,3,1965-09-01
-149,John Doerr,4,1951-06-29
-150,Kwong Siu-hing,5,1929-12-02
-151,Pei Zhenhua,6,1959-01-01
-152,Ricardo Salinas Pliego & family,4,1955-10-19
-153,Jim Pattison,4,1928-10-01
-154,Charles Schwab,1,1937-07-29
-155,Goh Cheng Liang,6,1927-06-27
-156,Lin Jianhua & family,2,1962-08-01
-157,Charoen Sirivadhanabhakdi,6,1944-05-02
-158,Jeff Yass,6,1958-07-17
-159,John Fredriksen,5,1945-02-01
-160,Andreas Struengmann & family,2,1950-02-16
-161,Thomas Struengmann & family,2,1950-02-16
-162,Mikhail Fridman,2,1964-04-21
-163,Sarath Ratanavadi,2,1965-07-12
-164,Robert Kuok,4,1923-10-06
-165,Lei Jun,6,1969-12-16
-166,Lui Che Woo,5,1929-04-01
-167,Brian Chesky,4,1981-08-29
-168,Israel Englander,4,1948-09-30
-169,Dustin Moskovitz,3,1984-05-22
-170,Alisher Usmanov,1,1953-09-09
-171,Jay Chaudhry,5,1959-08-26
-172,Anthony Pratt,5,1960-04-11
-173,Colin Zheng Huang,2,1980-02-02
-174,Jin Baofang,3,1952-09-01
-175,Pierre Omidyar,2,1967-06-21
-176,Gennady Timchenko,6,1952-11-09
-177,Carl Cook,5,1962-08-19
-178,Andrey Melnichenko,5,1972-03-08
-179,Xing Wang,2,1979-02-18
-180,Philip Anschutz,2,1939-12-28
-181,David Cheriton,1,1951-03-29
-182,Alexander Otto,1,1967-07-07
-183,Diane Hendricks,1,1947-03-02
-184,Stanley Kroenke,3,1947-07-29
-185,Jerry Jones,4,1942-10-13
-186,Quek Leng Chan,1,1941-08-12
-187,Eduardo Saverin,5,1982-03-19
-188,Vagit Alekperov,4,1950-09-01
-189,Richard Qiangdong Liu,4,1974-03-10
-190,Idan Ofer,5,1955-10-02
-191,Melker Schorling & family,3,1947-05-15
-192,"Chase Coleman, III.",6,1975-06-21
-193,Shuirong Li,1,1956-07-01
-194,Stefano Pessina,2,1941-06-04
-195,Mikhail Prokhorov,2,1965-05-03
-196,Marcel Herrmann Telles,2,1950-01-01
-197,Leon Black,3,1951-07-31
-198,Joe Gebbia,4,1981-08-21
-199,David Geffen,2,1943-02-21
-200,Yu Renrong,2,1966-04-01
-201,Andrew Beal,5,1952-11-29
-202,George Kaiser,3,1942-07-29
-203,Qi Shi & family,4,1970-01-03
-204,Luis Carlos Sarmiento,1,1933-01-27
-205,Andreas von Bechtolsheim & family,1,1955-09-30
-206,Jan Koum,1,1976-02-24
-207,Jorge Moll Filho & family,3,1945-01-01
-208,Azim Premji,4,1945-07-24
-209,Finn Rausing,5,1955-01-01
-210,Jorn Rausing,1,1960-01-01
-211,Kirsten Rausing,1,1952-06-06
-212,Wang Laisheng,1,1964-12-14
-213,John Collison,2,1990-08-06
-214,Patrick Collison,3,1988-09-09
-215,Gordon Moore,4,1929-01-03
-216,Wang Laichun,5,1967-06-03
-217,Graeme Hart,4,1955-06-06
-218,Zheng Shuliang & family,5,1946-01-01
-219,Cao Renxian,6,1968-07-24
-220,Nathan Blecharczyk,2,1983-06-11
-221,James Dyson,4,1947-05-02
-222,Ivan Glasenberg,5,1957-01-07
-223,Kim Beom-su,1,1966-03-27
-224,Jay Y. Lee,1,1968-06-23
-225,Liu Yonghao & family,5,1951-09-01
-226,Ann Walton Kroenke,5,1948-12-18
-227,Li Ping,2,1968-01-01
-228,Eric Wittouck,5,1946-10-01
-229,Friedhelm Loh,6,1946-08-15
-230,Xavier Niel,2,1967-08-25
-231,Michael Otto,2,1943-04-12
-232,Johann Rupert & family,6,1950-06-01
-233,Hui Ka Yan,1,1958-10-01
-234,Pauline MacMillan Keinath,3,1934-01-01
-235,"Herbert Kohler, Jr. & family",2,1939-02-20
-236,Li Ge,2,1967-01-01
-237,Kushal Pal Singh,6,1931-08-15
-238,Zong Qinghou,4,1945-10-01
-239,Cai Kui,5,1963-01-01
-240,Charles Ergen,1,1953-03-01
-241,Gao Jifan & family,5,1965-01-01
-242,Bernard Marcus,2,1929-05-12
-243,Nicky Oppenheimer & family,5,1945-06-08
-244,"Ernest Garcia, II.",1,1957-05-21
-245,Paul Xiaoming Lee & family,5,1958-01-01
-246,George Soros,3,1930-08-12
-247,Wang Liping & family,6,1966-02-24
-248,Ernesto Bertarelli,1,1965-09-22
-249,Tamara Gustavson,3,1961-11-16
-250,Carlos Alberto Sicupira & family,5,1948-01-01
-251,Laurent Dassault,5,1953-07-07
-252,Thierry Dassault,3,1957-03-26
-253,Marie-Hélène Habert-Dassault,2,1965-04-04
-254,Liu Jincheng & family,3,1964-09-22
-255,Ma Jianrong & family,1,1964-01-01
-256,Steven Rales,5,1951-03-31
-257,Joseph Tsai,1,1964-01-19
-258,Anthony von Mandl,6,1950-03-10
-259,Carl Bennet,2,1951-08-19
-260,Robert Kraft,2,1941-06-05
-261,Chairul Tanjung,4,1962-06-18
-262,Manuel Villar,2,1949-12-13
-263,Jean-Michel Besnier,6,1967-06-05
-264,Marie Besnier Beauvalot,4,1980-07-30
-265,Gustaf Douglas,4,1938-03-03
-266,Kjeld Kirk Kristiansen,1,1947-12-27
-267,Sofie Kirk Kristiansen,6,1976-01-01
-268,Thomas Kirk Kristiansen,4,1979-01-01
-269,Stephen Ross,5,1940-05-10
-270,Agnete Kirk Thinggaard,5,1983-05-18
-271,Marc Benioff,4,1964-09-25
-272,Dmitri Bukhman,3,1985-05-27
-273,Igor Bukhman,3,1982-03-29
-274,Francis Choi,2,1947-09-18
-275,Murali Divi & family,5,1951-03-17
-276,Nancy Walton Laurie,5,1951-05-15
-277,Georg Schaeffler,3,1964-10-19
-278,Yao Liangsong,4,1964-08-01
-279,Zhong Huijuan,1,1961-01-01
-280,George Roberts,4,1943-09-14
-281,Michael Rubin,6,1972-07-21
-282,Patrick Ryan,2,1937-05-15
-283,Christopher Hohn,2,1966-10-27
-284,Marijke Mars,1,1964-07-28
-285,Pamela Mars,1,1960-08-01
-286,Valerie Mars,4,1959-01-26
-287,Victoria Mars,3,1956-12-15
-288,Hasso Plattner & family,3,1944-01-21
-289,Georg Stumpf,6,1972-09-14
-290,Christy Walton,4,1949-02-08
-291,Giorgio Armani,6,1934-07-11
-292,Gopikishan Damani,6,1958-01-01
-293,Ding Shizhong & family,6,1970-12-01
-294,Jim Kennedy,5,1947-11-29
-295,German Khan,5,1961-10-24
-296,Liang Wengen,2,1956-12-14
-297,Blair Parry-Okeden,4,1950-05-21
-298,Tsai Eng-meng,6,1957-01-15
-299,Ashwin Dani & family,5,1942-10-24
-300,Ding Shijia,5,1964-01-01
-301,Karel Komarek,5,1969-03-15
-302,Henry Kravis,2,1944-01-06
-303,Frederik Paulsen,3,1950-10-30
-304,Nassef Sawiris,5,1961-01-19
-305,Xu Shihui,6,1958-01-01
-306,Rahel Blocher,1,1976-01-01
-307,Shahid Khan,5,1950-07-18
-308,Magdalena Martullo-Blocher,5,1969-01-01
-309,Vincent Bolloré & family,4,1952-04-01
-310,Jeffery Hildebrand,4,1959-03-05
-311,Michael Kim,3,1963-10-01
-312,Richard Kinder,5,1944-10-19
-313,David Shaw,5,1951-03-29
-314,John Malone,3,1941-03-07
-315,Vicky Safra,4,1953-01-01
-316,Tim Sweeney,5,1970-12-13
-317,Mike Adenuga,2,1953-04-29
-318,David Green & family,3,1941-11-13
-319,"Paul Tudor Jones, II.",1,1954-09-28
-320,Yuri Milner,1,1961-11-11
-321,Henry Samueli,3,1954-09-20
-322,Patrick Soon-Shiong,4,1952-07-29
-323,Antonia Ax:son Johnson & family,3,1943-09-06
-324,Michael Kadoorie,1,1941-07-19
-325,Lin Shu-hong,3,1928-08-01
-326,Niels Peter Louis-Hansen,1,1947-10-25
-327,Reinhold Schmieding,3,1955-01-03
-328,Wee Cho Yaw,6,1929-01-10
-329,Silvio Berlusconi & family,5,1936-09-29
-330,Arthur Blank,4,1942-09-27
-331,Qian Dongqi & family,4,1958-01-01
-332,J. Christopher Reyes,2,1953-12-29
-333,Jude Reyes,2,1955-09-16
-334,Nik Storonsky,6,1984-07-21
-335,Zhou Qunfei & family,6,
-336,Deng Weiming & family,4,1968-09-01
-337,Judy Faulkner,6,1943-08-11
-338,Robin Li,6,1968-11-17
-339,Carrie Perrodo & family,6,1951-01-01
-340,David Reuben,3,1938-09-01
-341,Simon Reuben,4,1941-05-01
-342,Seo Jung-jin,3,1957-10-23
-343,Roman Abramovich,6,1966-10-24
-344,Micky Arison,4,1949-06-29
-345,Edythe Broad & family,3,1936-01-01
-346,Terry Gou,6,1950-10-18
-347,Jiang Bin,4,1966-09-16
-348,Vinod Khosla,1,1955-01-28
-349,Ralph Lauren,3,1939-10-14
-350,Douglas Leone,1,1957-07-04
-351,Lucia Maggi & family,6,1932-07-20
-352,Horst Julius Pudwill,1,1944-10-23
-353,Abdulsamad Rabiu,2,1960-08-04
-354,Harry Stine,6,1941-11-30
-355,Dennis Washington,1,1934-07-27
-356,Hasmukh Chudgar & family,3,1933-09-19
-357,Stanley Druckenmiller,6,1953-06-14
-358,Jonathan Gray,1,1970-02-04
-359,Kwon Hyuk-bin,4,1974-01-01
-360,Frank Lowy,6,1930-10-22
-361,Ronda Stryker,4,1954-05-01
-362,Alejandro Bailleres Gual & siblings,5,1961-01-01
-363,Benu Gopal Bangur,6,1931-06-01
-364,James Goodnight,6,1943-01-06
-365,Alain Merieux & family,3,1938-01-01
-366,Enrique Razon Jr.,4,1960-03-03
-367,Robert F. Smith,6,1962-12-01
-368,Brian Armstrong,3,1983-01-25
-369,Dannine Avara,2,1964-03-09
-370,Patrick Drahi,6,1963-08-20
-371,Scott Duncan,4,1982-11-01
-372,Milane Frantz,2,1969-08-12
-373,Andreas Halvorsen,1,1961-04-23
-374,Law Kar Po,3,1948-08-02
-375,Nicolas Puech,1,1943-01-29
-376,Viktor Rashnikov,1,1948-10-13
-377,Dmitry Rybolovlev,6,1966-11-22
-378,Randa Duncan Williams,5,1961-08-28
-379,Chen Jianhua,2,1971-01-01
-380,John Grayken,5,1956-06-01
-381,Ray Lee Hunt,6,1943-04-06
-382,Philippe Laffont,3,1967-09-16
-383,"Henry Nicholas, III.",3,1959-10-08
-384,Axel Oberwelland & siblings,4,1967-01-01
-385,Cliff Obrecht,4,1985-12-28
-386,John Overdeck,5,1969-12-21
-387,Melanie Perkins,2,1987-05-13
-388,Ruan Hongliang & family,3,1961-01-01
-389,David Siegel,5,1961-07-15
-390,David Velez,5,1981-10-02
-391,Juergen Blickle,1,1947-01-01
-392,Cheng Xue,6,1970-02-26
-393,Jack Dangermond,6,1945-07-23
-394,Jiang Weiping & family,3,1955-03-01
-395,Takahisa Takahara,6,1961-07-12
-396,Orlando Bravo,3,1970-09-23
-397,Hong Ra-hee,3,1945-07-15
-398,"Edward Johnson, IV.",5,1964-11-18
-399,Li Xiaohua & family,1,1962-01-01
-400,Sri Prakash Lohia,1,1952-08-11
-401,Miao Hangen,4,1965-01-01
-402,Bobby Murphy,6,1988-07-19
-403,Wu Jianshu,4,1964-01-01
-404,Maria Asuncion Aramburuzabala & family,2,1963-05-02
-405,Melinda French Gates,6,1964-08-15
-406,Bruce Kovner,5,1945-02-25
-407,Pham Nhat Vuong,2,1968-08-05
-408,Michal Solowow,6,1962-07-11
-409,Leonard Stern,4,1938-03-28
-410,Stef Wertheimer & family,1,1926-07-16
-411,Rocco Commisso,4,1949-11-25
-412,Jack Dorsey,2,1976-11-19
-413,Lin Li,4,1963-05-01
-414,George Lucas,2,1944-05-14
-415,Evan Spiegel,1,1990-06-04
-416,Zhao Yan,5,1967-01-01
-417,Tom Gores,5,1964-07-31
-418,Leo Koguan,1,1955-02-15
-419,Alexei Kuzmichev,2,1962-10-15
-420,Fredrik Lundberg,4,1951-08-05
-421,John Morris,5,1948-03-19
-422,Ivar Tollefsen,2,1961-06-23
-423,Stephen Bisciotti,3,1960-04-10
-424,Mahendra Choksi & family,1,1941-04-19
-425,Jian Jun,3,1963-11-01
-426,Barry Lam,3,1949-04-24
-427,Michael Moritz,5,1954-09-12
-428,Teh Hong Piow,2,1930-03-14
-429,Gary Wang,5,1993-06-13
-430,Andre Esteves,3,1968-07-12
-431,Joshua Harris,5,1964-12-29
-432,Rakesh Jhunjhunwala,1,1960-07-05
-433,Ken Langone,5,1935-09-16
-434,Ludwig Merckle,2,1965-01-01
-435,Sandra Ortega Mera,4,1968-07-09
-436,Terrence Pegula,2,1951-03-27
-437,Karen Pritzker,5,1958-01-07
-438,Mitchell Rales,2,1956-08-21
-439,Wolfgang Reimann,6,1952-10-04
-440,Matthias Reimann-Andersen,3,1965-03-30
-441,Stefan Reimann-Andersen,2,1963-07-13
-442,Renate Reimann-Haas,2,1951-10-08
-443,Ruan Liping,2,1964-01-01
-444,Ruan Xueping,6,1972-01-01
-445,Charles Simonyi,1,1948-09-10
-446,John A. Sobrato & family,4,1939-05-23
-447,David Steward,3,1951-07-02
-448,Radovan Vitek,2,1971-04-22
-449,Les Wexner & family,6,1937-09-08
-450,Aloys Wobben,4,1952-01-22
-451,Sam Zell,6,1941-09-28
-452,Anthony Bamford & family,3,1945-10-23
-453,Rainer Blickle,4,1947-07-16
-454,Clive Calder,1,1946-12-13
-455,Frits Goldschmeding,3,1933-08-02
-456,Ananda Krishnan,2,1938-04-01
-457,Joe Mansueto,5,1956-09-03
-458,Odd Reitan & family,4,1951-09-11
-459,Antony Ressler,2,1962-01-01
-460,Tang Xiao'ou,1,1968-01-01
-461,Tse Ping,5,1952-01-03
-462,Ken Xie,5,1963-01-26
-463,Tilman Fertitta,6,1957-06-25
-464,Prajogo Pangestu,1,1944-05-13
-465,"Edward Roski, Jr.",6,1938-12-25
-466,Teddy Sagi,5,1971-11-01
-467,Thomas Straumann,3,1963-07-22
-468,David Sun,3,1951-10-12
-469,John Tu,1,1941-08-12
-470,Erich Wesjohann & family,1,1945-06-02
-471,Xu Jinfu,1,1964-01-01
-472,Alexander Abramov,2,1959-02-20
-473,Neil Bluhm,4,1938-01-12
-474,Don Hankey,1,1943-06-13
-475,Jane Lauder,4,1973-01-01
-476,Gwendolyn Sontheim Meyer,5,1961-10-27
-477,John Reece,1,1957-03-07
-478,Eric Smidt,4,1960-01-01
-479,Viktor Vekselberg,3,1957-04-14
-480,Ronald Wanek,4,1941-05-19
-481,Rene Benko,4,1977-03-20
-482,John Brown,5,1934-09-15
-483,Chen Zhiping,3,1976-01-01
-484,Andrew Currie,5,1955-12-04
-485,Jim Davis & family,1,1943-05-17
-486,Charles Dolan & family,4,1926-10-16
-487,Tom Golisano,2,1941-11-14
-488,Hui Wing Mau,1,1950-07-01
-489,Daniel Kretinsky,6,1975-07-09
-490,Massimiliana Landini Aleotti & family,1,1943-01-01
-491,Joe Lewis,5,1937-02-05
-492,Li Chunan,3,1968-10-10
-493,Lin Muqin & family,5,1964-01-01
-494,Shigenobu Nagamori,1,1944-08-28
-495,Kjell Inge Rokke,1,1958-10-25
-496,Wang Wenjing,1,1964-12-05
-497,Chris Xu,5,1984-01-01
-498,Samuel Yin,5,1950-08-16
-499,M.A. Yusuff Ali,1,1955-11-15
-500,Denise Coates,4,1967-09-26
-501,Ken Fisher,5,1950-11-29
-502,Peter Grogg,3,1942-01-10
-503,Dietmar Hopp & family,4,1940-04-26
-504,Sumet Jiaravanon,2,1934-11-02
-505,Nathan Kirsh,4,1932-01-06
-506,Forrest Li,2,1978-01-01
-507,Rudolf Maag,2,1946-01-31
-508,Gary Rollins,5,1944-08-30
-509,Ugur Sahin,5,1965-09-19
-510,Mark Scheinberg,1,1973-12-27
-511,Shen Guojun,6,1962-07-31
-512,Chip Wilson,3,1957-01-01
-513,Zhang Yong,1,1970-07-01
-514,James Chambers,2,1957-04-12
-515,Chen Fashu,4,1960-10-26
-516,Jaran Chiaravanont,6,1930-04-01
-517,Ravi Jaipuria,3,1954-11-28
-518,Koon Poh Keong,2,1961-04-25
-519,Li Liangbin,3,1967-09-01
-520,Liang Feng,1,1968-11-22
-521,Wolfgang Marguerre & family,1,1941-06-04
-522,Katharine Rayner,2,1945-01-12
-523,Carlos Rodriguez-Pastor,3,1959-04-11
-524,Margaretta Taylor,1,1942-04-15
-525,You Xiaoping,6,1958-01-21
-526,Eric Yuan & family,5,1970-02-20
-527,Robert Bass,4,1948-03-19
-528,Alexandre Behring,4,1967-02-20
-529,Chan Laiwa & family,1,1941-01-01
-530,Jeff Greene,3,1954-12-10
-531,Montri Jiaravanont,6,1931-04-01
-532,Charles B. Johnson,3,1933-01-06
-533,Elizabeth Johnson,5,1963-05-07
-534,Lin Bin,6,1968-02-01
-535,Hiroshi Mikitani,6,1965-03-11
-536,Isaac Perlmutter,1,1942-12-01
-537,Michael Pieper,1,1946-02-05
-538,Issad Rebrab & family,4,1944-01-01
-539,Tsai Hong-tu,4,1952-08-01
-540,Richard Tsai,3,1957-06-02
-541,Wang Junshi & family,6,1949-01-01
-542,Wang Yanqing & family,1,1966-04-07
-543,Shari Arison,1,1957-09-09
-544,Alain Bouchard,2,1949-02-18
-545,"Austen Cargill, II.",3,1951-03-09
-546,"James Cargill, II.",3,1949-04-07
-547,Ben Chestnut,6,1974-06-15
-548,Wei Fang,1,1973-09-04
-549,Leonid Fedun,2,1956-04-05
-550,Johann Graf,3,1947-01-03
-551,Huang Chulong,6,1959-01-01
-552,Huang Yi,6,1962-01-01
-553,Vladimir Kim,3,1960-10-29
-554,Dan Kurzius,6,1971-12-01
-555,Ronald Lauder,3,1944-02-26
-556,Marianne Liebmann,3,1953-07-11
-557,Tobi Lutke,1,1980-07-16
-558,Thomas Pritzker,5,1950-06-06
-559,Scott Shleifer,4,1977-06-14
-560,Autry Stephens,2,1939-01-01
-561,Peter Thiel,1,1967-10-11
-562,Tsai Cheng-ta,4,1950-04-01
-563,Hansjoerg Wyss,1,1935-01-01
-564,Xiao Yongming & family,5,1964-07-01
-565,Zhang Tao,5,1972-11-01
-566,Daniel Ziff,4,1971-11-02
-567,Dirk Ziff,4,1964-04-01
-568,Robert Ziff,4,1966-08-12
-569,Mat Ishbia,6,1980-01-06
-570,"Robert Rich, Jr.",3,1941-01-25
-571,Thomas Schmidheiny,3,1945-12-17
-572,Alexandra Schoerghuber & family,5,1958-07-24
-573,Erik Selin,2,1967-05-08
-574,Daniel Tsai,1,1956-04-25
-575,Dona Bertarelli,6,1968-01-01
-576,Andrei Guriev & family,6,1960-03-24
-577,Luciano Hang,1,1962-10-11
-578,Hu Baifan,4,1962-10-01
-579,Bidzina Ivanishvili,6,1956-02-18
-580,Leng Youbin,1,1969-01-01
-581,Theo Mueller,5,1940-01-30
-582,"Julian Robertson, Jr.",3,1932-06-25
-583,Marc Rowan,6,1962-08-19
-584,Emanuele (Lino) Saputo & family,4,1937-01-01
-585,Jeff Skoll,6,1965-01-16
-586,Frank Wang,4,1980-10-30
-587,Wang Junlin,1,1962-09-01
-588,Yang Shaopeng,1,1958-01-01
-589,Maria Fernanda Amorim & family,4,1935-01-16
-590,Leonid Boguslavsky,5,1951-06-17
-591,Richard Branson,3,1950-07-18
-592,Robert Brockman,1,1941-05-28
-593,Pierre Chen,1,1956-09-28
-594,Chu Mang Yee & family,6,1960-01-01
-595,Scott Cook,6,1952-07-26
-596,Mark Cuban,3,1958-07-31
-597,Guenther Fielmann & family,4,1939-09-17
-598,Martin Haefner,2,1954-01-01
-599,Johnelle Hunt,4,1932-01-04
-600,"Andre Koo, Sr.",4,1967-05-25
-601,Lai Meisong,3,1971-01-01
-602,Richard Li,3,1966-11-08
-603,Mangal Prabhat Lodha,1,1955-12-01
-604,Igor Olenicoff,5,1942-09-20
-605,Mark Shoen,2,1950-11-20
-606,Andrei Skoch & family,2,1966-01-30
-607,Fred Smith,6,1944-08-11
-608,Murat Ulker,1,1959-03-23
-609,Yu Yong,2,1961-02-01
-610,Stéphane Bancel,1,1972-07-20
-611,Bubba Cathy,3,1954-04-22
-612,Dan Cathy,1,1953-03-01
-613,Trudy Cathy White,3,1955-12-17
-614,Jason Chang,2,1944-05-01
-615,Dagmar Dolby & family,2,1941-06-28
-616,Bruce Flatt,4,1965-06-01
-617,Masatoshi Ito,1,1924-04-30
-618,Viatcheslav Kantor,6,1953-09-08
-619,Min Kao & family,6,1949-01-10
-620,Lin Xiucheng & family,6,1955-10-10
-621,Sami Mnaymneh,1,1961-07-13
-622,Tony Tamer,5,1957-10-12
-623,Richard White,4,1955-04-01
-624,Baoguo Zhu & family,3,1962-04-25
-625,Michael Ashley,4,1964-09-12
-626,Ron Baron,3,1943-05-23
-627,Bert Beveridge,1,1962-01-01
-628,Todd Boehly,4,1973-09-20
-629,David Bonderman,3,1942-11-27
-630,Guo Guangchang,4,1967-02-16
-631,Daryl Katz,5,1961-09-01
-632,Ted Lerner & family,4,1925-10-15
-633,Falguni Nayar,1,1963-02-19
-634,Trevor Rees-Jones,6,1951-08-12
-635,J. Joe Ricketts & family,4,1941-07-16
-636,Robert Rowling,6,1953-09-26
-637,Mark Stevens,6,1960-02-17
-638,Gustav Magnar Witzoe,4,1993-04-22
-639,Xie Liangzhi & family,4,1966-01-01
-640,Yeung Kin-man,4,1964-04-01
-641,Andrej Babis,6,1954-09-02
-642,Giuseppe De'Longhi & family,5,1939-04-24
-643,Barry Diller,3,1942-02-02
-644,Christian Haub,1,1964-07-22
-645,Huang Li,2,1963-06-27
-646,Marian Ilitch,4,1933-01-07
-647,Suleiman Kerimov & family,3,1966-03-12
-648,Edwin Leong,5,1951-12-04
-649,Lu Yiwen,3,1987-01-01
-650,N.R. Narayana Murthy,4,1946-08-20
-651,Yang Jianliang & family,4,1969-06-01
-652,Pyotr Aven,1,1955-03-16
-653,Joesley Batista,6,1972-02-05
-654,Wesley Batista,6,1972-12-08
-655,Margot Birmingham Perot,1,1933-11-15
-656,Rick Caruso,6,1959-01-07
-657,Jim Davis,2,1960-03-13
-658,Walter P.J. Droege,3,1952-11-25
-659,Dan Friedkin,1,1965-02-27
-660,Gao Dekang & family,6,1952-02-01
-661,Antti Herlin,4,1956-11-14
-662,W. Herbert Hunt,2,1929-03-06
-663,Jason Jiang,4,1973-01-01
-664,"Rupert Johnson, Jr.",2,1940-08-10
-665,Vikram Lal & family,2,1942-03-05
-666,Chris Larsen,3,1960-06-15
-667,Richard Schulze,2,1941-01-02
-668,Paul Singer,5,1944-08-22
-669,Barry Sternlicht,2,1960-11-27
-670,Su Hua,5,1982-01-01
-671,Mark Walter,1,1960-05-22
-672,Ty Warner,2,1944-09-03
-673,Rinat Akhmetov,2,1966-09-21
-674,Bernard Broermann,3,1943-11-22
-675,Mong-Koo Chung,6,1938-03-19
-676,Daniel D'Aniello,6,1946-09-14
-677,Traudl Engelhorn & family,1,1927-01-21
-678,Piero Ferrari,6,1945-05-22
-679,Carlo Fidani,2,1955-01-01
-680,Yakir Gabay,1,1966-04-13
-681,Jaime Gilinski Bacal,5,1957-12-14
-682,Bertil Hult,4,1941-02-10
-683,Martha Ingram & family,5,1935-08-20
-684,Lee Yin Yee,5,1952-01-01
-685,Daniel Loeb,6,1961-12-18
-686,Janice McNair,4,1936-09-30
-687,Ajay Piramal,3,1955-08-03
-688,Lynsi Snyder,5,1982-05-05
-689,Peter Spuhler,6,1959-09-01
-690,Kerry Stokes,6,1940-09-13
-691,Jon Stryker,4,1958-05-03
-692,Vincent Viola,2,1956-02-12
-693,Romesh T. Wadhwani,3,1947-08-25
-694,Juan Domingo Beckmann Legorreta & family,2,1967-07-01
-695,Rafael Del Pino,1,1958-07-18
-696,Sergey Dmitriev,5,1966-03-11
-697,Senapathy Gopalakrishnan,3,1955-04-05
-698,James Irving,5,1928-03-20
-699,Lee Boo-jin,1,1970-10-06
-700,Samuel Tak Lee,3,1939-04-09
-701,Thai Lee,3,1958-11-27
-702,Eric Lefkofsky,2,1969-09-02
-703,Weiguo Li,5,1965-01-01
-704,Ermirio Pereira de Moraes & family,1,1932-05-13
-705,Maria Helena Moraes Scripilliti & family,3,1930-09-20
-706,Thomas Secunda,2,1954-06-23
-707,Shaul Shani,2,1955-01-01
-708,E. Joe Shoen,6,1949-10-28
-709,Steven Udvar-Hazy,4,1946-02-23
-710,Russ Weiner,2,1970-05-05
-711,Guanjiang Wu & family,6,1968-12-21
-712,Anil Agarwal & family,3,1953-09-07
-713,Somphote Ahunai,5,1967-06-01
-714,Patrizio Bertelli,2,1946-01-01
-715,Rakesh Gangwal,1,1953-07-25
-716,Paul Gauselmann & family,5,1934-08-26
-717,Hao Hong,2,1956-01-01
-718,He Xiaopeng,5,1977-11-03
-719,Michael Herz,6,1943-09-28
-720,Wolfgang Herz,4,1951-01-01
-721,Arthur Irving,3,1930-01-01
-722,Victor Jacobsson,2,1981-08-28
-723,Marc Ladreit de Lacharriere,2,1940-11-06
-724,Patrick Lee,5,1942-01-01
-725,Max Lytvyn,3,1980-01-01
-726,Gilles Martin,5,1963-10-20
-727,Ramzi Musallam,1,1968-09-17
-728,Georg Nemetschek & family,5,1934-01-01
-729,Akio Nitori,1,1944-03-05
-730,Daniel Och,6,1961-01-27
-731,Pankaj Patel,2,1953-03-19
-732,John Paulson,5,1955-12-14
-733,Miuccia Prada,1,1949-05-10
-734,Jean (Gigi) Pritzker,3,1962-07-01
-735,Juan Roig,6,1949-10-08
-736,David Rubenstein,1,1949-08-11
-737,Howard Schultz,2,1953-07-19
-738,Alex Shevchenko,6,1980-01-01
-739,Dan Snyder,3,1964-11-23
-740,Jerzy Starak,6,1947-12-12
-741,Kelcy Warren,6,1955-11-09
-742,Herbert Wertheim,1,1939-05-23
-743,Cameron Winklevoss,5,1981-08-21
-744,Tyler Winklevoss,6,1981-08-21
-745,Denise York & family,3,1950-10-21
-746,Zhao Lixin,2,1966-01-01
-747,Hubert Burda,1,1940-02-09
-748,Francesco Gaetano Caltagirone,5,1943-03-21
-749,Li Xiang,1,1981-10-01
-750,"Stephen Mandel, Jr.",6,1956-03-12
-751,Gabe Newell,3,1962-11-03
-752,Maja Oeri,1,1955-01-01
-753,Neil Shen,5,1967-12-16
-754,Helmut Sohmen,4,1939-12-10
-755,Donald Sterling,1,1934-04-26
-756,Don Vultaggio & family,1,1952-02-26
-757,Yiling Wu,1,1949-10-24
-758,Gongshan Zhu,3,1958-01-01
-759,Gayle Benson,2,1947-01-26
-760,"William Conway, Jr.",6,1949-08-27
-761,Gurbachan Singh Dhingra,6,1950-04-09
-762,Kuldip Singh Dhingra,6,1947-09-02
-763,Luca Garavoglia,3,1969-02-27
-764,Jimmy Haslam,6,1954-03-09
-765,Susan Carol Holland,2,1956-05-27
-766,Timur Kulibaev,1,1966-09-10
-767,Dinara Kulibaeva,5,1967-08-19
-768,Michel Leclercq & family,1,1939-05-27
-769,Pablo Legorreta,6,1963-10-30
-770,Margarita Louis-Dreyfus & family,5,1962-06-01
-771,Michael Milken,6,1946-07-04
-772,Denis O'Brien,4,1958-04-17
-773,Katharina Otto-Bernstein,3,1964-01-01
-774,James Packer,5,1967-09-08
-775,Sergio Stevanato & family,3,1943-03-20
-776,Leena Tewari,1,1957-09-03
-777,Yitzhak Tshuva,6,1948-07-07
-778,Paul-Heinz Wesjohann & family,6,1943-05-25
-779,Zeng Fangqin,1,1965-12-25
-780,Zhou Bajin,2,1935-05-01
-781,William Berkley,1,1946-09-01
-782,John Catsimatidis,1,1948-09-07
-783,Che Jianxing,5,1966-07-18
-784,Gustavo Denegri,6,1937-03-17
-785,Charles Edelstenne,4,1938-01-03
-786,Reed Hastings,5,1960-10-08
-787,"Amos Hostetter, Jr.",4,1937-01-12
-788,Brad Jacobs,3,1956-07-01
-789,Friedrich Knapp,1,1951-05-06
-790,William Lauder,6,1960-04-11
-791,Richard LeFrak & family,1,1945-08-29
-792,Li Guoqiang,6,1964-01-01
-793,Low Tuck Kwong,6,1948-04-17
-794,Akira Mori & family,2,1936-07-12
-795,Anthony Pritzker,3,1961-01-07
-796,Ira Rennert,5,1934-05-31
-797,"Bernard Saul, II.",5,1932-04-15
-798,Shi Yonghong & family,2,1969-01-01
-799,Song Chi-hyung,2,1979-01-01
-800,Steven Spielberg,6,1946-12-18
-801,Wong Luen Hei,5,1962-01-01
-802,Danielle Bellon & family,6,1940-02-08
-803,Byju Raveendran and Divya Gokulnath,2,1981-07-06
-804,Cho Tak Wong,3,1946-05-15
-805,Charles Cohen,4,1952-02-08
-806,Kenneth Dart,4,1955-04-21
-807,Martin Ebner,6,1945-08-01
-808,David Filo,2,1966-04-15
-809,Miguel Fluxa Rossello,1,1938-07-27
-810,John Henry,3,1949-09-13
-811,Hu Kaijun,6,1962-01-01
-812,Peter Kellogg,5,1942-09-01
-813,James Leprino,5,1937-11-22
-814,Iskander Makhmudov,2,1963-12-05
-815,Daniel Mate,5,1963-06-02
-816,Aristotelis Mistakidis,5,1961-11-21
-817,Arturo Moreno,4,1946-08-14
-818,Nan Cunhui,2,1963-07-09
-819,Julio Ponce Lerou,5,1945-11-13
-820,J.B. Pritzker,5,1965-01-19
-821,Chandru Raheja,6,1940-10-01
-822,Rodger Riney & family,2,1946-01-01
-823,Shi Yuzhu,2,1962-09-01
-824,Zuowen Song,6,1947-03-19
-825,Jerry Speyer,5,1940-06-23
-826,Julia Thiele-Schuerhoff,2,1972-01-01
-827,Tung Chee Chen,5,1942-12-15
-828,Roger Wang,3,1949-01-01
-829,Wu Shaoxun,4,1956-01-01
-830,Wenzhong Zhang,6,1962-01-01
-831,Chen Kaixuan,4,1958-05-01
-832,Beatriz Davila de Santo Domingo,4,1939-03-07
-833,Antonio Del Valle Ruiz & family,5,1938-08-13
-834,Carl Douglas,6,1961-05-05
-835,Eric Douglas,3,1968-05-01
-836,Jiangtao Du & family,1,1969-11-17
-837,Juan Carlos Escotet,4,1959-07-23
-838,Fiona Geminder,3,1964-12-01
-839,Yuhua Gu & family,1,1949-10-05
-840,James Irsay,2,1959-06-13
-841,Kuok Khoon Hong,3,1950-01-01
-842,Aerin Lauder,6,1970-04-23
-843,Lee Seo-hyun,3,1973-09-20
-844,Li Yongxin & family,6,1976-03-09
-845,Jeffrey Lurie,3,1951-09-08
-846,Mary Alice Dorrance Malone,4,1950-02-03
-847,Ronald McAulay,6,1935-10-05
-848,Apoorva Mehta,1,1986-07-19
-849,Arnon Milchan,4,1944-12-06
-850,Masahiro Noda,1,1938-08-24
-851,Renzo Rosso & family,4,1955-09-15
-852,Lynn Schusterman,5,1939-01-21
-853,Gil Shwed,4,1968-06-12
-854,Thomas Siebel,5,1952-11-22
-855,Herb Simon,5,1934-10-23
-856,Friede Springer,3,1942-08-15
-857,Wang Zhenhua,5,1962-03-01
-858,Hans Peter Wild,2,1941-06-16
-859,"William Wrigley, Jr.",1,1963-11-01
-860,Xia Zuoquan,4,1962-01-01
-861,Xue Hua,3,
-862,Mohed Altrad,5,1948-03-09
-863,Sid Bass,6,1942-04-09
-864,Nick Caporella,6,1936-01-15
-865,Cheng Yixiao,1,1984-01-01
-866,Wesley Edens,5,1961-10-31
-867,Behdad Eghbali,2,1976-05-06
-868,Archie Aldis Emmerson & family,3,1929-04-10
-869,Jose E. Feliciano,1,1973-05-29
-870,Fu Liquan & family,5,1967-08-01
-871,David Gottesman,4,1926-04-26
-872,Laurence Graff & family,3,1938-06-13
-873,Jeff T. Green,3,1977-03-30
-874,Jim Kavanaugh,6,1962-10-17
-875,Steven Klinsky,3,1956-05-30
-876,John Middleton,4,1955-03-02
-877,Jerry Ng,4,1965-07-02
-878,Tengyun Nie & family,1,1976-01-24
-879,Nandan Nilekani,4,1955-06-02
-880,Bob Parsons,6,1950-11-27
-881,Prasert Prasarttong-Osoth,2,1933-03-26
-882,Qiu Guanghe & family,1,1951-11-10
-883,Richard Sands,3,1951-03-03
-884,Robert Sands,4,1958-06-10
-885,T. Denny Sanford,1,1935-12-23
-886,Naguib Sawiris,2,1954-06-15
-887,Pavel Tykac,2,1964-05-15
-888,Todd Wanek,3,1964-03-16
-889,Meg Whitman,1,1956-08-04
-890,Michael Xie,3,1969-02-20
-891,Chenghai Ye & family,4,1943-08-15
-892,An Kang,2,1949-01-01
-893,John Arnold,5,1974-03-09
-894,Arun Bharat Ram,6,1940-11-15
-895,Tomasz Biernacki,2,1973-01-01
-896,Travis Boersma,5,1971-01-01
-897,Dongsheng Chen,1,1957-12-01
-898,Jean Coutu & family,2,1927-05-29
-899,Ralph Dommermuth,5,1963-11-19
-900,Walter Faria,3,1955-04-01
-901,Bob Gaglardi,4,1941-02-19
-902,John Gandel,2,1934-08-13
-903,Xuande Hua & family,2,1943-10-30
-904,Micky Jagtiani,3,1951-09-28
-905,H. Fisk Johnson,3,1958-05-19
-906,S. Curtis Johnson,3,1955-05-05
-907,Helen Johnson-Leipold,4,1956-12-30
-908,Miguel Krigsner,5,1950-01-09
-909,Li Jianquan & family,3,1957-01-01
-910,Lin Ming-hsiung,3,1950-01-01
-911,Winifred J. Marquart,2,1959-04-06
-912,Kiran Mazumdar-Shaw,4,1953-03-23
-913,Patrice Motsepe,2,1962-01-28
-914,Alfred Oetker,1,1967-01-01
-915,Carl Ferdinand Oetker,2,1972-10-03
-916,Julia Oetker,3,1979-01-26
-917,Or Wai Sheun,5,1951-06-01
-918,Jay Paul,5,1947-07-08
-919,Horst Paulmann & family,3,1935-01-01
-920,Theodore Rachmat,2,1943-12-15
-921,John Sall,2,1948-04-04
-922,Stefan von Holtzbrinck,4,1963-05-15
-923,Nusli Wadia,2,1944-02-15
-924,Steve Wynn,2,1942-01-27
-925,Yang Weidong & family,2,1968-09-09
-926,Barry Zekelman,2,1967-01-03
-927,Zhang Shilong & family,4,1966-01-01
-928,Zhong Ruonong & family,3,1962-10-30
-929,Cameron Adams,6,1979-12-26
-930,Dongchen Cai,1,1953-02-01
-931,Vanich Chaiyawan,6,1932-01-01
-932,James Clark,1,1944-03-23
-933,Jack Cowin,6,1942-07-13
-934,Giuseppe Crippa & family,4,1935-05-05
-935,Sergei Galitsky,4,1967-08-14
-936,"Ernest Garcia, III.",2,1982-05-01
-937,Peter Gilgan,2,1951-01-01
-938,Joseph Grendys,6,1961-12-01
-939,Thomas Hagen,4,1936-01-01
-940,"Robert Hale, Jr.",5,1966-07-08
-941,Michael Hintze,1,1953-07-27
-942,Pansy Ho,6,1962-08-26
-943,Alan Howard,4,1963-09-01
-944,Kei Hoi Pang,3,1966-01-01
-945,Rudy Ma,2,1940-07-04
-946,Najib Mikati,5,1955-11-24
-947,Taha Mikati,4,1945-01-01
-948,Gail Miller,6,1943-10-14
-949,Vikas Oberoi,2,1970-09-08
-950,"H. Ross Perot, Jr.",1,1958-11-07
-951,Candido Pinheiro Koren de Lima,5,1947-01-01
-952,Matthew Prince,4,1975-01-01
-953,Penny Pritzker,3,1959-05-02
-954,Yasumitsu Shigeta,4,1965-02-25
-955,Sebastian Siemiatkowski,5,1981-10-03
-956,Barry Silbert,1,1976-05-15
-957,Daniel Sundheim,3,1977-03-29
-958,Rita Tong Liu,3,1948-06-29
-959,Tran Dinh Long,2,1961-01-01
-960,Zhang Daocai,6,1950-01-01
-961,John Caudwell,3,1952-10-01
-962,Philippe Foriel-Destezet,3,1935-09-12
-963,Walter Frey,1,1943-07-30
-964,Alessandra Garavoglia,2,1960-02-06
-965,Peter Gassner,5,1965-02-26
-966,Mitchell Goldhar,5,1961-07-15
-967,Otto Happel,3,1948-02-09
-968,Peter Hargreaves,6,1946-10-05
-969,Bom Kim,3,1978-10-01
-970,Gaiteng Li,1,1972-04-08
-971,Liufa Li & family,6,1957-06-01
-972,Lu Weiding,4,1971-03-01
-973,Harsh Mariwala,5,1951-05-14
-974,Samir Mehta,6,1963-09-18
-975,Sudhir Mehta,1,1954-04-10
-976,Pawan Munjal & family,5,1954-01-01
-977,Nguyen Thi Phuong Thao,4,1970-06-07
-978,Madhukar Parekh,3,1947-01-01
-979,Sergei Popov,3,1971-08-12
-980,Haim Saban,3,1944-10-15
-981,Karthik Sarma,4,1974-12-01
-982,Klaus-Peter Schulenberg,2,1951-07-01
-983,Pat Stryker,3,1956-04-06
-984,Jeff Sutton,5,1960-01-17
-985,Jon Yarbrough,3,1957-05-10
-986,Gang Ye,2,1980-06-01
-987,Yi Zheng,6,1970-10-15
-988,Zhang Fan,3,1965-12-29
-989,William Ackman,6,1966-05-11
-990,Markus Blocher,4,1971-01-01
-991,Neal Blue & family,5,1935-04-04
-992,Eva Maria Bucher-Haefner,3,1957-01-01
-993,Chang Kuo-Hua,5,1955-01-01
-994,Todd Christopher,2,1962-10-08
-995,Euisun Chung,5,1970-10-18
-996,Bernard Ecclestone & family,3,1930-10-28
-997,Michael Federmann & family,3,1943-09-09
-998,Gudrun Heine,1,1954-10-19
-999,Heidi Horten,3,1941-02-13
-1000,Dawen Huang,3,1960-11-01
-1001,Sheldon Lavin,6,1932-06-17
-1002,Li Min,6,1965-12-26
-1003,Liang Yunchao,4,1969-01-03
-1004,Joseph Liemandt,2,1968-08-05
-1005,Strive Masiyiwa,6,1961-01-29
-1006,Masahiro Miki,5,1955-07-26
-1007,Karsanbhai Patel,2,1944-01-07
-1008,Arvind Poddar,5,1957-11-07
-1009,Remo Ruffini,5,1961-08-27
-1010,Eddy Kusnadi Sariaatmadja,3,1953-08-23
-1011,Sybill Storz,6,1937-04-06
-1012,Lawrence Stroll,1,1959-07-11
-1013,Michael Tojner,6,1966-03-31
-1014,Donald Trump,3,1946-06-14
-1015,Tsai Ming-kai,2,1950-04-06
-1016,John Tyson,6,1953-09-05
-1017,Rufino Vigil Gonzalez,4,1948-06-01
-1018,Ning Wang & family,5,1987-01-01
-1019,Wang Yusuo & family,5,1964-03-11
-1020,Zhigang Wu & family,1,1935-01-14
-1021,Xie Juhua & family,6,1951-01-01
-1022,Oren Zeev,1,1964-09-23
-1023,Charles Zegar,3,1948-02-29
-1024,Zhang Lei,3,1972-12-01
-1025,Zhang Xin & Pan Shiyi,1,1965-08-24
-1026,Mortimer Zuckerman,6,1937-06-04
-1027,Juan Abello,2,1941-12-16
-1028,John Armitage,3,1959-12-01
-1029,Bang Si-hyuk,5,1972-08-09
-1030,Miriam Baumann-Blocher,4,1975-01-01
-1031,Riley Bechtel & family,4,1952-03-25
-1032,Wilhelm Beier & family,4,1956-04-21
-1033,Nicolas Berggruen,2,1961-08-10
-1034,Bui Thanh Nhon,4,1958-01-01
-1035,Cao Longxiang & family,4,1957-09-05
-1036,Deng Wen,2,1968-03-01
-1037,Daniel Dines,6,1972-01-01
-1038,Joseph Edelman,6,1955-06-10
-1039,N. Murray Edwards,3,1959-12-10
-1040,Jane Goldman,6,1955-07-29
-1041,Guo Zhenyu & family,5,1963-11-01
-1042,Stewart Horejsi & family,1,1937-09-19
-1043,Zhenda Huang & family,4,1947-09-01
-1044,"Jeremy Jacobs, Sr. & family",1,1940-01-21
-1045,Hamilton James,5,1951-08-03
-1046,Valentin Kipyatkov,1,1976-06-05
-1047,Li Zhongchu,3,1963-08-26
-1048,Martin Lorentzon,1,1969-04-01
-1049,"Drayton McLane, Jr.",6,1936-07-22
-1050,Roger Penske,2,1937-02-20
-1051,Olivier Pomel,1,1977-03-26
-1052,Jean Salata,5,1965-12-01
-1053,Arnout Schuijff,6,1967-10-16
-1054,Shen Hua & family,6,1963-01-01
-1055,Martua Sitorus,5,1960-02-18
-1056,Zygmunt Solorz-Zak,5,1956-08-04
-1057,Warren Stephens,2,1957-02-18
-1058,Tang Jinkui & family,6,1955-09-19
-1059,Alan Trefler,6,1956-03-10
-1060,Masateru Uno & family,3,1947-02-06
-1061,Frank VanderSloot,5,1948-08-14
-1062,Guangming Wu,1,1962-02-27
-1063,Kai Wu,3,1968-01-01
-1064,Ye Fan & family,2,1971-01-01
-1065,Yoo Jung-hyun,5,1969-04-16
-1066,Fenggang Zhao,2,1966-01-01
-1067,Zheng Xiaodong,2,1964-03-01
-1068,Zhou Jianping,2,1960-05-28
-1069,Jose Joao Abdalla Filho,3,1945-05-30
-1070,Brian Acton,4,1972-02-17
-1071,Bill Alfond,6,1948-05-16
-1072,Susan Alfond,2,1945-07-19
-1073,Ted Alfond,2,1944-08-19
-1074,Felix Baker,3,1969-03-29
-1075,Julian Baker,4,1966-05-21
-1076,Maurizio Billi,3,1957-11-22
-1077,Otto Philipp Braun,5,1978-01-01
-1078,Garrett Camp,2,1978-10-04
-1079,Cao Ji,4,1952-01-01
-1080,Hua Chen,6,1966-01-01
-1081,John Paul DeJoria,1,1944-04-13
-1082,Beda Diethelm,2,1941-01-01
-1083,K. Dinesh,1,1954-06-06
-1084,Dong Fan,2,
-1085,Bennett Dorrance,4,1946-02-09
-1086,Marcel Erni,5,1965-01-01
-1087,Abhay Firodia,6,1944-11-05
-1088,Alfred Gantner,1,1968-04-01
-1089,Allan Goldman,2,1943-03-06
-1090,Amy Goldman Fowler,3,1954-04-19
-1091,J. Tomilson Hill,5,1948-05-24
-1092,Hong Jie,4,1967-10-01
-1093,James Jannard,2,1949-06-08
-1094,Travis Kalanick,1,1976-08-06
-1095,Diane Kemper,3,1945-07-21
-1096,George Kurtz,2,1970-10-01
-1097,Kwek Leng Beng,3,1941-01-01
-1098,Geoffrey Kwok,5,1985-05-01
-1099,Maritsa Lazari & family,4,1944-10-14
-1100,Alexis Lê-Quôc,6,1974-11-14
-1101,Angela Leong,5,1961-03-23
-1102,Lin Chen-hai,1,1947-03-01
-1103,Sergio Mantegazza,4,1927-10-31
-1104,Hans Melchers,3,1938-04-28
-1105,Tom Morris,5,1954-10-02
-1106,Eugene Murtagh,6,1942-06-23
-1107,Philip Niarchos,4,1954-01-01
-1108,Pan Dong,6,1965-01-01
-1109,Sean Parker,6,1979-12-03
-1110,Richard Peery,1,1938-10-01
-1111,Gregorio Perez Companc & family,1,1935-08-23
-1112,Sebastian Piñera & family,1,1949-12-01
-1113,Nicholas Pritzker,4,1944-01-01
-1114,Jeff Rothschild,4,1955-01-02
-1115,Steven Sarowitz,4,1965-11-07
-1116,Isabella Seràgnoli,1,1945-12-23
-1117,Stephen Smith,5,1951-06-02
-1118,William Stone,1,1955-04-09
-1119,Sun Hongbin,4,1963-01-01
-1120,Sun Shoukuan,5,1949-10-01
-1121,"Henry Sy, Jr.",3,1953-02-01
-1122,Andrew Tan,2,1952-02-01
-1123,Kenneth Tuchman,6,1959-10-23
-1124,Tung Chee Hwa,2,1937-07-07
-1125,Bulat Utemuratov,4,1958-01-01
-1126,Xicheng Wang & family,2,1948-11-01
-1127,Urs Wietlisbach,6,1961-08-25
-1128,Wong Man Li,6,1965-02-12
-1129,Xie Weitong,5,1957-01-01
-1130,Xu Chuanhua & family,6,1935-01-01
-1131,Ye Xiaoping,2,1963-02-01
-1132,Weiguo Zhao,3,1967-01-01
-1133,Ben Ashkenazy,5,1969-09-23
-1134,Bill Austin,6,1942-02-25
-1135,Pavel Baudis,4,1960-05-15
-1136,Yvonne Bauer,3,1977-03-29
-1137,Giuliana Benetton,3,1937-07-08
-1138,Luciano Benetton,6,1935-05-13
-1139,Aneel Bhusri,1,1966-02-04
-1140,George Bishop,5,1937-10-06
-1141,Vivek Chand Burman,2,1937-04-28
-1142,Morris Chang,6,1931-07-10
-1143,Jinxia Chen,3,1968-03-28
-1144,Cho Jung-ho,6,1958-10-05
-1145,Jack Cockwell,1,1941-01-12
-1146,"Edward DeBartolo, Jr.",2,1946-11-06
-1147,Abilio dos Santos Diniz,6,1936-12-28
-1148,"John Dorrance, III.",4,1944-01-01
-1149,Hailiang Feng,4,1960-10-01
-1150,Xingjiang Gao,6,1963-11-01
-1151,Carlos Hank Rhon,4,1947-12-10
-1152,Vivek Jain,2,1955-08-30
-1153,Brad Kelley,4,1956-12-23
-1154,Alicia Koplowitz,1,1953-09-12
-1155,Li Li,5,1965-09-01
-1156,C. Dean Metropoulos,5,1946-05-05
-1157,Dan Olsson,2,1947-01-01
-1158,Tor Peterson,2,1964-08-07
-1159,John Pritzker,4,1953-08-10
-1160,Hussain Sajwani,3,1953-03-01
-1161,Tseng Cheng,4,1961-12-01
-1162,Jerry Yang,3,1968-11-06
-1163,Takao Yasuda,6,1949-05-07
-1164,Yu Qibing & family,3,1965-11-01
-1165,Zhang Xuezheng,3,1975-06-01
-1166,Isak Andic & family,2,1953-10-20
-1167,Harindarpal Banga,4,1950-08-10
-1168,Anne Beaufour,1,1963-08-08
-1169,Henri Beaufour,2,1965-06-01
-1170,Sanjeev Bikhchandani,3,1963-06-29
-1171,Norman Braman,5,1932-08-22
-1172,J. Hyatt Brown,5,1937-07-12
-1173,Chen Lip Keong,5,1947-07-01
-1174,Jim Coulter,1,1959-12-01
-1175,Federico De Nora,5,1968-03-23
-1176,Dong Wei,4,1971-01-01
-1177,Sandeep Engineer,5,1961-05-11
-1178,Alceu Elias Feldmann,3,1949-07-01
-1179,"Frank Fertitta, III.",5,1962-02-24
-1180,Lorenzo Fertitta,1,1969-01-03
-1181,Doris Fisher,5,1931-08-23
-1182,Alec Gores,4,1953-03-18
-1183,Rajinder Gupta,6,1959-01-02
-1184,Igor Kesaev,5,1966-10-30
-1185,Raj Kumar & Kishin RK,5,1954-05-25
-1186,Li Hongxin & family,5,1953-03-07
-1187,Liu Fangyi,6,
-1188,Lu Zhongfang,3,1942-12-01
-1189,Nirmal Minda,3,1957-11-07
-1190,Farhad Moshiri,4,1955-05-18
-1191,Hans Georg Naeder,3,1961-09-04
-1192,Eren Ozmen,6,1958-09-03
-1193,Ronald Perelman,5,1943-01-01
-1194,Ravi Pillai,2,1953-09-02
-1195,Daniel Pritzker,6,1959-09-15
-1196,Matthias Reinhart,2,1960-01-01
-1197,Alejandro Santo Domingo,3,1977-02-13
-1198,Vivek Chaand Sehgal,6,1956-09-28
-1199,Kavitark Ram Shriram,1,1957-01-21
-1200,Hans Sy,2,1955-09-29
-1201,Herbert Sy,2,1956-10-01
-1202,Tahir & family,4,1952-03-26
-1203,Wang Linpeng,4,1968-05-01
-1204,David Wertheim,1,1958-01-01
-1205,Oprah Winfrey,6,1954-01-29
-1206,Xingming Zhu,6,1967-03-01
-1207,Suhail Bahwan,5,1939-01-01
-1208,David Baszucki,4,1963-01-20
-1209,Thor Bjorgolfsson,6,1967-03-19
-1210,Charles Bronfman,4,1931-06-27
-1211,Chen Tei-fu,2,1948-04-19
-1212,Chuchat Petaumpai & Daonapa Petampai,6,1953-01-01
-1213,Leon G. Cooperman,3,1943-04-25
-1214,Smita Crishna-Godrej,1,1950-12-30
-1215,Jacques D'Amours,3,1956-12-08
-1216,Maria Del Pino,2,1956-03-19
-1217,Gerald Ford,5,1944-08-04
-1218,Adi Godrej,1,1942-04-03
-1219,Jamshyd Godrej,3,1949-01-24
-1220,Nadir Godrej,1,1951-01-01
-1221,Sanjiv Goenka,6,1961-01-29
-1222,Stein Erik Hagen,3,1956-07-22
-1223,Donald Horton & family,4,1950-03-05
-1224,Hu Yangzhong,3,1965-03-06
-1225,Baba Kalyani,4,1949-01-07
-1226,Stephen Lansdown,6,1952-08-30
-1227,Mark Leonard & family,5,1956-05-06
-1228,William Li,6,1975-01-01
-1229,K.C. Liu,6,1954-03-20
-1230,Liu Xiaodong,4,1967-07-03
-1231,Aloke Lohia,3,1958-11-27
-1232,Mohamed Mansour,2,1948-01-23
-1233,Kishore Mariwala,2,1935-02-14
-1234,Jed McCaleb,6,1975-01-01
-1235,Enhua Mi,1,1958-04-01
-1236,Willy Michel,5,1947-01-01
-1237,Lachhman Das Mittal,2,1930-11-05
-1238,Ravi Modi,2,1977-03-13
-1239,Charles Munger,1,1924-01-01
-1240,Rishad Naoroji,2,1951-08-30
-1241,Yongpei Ni & family,4,1952-01-23
-1242,Fatih Ozmen,2,1958-02-02
-1243,Qiu Minxiu,6,1945-09-17
-1244,Stewart Rahr,3,1946-02-18
-1245,Prathap Reddy,5,1932-02-05
-1246,Chad Richison,2,1970-10-10
-1247,Suh Kyung-bae,1,1963-01-14
-1248,Glen Taylor,3,1941-04-20
-1249,Nadia Thiele,3,1976-01-07
-1250,Wang Minwen,6,1963-11-01
-1251,Huijiao Yu,3,1966-04-01
-1252,Zhang Ning & family,4,1974-04-01
-1253,Zhao Tao,6,1966-01-01
-1254,Hongyi Zhou,5,1970-10-01
-1255,Rajendra Agarwal,3,1959-02-25
-1256,George Argyros & family,1,1937-02-04
-1257,Edward Bass,6,1945-09-10
-1258,Banwari Lal Bawri,6,1953-04-02
-1259,Girdhari Lal Bawri,3,1947-08-03
-1260,Chao Teng-hsiung,6,1944-10-04
-1261,Zhisong Chen,2,1966-01-07
-1262,Chey Tae-won,2,1960-12-03
-1263,Choo Chong Ngen,4,1953-04-21
-1264,John Coates,6,1970-01-07
-1265,Alexandra Daitch,4,1963-01-01
-1266,Chetan Dube,2,1966-01-05
-1267,Daniel Ek,4,1983-02-21
-1268,John Fisher,2,1961-06-01
-1269,Bernard Fraisse & family,3,1956-08-10
-1270,William Franke,5,1937-04-15
-1271,Caroline Hagen Kjos,3,1984-01-01
-1272,Lam Kong,1,1964-06-15
-1273,Hans Langer,6,1952-01-18
-1274,Joe Lau,6,1989-07-01
-1275,Liang Qin & family,3,1971-10-26
-1276,Peter Lim,3,1953-06-01
-1277,Sarah MacMillan,6,1954-01-01
-1278,Kalanithi Maran,6,1965-07-26
-1279,Lirio Parisotto,2,1953-12-18
-1280,Rajan Raheja & family,6,1954-06-01
-1281,Alberto Roemmers,6,1927-01-01
-1282,Rodney Sacks,4,1949-12-24
-1283,Ferit Faik Sahenk,4,1964-03-18
-1284,Hilton Schlosberg,1,1953-01-01
-1285,Alberto Siccardi & family,3,1944-05-01
-1286,Salil Singhal,6,1947-07-21
-1287,Lucy Stitzer,4,1960-01-01
-1288,Otto Toto Sugiri,6,1953-09-23
-1289,Harley Sy,2,1959-06-01
-1290,Teresita Sy-Coson,5,1950-10-01
-1291,Katsumi Tada,1,1945-07-12
-1292,Tang Yiu,2,1934-04-01
-1293,Jeff Tangney,4,1972-08-09
-1294,Lottie Tham & family,5,1949-04-18
-1295,T.Y. Tsai,3,1953-01-01
-1296,Timur Turlov,5,1987-11-13
-1297,Hamdi Ulukaya,2,1972-10-26
-1298,Peter Unger,3,1944-08-20
-1299,Nikil Viswanathan,2,1987-10-16
-1300,Anthony Wood,5,1965-12-04
-1301,Zhang Hongwei,5,1954-12-26
-1302,Zhang Li,4,1953-01-01
-1303,Houshan Bai,2,1964-01-01
-1304,Alex Beard,6,1967-08-03
-1305,Koos Bekker,1,1952-12-14
-1306,William Boyd & family,2,1931-11-04
-1307,Timothy Boyle,1,1949-09-07
-1308,Anand Burman,6,1952-05-05
-1309,Richard Chandler,1,1959-01-01
-1310,R.G. Chandramogan,6,1949-03-01
-1311,Cho Young-sik,3,1961-06-30
-1312,Chu Lam Yiu,4,1969-12-01
-1313,Kommer Damen,5,1944-03-30
-1314,Henry Davis,5,1951-02-16
-1315,Ray Davis,6,1941-12-18
-1316,Stephen Feinberg,6,1960-03-29
-1317,Kenneth Feld & family,5,1948-10-31
-1318,Alexander Frolov,5,1964-05-17
-1319,Mario Germano Giuliani,2,1972-02-26
-1320,Serge Godin,2,1949-11-17
-1321,Noam Gottesman,6,1961-05-24
-1322,Philip & Cristina Green,1,1952-03-15
-1323,Yusuf Hamied,2,1936-07-26
-1324,Bill Haslam,2,1958-08-23
-1325,Hans-Werner Hector,3,1940-01-17
-1326,Ho Hung Anh,2,1970-06-08
-1327,Douglas Hsu,6,1942-08-24
-1328,Erman Ilicak,3,1967-10-03
-1329,Zhaobai Jiang,4,1963-08-17
-1330,Osman Kibar,3,1971-04-01
-1331,Adam Kwok,5,1983-04-01
-1332,Frank Laukien,2,1960-02-04
-1333,Louis Le Duff,2,1946-08-01
-1334,Solomon Lew,1,1945-03-22
-1335,Liang Rubo,2,1983-01-01
-1336,Liang Zhaoxian,6,1965-01-01
-1337,Prayudh Mahagitsiri,6,1946-01-01
-1338,Clayton Mathile,3,1941-01-11
-1339,Erwin Franz Mueller,2,1932-08-09
-1340,David Murdock,3,1923-04-10
-1341,Rubens Ometto Silveira Mello,4,1950-01-01
-1342,Erik Paulsson & family,2,1942-01-31
-1343,Heloise Pratt,2,1962-09-13
-1344,Qiu Jianping & family,4,1962-01-28
-1345,Dirk Rossmann & family,3,1946-09-07
-1346,Stephan Schmidheiny,3,1947-10-29
-1347,Wenrong Shen,2,1946-02-13
-1348,Guangxin Sun,6,1962-12-01
-1349,Mengquan Sun & family,2,1950-03-01
-1350,Thomas Tull,5,1970-06-11
-1351,Ted Turner,3,1938-11-19
-1352,David Walentas,2,1938-08-07
-1353,Yingming Wu,6,1967-01-01
-1354,Yingzhuo Xu,1,1968-01-01
-1355,Christoph Zeller,6,1957-05-04
-1356,Zhang Wanzhen,5,1949-12-01
-1357,Xiaojuan Zhang,2,1969-10-01
-1358,Michael Ashcroft,6,1946-01-01
-1359,Alex Atallah,4,1992-03-09
-1360,Brett Blundy,1,1960-01-17
-1361,Chris Britt,5,1973-03-17
-1362,Cen Junda,2,1964-06-18
-1363,Yadu Hari Dalmia & family,5,1947-06-02
-1364,Zhenggang Dou,3,1953-05-21
-1365,Weimin Du,1,1963-12-01
-1366,Devin Finzer,1,1990-10-18
-1367,Robert Friedland,5,1950-08-18
-1368,Phillip Frost,1,1936-11-11
-1369,Jeffrey Gundlach,5,1959-01-01
-1370,John Hancock,4,1976-01-02
-1371,Georg Haub,1,1962-01-01
-1372,Hortensia Herrero,2,1950-05-20
-1373,"B. Wayne Hughes, Jr.",4,1961-01-01
-1374,Bruce Karsh,2,1955-10-10
-1375,Shlomo Kramer,1,1966-03-14
-1376,Jonathan Kwok,3,1992-03-01
-1377,Christian Latouche,3,1940-07-18
-1378,Martin Lau,5,1973-04-01
-1379,Li Wa,6,1966-01-01
-1380,Liang Xinjun,6,1968-01-01
-1381,Lin Chang Su-O,2,1940-08-01
-1382,Lin Fanlian,5,1961-06-01
-1383,Lin Lairong & family,6,1968-08-09
-1384,Daniel Lubetzky,6,1968-09-28
-1385,Howard Marks,6,1946-04-23
-1386,Craig McCaw,2,1949-08-11
-1387,Vincent McMahon,3,1945-08-24
-1388,Mu Rongjun,1,1980-01-01
-1389,Jonathan Nelson,1,1956-05-18
-1390,Bianca Rinehart,4,1977-03-19
-1391,Ginia Rinehart,1,1986-09-06
-1392,Filiz Sahenk,3,1967-02-14
-1393,S.D. Shibulal,6,1955-03-01
-1394,Alexander Svetakov,6,1968-02-15
-1395,Jeffrey Talpins,2,1975-03-06
-1396,Ming Tian,3,1953-12-20
-1397,Arvind Tiku,3,1970-02-22
-1398,Torsten Toeller,2,1966-04-06
-1399,Riaz Valani,1,1976-09-01
-1400,Pieter van der Does,3,1969-05-01
-1401,Lang Walker,4,1945-07-05
-1402,Hope Welker,2,1985-08-13
-1403,Xie Bingkun & family,5,1966-08-25
-1404,William Young,5,1941-01-01
-1405,Zhou Jian,2,1976-07-01
-1406,Mohamed Al Fayed,1,1929-01-27
-1407,Faisal Bin Qassim Al Thani,5,1948-01-01
-1408,Masaaki Arai,3,1965-10-29
-1409,Tatyana Bakalchuk,1,1975-10-16
-1410,Lee Bass,2,1956-05-24
-1411,Alberto Bombassei,2,1940-10-05
-1412,Jim Breyer,5,1961-07-26
-1413,Ron Burkle,3,1952-11-12
-1414,Chen Huwen,4,1970-07-01
-1415,Chen Huxiong,5,1970-07-01
-1416,Chen Xuehua,1,1961-01-01
-1417,Bruce Cheng,6,1936-01-01
-1418,Ryan Cohen,3,1985-08-04
-1419,Dermot Desmond,1,1950-07-01
-1420,Fred Ehrsam,3,1988-05-10
-1421,John Elkann,4,1976-01-04
-1422,Bob Ell,6,1944-12-22
-1423,Fang Xiaoliang & family,1,1958-09-01
-1424,Lindsay Fox,5,1937-04-19
-1425,Gary Friedman,6,1957-08-06
-1426,Gordon Getty,2,1933-12-20
-1427,Dennis Gillings,3,1944-04-25
-1428,Harsh Goenka,3,1957-12-10
-1429,David Hains,2,1930-08-19
-1430,Bahaa Hariri,5,1966-04-26
-1431,Shmuel Harlap,6,1944-11-13
-1432,Gerry Harvey,1,1939-09-18
-1433,Reid Hoffman,1,1967-08-05
-1434,Hou Juncheng,6,1964-12-17
-1435,Thomas James,4,1942-05-10
-1436,Eiichi Kuriwada,5,1946-10-10
-1437,Kwek Leng Kee,3,1955-01-01
-1438,Lai Shixian,3,1975-01-01
-1439,Lau Cho Kun,3,1936-01-10
-1440,Lee Hae-jin,5,1967-06-22
-1441,Harald Link,2,1955-01-12
-1442,Liu Xiucai & family,6,1957-03-01
-1443,Yangyong Luo & family,1,1975-06-02
-1444,Igor Makarov,1,1962-04-05
-1445,Alexander Mamut,6,1960-01-29
-1446,David Mindus,2,1972-01-26
-1447,Yuji Otsuka,1,1954-02-13
-1448,Clive Palmer,4,1954-03-26
-1449,Ajay Parekh,2,1957-06-23
-1450,Narendrakumar Parekh,6,1938-04-17
-1451,Xiangdong Qi,3,1970-10-01
-1452,Jianhua Ren,2,1956-08-01
-1453,Alice Schwartz,4,1926-07-02
-1454,Peter Sondakh,2,1950-02-26
-1455,Song Fei,5,1966-09-12
-1456,Timothy Springer,6,1948-02-23
-1457,Suyu Su & family,6,1948-11-24
-1458,Elizabeth Sy,5,1952-06-01
-1459,Sukanto Tanoto,3,1949-12-25
-1460,Jayshree Ullal,2,1961-03-27
-1461,Sunny Varkey,1,1957-04-09
-1462,Jitendra Virwani,4,1966-02-18
-1463,Wang Ren-sheng,3,1931-12-01
-1464,Wang Wenmo,5,1957-01-01
-1465,Thomas Wu,3,1950-04-01
-1466,Wu Ying,2,1964-04-16
-1467,Amy Wyss,3,1971-01-01
-1468,Xiang Guangming & family,6,1963-10-01
-1469,Xu Shugen,4,1965-06-12
-1470,Steven Meng Yang & family,3,1982-05-01
-1471,Clayton Zekelman,6,1969-01-01
-1472,Hongfei Zhao,4,1974-06-01
-1473,S. Daniel Abraham,3,1924-08-15
-1474,Aziz Akhannouch & family,2,1961-01-01
-1475,Andrey Andreev,1,1974-02-03
-1476,Ramon Ang,5,1954-01-14
-1477,Guilherme Benchimol,3,1976-07-07
-1478,Julio Bozano,3,1936-02-01
-1479,Ryan Breslow,6,1994-05-20
-1480,Cao Jianwei,1,1978-05-30
-1481,Herb Chambers,3,1942-01-01
-1482,Daniel Chiu,2,1960-11-30
-1483,Tim Cook,3,1960-11-01
-1484,Brunello Cucinelli & family,4,1953-09-03
-1485,Georgi Domuschiev,5,1972-08-06
-1486,Kiril Domuschiev,6,1969-04-18
-1487,Glenn Dubin,3,1957-04-13
-1488,James Duff,3,1961-03-07
-1489,Thomas Duff,4,1956-12-31
-1490,Robert Duggan,6,1944-04-28
-1491,Maria Franca Fissolo,1,1935-01-01
-1492,Fu Mingkang & family,3,1963-03-17
-1493,Jay Hennick,5,1957-01-20
-1494,Orion Hindawi,3,1980-01-10
-1495,Ji Qi,1,1966-10-01
-1496,Kim Chang-soo,6,1961-04-01
-1497,Vyacheslav Kim,6,1969-06-12
-1498,Kuan Kam Hon & family,1,1947-09-04
-1499,Egor Kulkov,3,1971-12-07
-1500,Josh Kushner,6,1985-06-12
-1501,Henry Laufer,6,1945-08-13
-1502,Thomas Lee,6,1944-03-27
-1503,Michael Lee-Chin,5,1951-01-03
-1504,Li Xuhui,2,1968-06-15
-1505,Lim Kok Thay,2,1951-08-16
-1506,Joao Roberto Marinho,2,1953-09-16
-1507,Jose Roberto Marinho,3,1955-12-26
-1508,Roberto Irineu Marinho,4,1947-10-13
-1509,Jim McKelvey,6,1965-10-19
-1510,Robert Miller,6,1933-05-23
-1511,David Nahmad,6,1947-04-14
-1512,Florentino Perez,6,1947-03-08
-1513,Jennifer Pritzker,6,1950-08-13
-1514,Linda Pritzker,5,1953-09-14
-1515,P.V. Ramprasad Reddy,5,1958-03-30
-1516,"Joe Rogers, Jr.",6,1946-12-02
-1517,Ruan Shuilong & family,4,1935-12-01
-1518,Phil Ruffin,6,1935-03-17
-1519,Vinod Saraf,3,1952-06-16
-1520,Maria-Elisabeth Schaeffler-Thumann,5,1941-08-17
-1521,Genhuo Shao,6,1965-07-29
-1522,Shen Xiqiang & family,6,1948-03-02
-1523,Shi Wen-long,5,1928-02-01
-1524,Thaksin Shinawatra,2,1949-07-26
-1525,Alexander Skorobogatko,2,1967-09-25
-1526,Sylvia Stroeher,2,1955-05-30
-1527,Wichai Thongtang,4,1947-01-01
-1528,Todd Wagner,4,1960-08-02
-1529,Wang Jianguo,5,1960-01-01
-1530,Shuifu Wang,5,1955-02-10
-1531,Wenbiao Wang,4,1957-01-01
-1532,Kanye West,5,1977-06-08
-1533,Evan Williams,6,1972-03-31
-1534,Zhongyi Wu,4,1973-10-28
-1535,Zhihan Xu,4,1972-11-30
-1536,Yan Zhi,2,1972-07-01
-1537,Michael Ying,2,1949-12-01
-1538,Yuan Liping,3,1971-01-01
-1539,Anu Aga,1,1942-08-01
-1540,Joy Alukkas,6,1956-09-04
-1541,Sezai Bacaksiz,5,1949-07-27
-1542,Baokun Bai,1,
-1543,Acharya Balkrishna,6,1972-07-25
-1544,Kiki Barki,2,1939-11-25
-1545,John Bloor,2,1943-06-16
-1546,Nicola Bulgari,1,1941-01-16
-1547,Alejandro Bulgheroni,3,1944-11-01
-1548,Fernando Chico Pardo,5,1952-02-15
-1549,Jose Luis Cutrale,1,1946-09-17
-1550,D. Leopoldo Del Pino,6,1962-07-30
-1551,James Dinan,2,1959-05-22
-1552,Francois Feuillet & family,6,1949-01-01
-1553,Guangming Fu & family,5,1953-10-02
-1554,Mario Gabelli,3,1942-03-31
-1555,Reinold Geiger,1,1947-07-10
-1556,He Zhenggang,5,1954-03-25
-1557,Roberto Hernandez Ramirez,2,1942-03-24
-1558,Hoi Kin Hong,3,1952-09-01
-1559,Huang Qiaoling,2,1958-11-15
-1560,Willis Johnson,2,1947-05-26
-1561,Keeree Kanjanapas,6,1950-10-18
-1562,Kim Dae-il,3,1980-01-26
-1563,Kim Hyoung-nyon,3,1976-01-01
-1564,Andrei Kozitsyn,1,1960-06-09
-1565,Thomas Kwok,2,1951-10-06
-1566,Lei Jufang,6,1953-01-03
-1567,David Lichtenstein,6,1961-11-21
-1568,Lin Dingqiang & family,1,1966-10-01
-1569,Mikhail Lomtadze,3,1975-10-17
-1570,Yusaku Maezawa,4,1975-11-22
-1571,Katarina Martinson,6,1981-05-04
-1572,Shouliang Miao,6,1955-01-01
-1573,Romano Minozzi,1,1935-03-06
-1574,Pedro Moreira Salles,6,1959-10-20
-1575,Alexander Nesis,3,1962-12-19
-1576,Nguyen Dang Quang,2,1963-08-23
-1577,Oei Hong Leong,1,1948-03-21
-1578,Nihat Ozdemir,4,1950-04-05
-1579,Gretel Packer,1,1966-04-01
-1580,Benjamin Zhengmin Pan & family,2,1969-12-01
-1581,Victor Pinchuk,1,1960-12-14
-1582,Alexander Ponomarenko,2,1964-10-27
-1583,Qi Jinxing,5,1962-03-28
-1584,Larry Robbins,6,1969-10-21
-1585,Dwight Schar,4,1942-02-08
-1586,Shi Yifeng,4,1974-01-01
-1587,Sun Hongjun,4,1973-07-01
-1588,Anand Surana,2,1971-03-24
-1589,Dilip Surana,4,1966-01-18
-1590,Djoko Susanto,2,1950-02-09
-1591,Sze Man Bok,2,1950-01-01
-1592,Alain Taravella,6,1948-01-01
-1593,Martin Viessmann,3,1953-10-10
-1594,Georg von Opel,2,1966-05-04
-1595,Changtian Wang,3,1965-04-26
-1596,Wang Chaobin,6,1956-01-01
-1597,Wang Chou-hsiong,3,1941-01-01
-1598,Wang Xiaoshen,1,1968-10-01
-1599,Wei Yin-Heng,1,1959-01-01
-1600,Xue Xiangdong & family,2,1959-02-10
-1601,Yuan Fugen & family,4,1950-11-15
-1602,David Zalik,4,1974-02-02
-1603,Leslie Alexander,2,1943-06-30
-1604,Igor Altushkin,2,1970-09-10
-1605,Roberto Angelini Rossi,2,1948-07-30
-1606,Nigel Austin,3,1970-09-25
-1607,Bang Jun-hyuk,5,1968-06-01
-1608,O. Francis Biondi,4,1964-07-04
-1609,Chang Byung-gyu,1,1973-04-25
-1610,Chen Gang,6,1968-01-01
-1611,Liying Chen,2,1975-10-30
-1612,Chen Xueli,5,1951-10-01
-1613,Chi Yufeng,5,1971-01-01
-1614,Mark Coombs,6,1961-01-01
-1615,Tench Coxe,3,1958-01-14
-1616,John de Mol,4,1955-03-24
-1617,Alfredo Egydio Arruda Villela Filho,5,1969-11-18
-1618,Ibrahim Erdemoglu,3,1962-09-26
-1619,Paul Foster,5,1957-10-08
-1620,James France,1,1944-10-24
-1621,Yasuhiro Fukushima,4,1947-08-18
-1622,Zhongru Gan,1,1948-07-01
-1623,Rahul Gautam,1,1952-11-18
-1624,Ali Ghodsi,4,1978-12-08
-1625,Giammaria Giuliani,4,1978-02-20
-1626,Christopher Goldsbury,1,1943-01-01
-1627,Alexandre Grendene Bartelle,3,1950-01-23
-1628,Surjit Kumar Gupta,5,1942-01-13
-1629,Brian Higgins,1,1965-02-08
-1630,David Hindawi,2,1944-12-08
-1631,Chengzhong Hu,1,1961-03-01
-1632,Huang Min,5,1973-07-01
-1633,Stanley Hubbard,2,1933-05-28
-1634,Hui Lin Chit,2,1953-06-16
-1635,Hal Jackman,1,1932-06-10
-1636,Stephen Jarislowsky,4,1925-09-09
-1637,George Joseph,1,1921-09-11
-1638,Kim Kardashian,6,1980-10-21
-1639,Dominika Kulczyk,2,1977-07-30
-1640,Edward Lampert,1,1962-07-19
-1641,Marc Lasry,6,1960-09-23
-1642,Michiel Le Roux,4,1949-05-20
-1643,Peter Leibinger,4,1967-01-01
-1644,Regine Leibinger,5,1963-01-01
-1645,Nicola Leibinger-Kammueller,6,1959-12-15
-1646,Wolfgang Leitner,5,1953-03-27
-1647,Liu Zhongtian & family,5,1964-02-01
-1648,Bill Malhotra,2,1949-09-08
-1649,George Marcus,1,1941-08-15
-1650,Yves-Loic Martin,5,1966-01-01
-1651,Gary Michelson,6,1949-01-14
-1652,Robert G. Miller,5,1945-07-03
-1653,Fernando Roberto Moreira Salles,1,1946-05-29
-1654,Joao Moreira Salles,2,1962-01-01
-1655,Walther Moreira Salles Junior,4,1956-04-12
-1656,Zugen Ni,1,1957-01-18
-1657,Liora Ofer,6,1953-12-22
-1658,Mrudula Parekh,6,1948-01-01
-1659,David Paul,6,1966-12-25
-1660,Pierre Karl Péladeau,4,1961-10-16
-1661,Miranda Qu,6,1985-01-01
-1662,Phillip T. (Terry) Ragon,5,1949-06-01
-1663,G. Rajendran,1,1942-10-05
-1664,Krit Ratanarak,6,1946-04-19
-1665,Jerry Reinsdorf,6,1936-02-25
-1666,Mochtar Riady & family,6,1929-05-12
-1667,Rajju Shroff,6,1933-10-20
-1668,Frank Slootman,5,1958-10-03
-1669,Henry Swieca,6,1957-05-09
-1670,Yuequn Tao,3,1960-01-01
-1671,Robert Toennies,6,1978-05-29
-1672,Torbjorn Tornqvist,2,1953-11-08
-1673,Zhenghua Wang,1,1944-04-25
-1674,Charlotte Colket Weber,6,1942-11-19
-1675,Wu Lanlan & family,5,1974-01-01
-1676,Wu Yulan,3,1969-08-26
-1677,Elaine Wynn,4,1942-04-28
-1678,Xu Shijun & family,6,1963-03-01
-1679,Xu Xudong & family,4,1970-03-01
-1680,Yang Xuegang,2,1965-02-01
-1681,Zhang Chuanwei & family,6,1962-06-15
-1682,Xuexin Zhang & family,6,1947-07-01
-1683,Noubar Afeyan,3,1962-07-25
-1684,Farkhad Akhmedov,2,1955-09-15
-1685,Marc Andreessen,1,1971-07-09
-1686,John Bicket,5,1980-03-20
-1687,Zadik Bino & family,5,1944-01-01
-1688,Christian Birkenstock,1,1972-09-21
-1689,Sanjit Biswas,6,1982-01-12
-1690,David Booth,6,1946-01-01
-1691,Josef Boquoi & family,4,1934-01-01
-1692,Saket Burman,2,1977-03-10
-1693,Mingtong Cai,1,1952-02-15
-1694,Chen Yung-tai,4,1936-01-20
-1695,Phongthep Chiaravanont,4,1952-01-01
-1696,Ivan Chrenko,1,1967-06-27
-1697,Sol Daurella,1,1966-01-01
-1698,Dulce Pugliese de Godoy Bueno,1,1947-12-12
-1699,Norbert Dentressangle,2,1954-07-09
-1700,Oleg Deripaska,1,1968-01-02
-1701,Dong Jinggui,6,
-1702,Keith Dunleavy & family,3,1969-06-25
-1703,Donald Foss,4,1944-06-18
-1704,Rolf Gerling,6,1954-12-15
-1705,G. Gnanalingam,6,1944-09-10
-1706,He Zhaoxi,5,1974-01-01
-1707,William Heinecke,4,1949-06-04
-1708,Huh Jae-myung,2,1971-05-01
-1709,Tianjiang Jia & family,4,1962-07-01
-1710,Michael Jordan,6,1963-02-17
-1711,Dmitry Kamenshchik,6,1968-04-26
-1712,Kim Taek-jin,2,1967-03-14
-1713,Koo Kwang-mo,5,1978-01-23
-1714,Anthony Langley,4,1954-12-02
-1715,Lee Joong-keun,6,1941-01-11
-1716,James Leininger,3,1945-03-30
-1717,Li Jianli,4,1972-09-27
-1718,Weiwei Li,1,1977-01-01
-1719,Li Zhigang,4,1976-06-01
-1720,Jimmy John Liautaud,4,1964-01-12
-1721,Louise Lindh,6,1979-10-20
-1722,Anand Mahindra,1,1955-05-01
-1723,Bruce Mathieson,2,1944-02-14
-1724,Billy Joe (Red) McCombs,4,1927-10-19
-1725,Deepak Mehta,1,1956-12-12
-1726,Mario Moretti Polegato & family,4,1952-08-16
-1727,Alberto Palatchi,5,1949-06-26
-1728,Nelson Peltz,1,1942-06-01
-1729,Jorge Perez,4,1949-10-17
-1730,Alberto Prada,4,1954-02-21
-1731,Marina Prada,5,1945-07-14
-1732,M.Satyanarayana Reddy,6,1957-04-18
-1733,Rihanna,3,1988-02-20
-1734,Arkady Rotenberg,1,1951-12-15
-1735,Dieter Schnabel,4,1946-01-01
-1736,Shang Xiaobo & family,2,1974-03-30
-1737,Shao Qinxiang,5,1954-09-01
-1738,Basudeo Singh,4,1940-11-20
-1739,Edward Stack,3,1954-12-27
-1740,Weijie Sun,4,1963-07-26
-1741,Vonnarat Tangkaravakoon,6,1971-09-11
-1742,Byron Trott,6,1958-12-02
-1743,Jan Van Geet,3,1971-04-23
-1744,Radha Vembu,2,1972-12-24
-1745,Patrizio Vinciarelli,1,1946-10-26
-1746,Mingwang Wang,5,1967-05-02
-1747,Wang Yanqing & family,6,1946-07-02
-1748,Lars Wingefors,5,1977-04-02
-1749,Stephen Winn,2,1946-09-12
-1750,Ian Wood & family,2,1942-07-21
-1751,Gordon Wu,3,1935-12-03
-1752,Wu Xiangdong,4,1969-01-01
-1753,Yao Kuizhang,2,1965-01-01
-1754,Vladimir Yevtushenkov,4,1948-09-25
-1755,Dasheng Yi,2,1961-02-01
-1756,Yu Lili,3,1968-01-01
-1757,Alan Zekelman,1,1962-10-01
-1758,Kaitian Zeng,4,1975-01-01
-1759,Zhang Jingzhang & family,6,1936-01-01
-1760,Zhang Yubai,2,1964-10-01
-1761,Zheng Hong & family,3,1950-10-22
-1762,Zhong Peifeng,6,1963-01-01
-1763,Zhou Zongwen & family,2,1957-03-01
-1764,Zhu Yiming,3,1972-07-01
-1765,Zhaojiang Zhu,4,1974-01-01
-1766,Anita Zucker,5,1952-01-19
-1767,"Herbert Allen, Jr. & family",3,1940-03-05
-1768,Vasily Anisimov,6,1951-09-19
-1769,Mori Arkin,3,1952-09-24
-1770,Semahat Sevim Arsel,2,1928-09-08
-1771,Clifford Asness,3,1966-10-17
-1772,Louis Bacon,4,1956-07-25
-1773,Hari Bhartia,5,1956-12-12
-1774,Shyam Bhartia,1,1952-11-09
-1775,Amit Burman,6,1969-07-01
-1776,Chen Shibin,1,1966-11-01
-1777,Chen Tianshi,1,1985-01-01
-1778,Robert Clark,6,1959-01-30
-1779,Ana Lucia de Mattos Barretto Villela,4,1973-10-25
-1780,Diao Zhizhong,6,1963-11-06
-1781,Jamie Dimon,5,1956-03-13
-1782,Gary Fegel,6,1974-01-01
-1783,Gao Yunfeng,2,1967-02-01
-1784,Philippe Ginestet & family,3,1954-01-01
-1785,Sam Goi,3,1946-12-28
-1786,Lance Gokongwei,3,1967-12-01
-1787,Sergei Gordeev,2,1972-11-22
-1788,Bill Gross,1,1944-04-13
-1789,Sue Gross,5,1950-02-17
-1790,Patrick Hanrahan,1,1955-05-08
-1791,Lutz Mario Helmig,6,1946-08-29
-1792,Ilkka Herlin,3,1959-01-01
-1793,Asok Kumar Hiranandani,4,1954-11-28
-1794,Hu Kunhui,3,1991-01-01
-1795,Archie Hwang,6,1952-08-20
-1796,Jared Isaacman,4,1983-02-11
-1797,Anurang Jain,5,1962-03-21
-1798,Jin Lei & family,5,1954-09-23
-1799,Sunjay Kapur,6,1971-10-15
-1800,Richard Kayne,4,1946-01-01
-1801,Randal J. Kirk,6,1954-03-01
-1802,Jim Koch,4,1949-05-27
-1803,William Koch,2,1940-05-03
-1804,Kagemasa Kozuki,4,1940-11-12
-1805,Arvind Lal,2,1949-08-22
-1806,Robert Langer,3,1948-08-29
-1807,Theodore Leonsis,2,1956-01-08
-1808,David Xueling Li,2,1973-01-01
-1809,Li Denghai,1,1949-09-01
-1810,Li Guoqing,3,1970-02-22
-1811,Li Jiaquan,4,1963-09-06
-1812,Li Rucheng,4,1951-06-13
-1813,Li Sze Lim,1,1957-04-01
-1814,Li Yongqing,5,1964-06-30
-1815,Lim Wee Chai,3,1958-01-07
-1816,Liu Aisen & family,1,1972-10-01
-1817,Liu Ming Chung,5,1963-01-01
-1818,Vincent Lo,2,1949-04-01
-1819,Brandt Louie,1,1943-07-05
-1820,Catherine Lozick,5,1945-05-01
-1821,Lu Zongjun,6,1963-06-01
-1822,Lv Jianming,4,1965-01-01
-1823,"Cargill MacMillan, III.",5,1959-12-21
-1824,Duncan MacMillan,6,1937-12-17
-1825,John MacMillan,2,1949-09-20
-1826,Martha MacMillan,5,1951-10-01
-1827,William MacMillan,2,1954-05-25
-1828,Terence (Terry) Matthews,5,1943-04-01
-1829,Kazuo Okada,4,1942-10-03
-1830,Tomas Olivo Lopez,2,1974-01-01
-1831,Jorge Pinheiro Koren de Lima,3,1972-11-09
-1832,Candido Pinheiro Koren de Lima Junior,4,1970-10-10
-1833,Qian Ying,1,1966-01-01
-1834,Ren Jinsheng & family,3,1963-01-01
-1835,Brian Roberts,1,1959-06-28
-1836,Austin Russell,6,1995-03-14
-1837,George Sakellaris,1,1946-06-03
-1838,Sheryl Sandberg,2,1969-08-28
-1839,Andres Santo Domingo,5,1978-06-01
-1840,Paul Saville,3,1955-12-14
-1841,Ivan Savvidis,1,1959-03-27
-1842,Michael Saylor,1,1965-02-04
-1843,Gerald Schwartz,1,1941-11-24
-1844,Sathien Setthasit,6,1954-04-20
-1845,Niraj Shah,5,1974-03-10
-1846,Keiichi Shibahara,1,1964-10-09
-1847,Evgeny (Eugene) Shvidler,4,1964-03-23
-1848,Ryan Smith,5,1978-06-28
-1849,Peter Sperling,6,1959-11-22
-1850,Ion Stoica,3,1965-02-12
-1851,Bambang Sutantio,5,1958-12-26
-1852,Tan Yu Yeh,1,1971-01-01
-1853,David Teoh,3,1956-01-01
-1854,Carl Thoma,5,1948-10-12
-1855,Ion Tiriac,4,1939-05-09
-1856,Clemens Toennies,6,1956-05-27
-1857,Tran Ba Duong & family,1,1960-04-01
-1858,Tung Ching Bor,3,1963-01-01
-1859,Tung Ching Sai,4,1965-01-01
-1860,Scott Watterson,2,1955-05-18
-1861,Wei Ing-Chou,4,1953-07-01
-1862,Wei Yin-Chun,5,1957-03-08
-1863,Wei Ying-Chiao,2,1955-02-04
-1864,Tom Werner,6,1950-04-12
-1865,Kie Chie Wong,2,1948-04-04
-1866,Xu Guozhong & family,1,1963-09-01
-1867,Xu Yuejuan,2,1962-01-24
-1868,Yang Tingdong,4,1960-05-20
-1869,Yu Peidi,1,1960-01-01
-1870,Matei Zaharia,4,1985-04-21
-1871,Zhang Jian,5,1969-01-01
-1872,Keqiang Zhang,5,1960-04-29
-1873,Zheng Jianjiang & family,6,1961-01-01
-1874,Zhong Sheng Jian,3,1958-03-03
-1875,Antti Aarnio-Wihuri,4,1940-02-24
-1876,Hamdi Akin & family,1,1955-01-01
-1877,Chirayu Amin,1,1946-12-04
-1878,Joachim Ante,1,1983-01-01
-1879,Ziv Aviram,4,1959-01-03
-1880,Danna Azrieli,6,1967-06-03
-1881,Naomi Azrieli,6,1965-09-26
-1882,Sharon Azrieli,2,1960-08-04
-1883,Lesley Bamberger,4,1965-06-03
-1884,Bernhard Braun-Luedicke,3,1977-01-01
-1885,Eva Maria Braun-Luedicke,3,1987-01-01
-1886,Ana Maria Brescia Cafferata,5,1924-04-19
-1887,Nikolai Buinov,6,1967-07-09
-1888,Paolo Bulgari,6,1937-09-08
-1889,Andres Bzurovski Bay,2,1977-09-04
-1890,Ahmet Calik,3,1958-03-01
-1891,Giuliana Caprotti,1,1940-11-21
-1892,Marina Caprotti,1,1978-01-17
-1893,Steve Case,1,1958-08-21
-1894,Safra Catz,2,1961-12-13
-1895,Binod Chaudhary,2,1955-04-14
-1896,Chen Baohua,1,1962-01-01
-1897,Xianbao Chen & family,3,1959-05-19
-1898,Chung Yong-jin,3,1968-09-19
-1899,Steve Conine,4,1972-08-28
-1900,Eduardo Costantini,5,1946-09-17
-1901,Wenjun Dai,5,1968-08-12
-1902,Bharat Desai,5,1952-11-20
-1903,Mohammed Dewji,3,1975-05-08
-1904,Mathias Doepfner,6,1963-01-15
-1905,Domenico Dolce,2,1958-08-13
-1906,Marek Dospiva,2,1969-07-18
-1907,Henrique Dubugras,1,1995-11-10
-1908,Egon Durban,2,1973-08-23
-1909,Bulent Eczacibasi,3,1949-12-25
-1910,Faruk Eczacibasi,2,1954-06-15
-1911,Henry Engelhardt,5,1958-01-17
-1912,Ali Erdemoglu,1,1959-11-20
-1913,Eduardo Eurnekian,1,1932-12-04
-1914,John Farber,6,1925-08-23
-1915,Clement Fayat & family,3,1932-01-24
-1916,Daniel Feffer,1,1959-10-28
-1917,David Feffer,5,1956-11-13
-1918,Ruben Feffer,6,
-1919,Feng Yuxia,4,1964-11-06
-1920,Sergio Fogel,3,1963-12-22
-1921,Pedro Franceschi,2,1996-07-19
-1922,Stefano Gabbana,5,1962-11-14
-1923,Yi Gao & family,5,1968-10-25
-1924,Geng Jianming,4,1962-09-01
-1925,Alan Gerry,2,1928-12-25
-1926,Balkrishan Goenka,3,1966-08-15
-1927,Esther Grether,1,1936-01-01
-1928,Gu Wei,6,1965-01-27
-1929,Torstein Hagen,5,1943-02-18
-1930,Kenneth Hao,2,1968-09-11
-1931,He Zhiping,6,1964-01-01
-1932,Timothy Headington,6,1950-04-24
-1933,Ilona Herlin,2,1965-01-01
-1934,Niranjan Hiranandani,2,1950-03-08
-1935,Drew Houston,3,1983-03-04
-1936,Huang Rulun,2,1951-09-18
-1937,Justin Ishbia,4,1977-09-18
-1938,Peter Jackson,6,1961-10-31
-1939,Jin Lei,4,1965-08-01
-1940,Jin Xin,6,1967-01-08
-1941,Conni Jonsson,4,1960-07-15
-1942,Jenny Just,2,1968-03-05
-1943,Ke Xiping & family,5,1960-06-07
-1944,Ke Zunhong & family,5,1954-07-01
-1945,Sidney Kimmel,6,1928-01-16
-1946,Seth Klarman,2,1957-05-01
-1947,Mustafa Rahmi Koc,2,1930-10-09
-1948,Pyotr Kondrashev,6,1949-07-16
-1949,Kong Jian Min,6,1968-01-01
-1950,Hemendra Kothari,2,1946-08-26
-1951,Eduard Kucera,1,1953-01-11
-1952,Christopher Kwok,5,1986-04-01
-1953,Edward Kwok,5,1981-04-01
-1954,Joe Lacob,1,1956-01-10
-1955,Lai Jianfa,1,
-1956,Manuel Lao Hernández,2,1944-06-10
-1957,Lee Joon-ho,5,1964-09-17
-1958,Manfredi Lefebvre d'Ovidio & family,3,1953-04-30
-1959,Zhen Li & family,5,1964-01-23
-1960,Rongfu Lu,5,1971-01-01
-1961,Rafique Malik,4,1950-10-31
-1962,Youssef Mansour,6,1945-05-21
-1963,Mao Lixiang & family,4,1941-01-01
-1964,David McMurtry,1,1940-05-03
-1965,Meng Qingshan & family,1,1948-11-17
-1966,Alan Miller & family,5,1937-08-17
-1967,Greg Mondre,4,1974-05-20
-1968,Massimo Moratti,1,1945-05-16
-1969,Robert Mouawad,5,1945-01-01
-1970,Ezra Nahmad,1,1945-07-31
-1971,Kentaro Ogawa,4,1948-07-01
-1972,Jonathan Oringer,5,1974-05-02
-1973,Niti Osathanugrah,6,1974-01-01
-1974,Dragos Paval,5,1966-06-22
-1975,Zach Perret,2,1987-09-17
-1976,Karl-Johan Persson,2,1975-03-25
-1977,Markus Persson,5,1979-06-01
-1978,Tom Persson,5,1985-01-01
-1979,Kevin Plank,1,1972-08-13
-1980,Andreas Pohl,5,1964-07-28
-1981,"Reinfried Pohl, Jr.",2,1959-11-02
-1982,Michael Polsky,3,1949-01-01
-1983,Qin Long,4,1965-07-01
-1984,G. M. Rao,5,1950-07-01
-1985,Mike Repole,3,1968-01-21
-1986,Fernando Roig,2,1947-06-25
-1987,Christopher Rokos,3,1970-09-21
-1988,Fayez Sarofim,6,1928-11-19
-1989,Antonio Luiz Seabra,6,1943-01-01
-1990,Amnon Shashua,1,1960-05-26
-1991,Yuri Shefler,2,1967-09-10
-1992,Mikhail Shelkov,4,1968-05-30
-1993,Charlotte Soderstrom,4,1977-01-01
-1994,Edwin Soeryadjaya,6,1949-07-17
-1995,Thomas Steyer,3,1957-06-27
-1996,Kevin Systrom,6,1983-12-30
-1997,Tang Binsen,5,1982-12-12
-1998,Hary Tanoesoedibjo,3,1965-09-26
-1999,Jonathan Tisch,3,1953-12-07
-2000,Wilma Tisch,2,1927-06-25
-2001,Kenny Troutt,6,1948-01-08
-2002,Thomas von Koch,4,1966-03-24
-2003,Junjin Wang,1,1968-12-01
-2004,Wang Zelong,5,1996-07-01
-2005,Myron Wentz,3,1940-01-01
-2006,Kaiting Wu,2,1969-12-01
-2007,Xiong Wu,6,1976-01-01
-2008,Xu Wanmao,4,1945-01-01
-2009,Xue Jiping,5,1951-01-01
-2010,Yang Jian,3,1972-01-01
-2011,Xinghai Zhang & family,2,1963-01-01
-2012,Xuansong Zhang,6,1971-10-09
-2013,Zhang Yin,6,1957-02-01
-2014,Chengjian Zhou,4,1965-04-30
-2015,Radhe Shyam Agarwal,5,1945-02-01
-2016,Syed Mokhtar AlBukhary,6,1951-12-12
-2017,Nerio Alessandri,6,1961-04-08
-2018,Patricia Angelini Rossi,6,1954-04-05
-2019,Tope Awotona,4,1981-04-22
-2020,Elena Baturina,4,1963-03-08
-2021,Sabrina Benetton,6,1973-10-04
-2022,Thomas Bruch,2,1950-04-25
-2023,Marina Budiman,5,1961-09-05
-2024,Stewart Butterfield,6,1973-03-21
-2025,Richard Chang,1,1947-01-01
-2026,Chen Tianqiao,2,1973-05-16
-2027,Chen Wenyuan & family,6,1968-01-01
-2028,Cheng Antares,2,1957-11-01
-2029,Chin Jong Hwa,1,1958-06-01
-2030,Jim Crane,2,1954-01-17
-2031,Thierry Cruanes,4,1967-06-23
-2032,Benoit Dageville,3,1966-06-29
-2033,Weili Dai,3,1961-09-14
-2034,Darwin Deason,5,1940-05-14
-2035,Diego Della Valle,5,1953-12-30
-2036,Deng Yingzhong,5,1951-01-01
-2037,Ding Shui Po,3,1970-11-01
-2038,Mark Dixon,1,1959-11-02
-2039,Du Shuanghua,3,1965-01-01
-2040,Mukand Lal Dua,1,1949-01-08
-2041,Ramesh Kumar Dua,2,1954-03-24
-2042,Fan Minhua,3,1961-10-23
-2043,Hongbo Fang,1,1967-01-01
-2044,"William Foley, II.",1,1944-12-29
-2045,Jayme Garfinkel & family,5,1945-11-30
-2046,Radhe Shyam Goenka,6,1946-02-01
-2047,Maggie Hardy Knox,5,1965-12-07
-2048,Ayman Hariri,4,1978-05-16
-2049,Christoph Henkel,6,1958-02-11
-2050,Daniel Hirschfeld,6,1941-05-31
-2051,William Hockey,4,1989-09-21
-2052,Huang Guanlin,4,1965-01-01
-2053,Huang Xiaofen & family,1,1962-01-01
-2054,Jay-Z,1,1969-12-04
-2055,Yintai Jiang & family,4,1950-07-30
-2056,Johan Johannson,1,1967-01-01
-2057,Ramesh Juneja,2,1955-07-28
-2058,Scott Kapnick,1,1959-02-09
-2059,Viktor Kharitonin,3,1972-11-20
-2060,Kim Jun-ki,6,1944-12-04
-2061,Kim Sang-yeol,5,1961-01-03
-2062,Yogesh Kothari,5,1949-01-01
-2063,Kurt Krieger,6,1948-04-02
-2064,Mustafa Kucuk,2,1963-06-03
-2065,Sebastian Kulczyk,5,1980-11-16
-2066,Gary Lauder,5,1962-05-05
-2067,Art Levinson,6,1950-03-31
-2068,Li Li,4,1964-02-09
-2069,Guangwei Liang,5,1963-09-01
-2070,Scott Lin,4,1933-01-01
-2071,Jenny Lindén Urnes,5,1971-03-29
-2072,Anatoly Lomakin,5,1952-06-30
-2073,Jeffrey Lorberbaum,5,1954-10-25
-2074,Gary Magness,3,1954-02-26
-2075,Zhongwu Mao,6,1962-08-13
-2076,Ilson Mateus & family,1,1963-02-06
-2077,Vadim Moshkovich,4,1967-04-06
-2078,Jerry Moyes & family,1,1944-01-15
-2079,George Alexander Muthoot,6,1955-09-16
-2080,George Jacob Muthoot,5,1952-09-21
-2081,George Thomas Muthoot,6,1950-12-25
-2082,Sara George Muthoot,1,1960-04-22
-2083,Marius Nacht,5,1966-01-01
-2084,Adam Neumann,6,1979-04-01
-2085,Simon Nixon,5,1967-08-01
-2086,Stefan Olsson,1,1949-01-01
-2087,Ranjan Pai,6,1972-11-11
-2088,Antonio Percassi,6,1953-06-09
-2089,Mark Pincus,5,1966-02-13
-2090,Alexey Repik,5,1979-08-27
-2091,Matthew Roszak,6,1972-12-09
-2092,Subhash Runwal,3,1943-05-22
-2093,Carlos Sanchez,4,1962-01-21
-2094,Martin Selig,6,1937-12-31
-2095,Bhadresh Shah,4,1951-10-07
-2096,Shu Ping,4,
-2097,Ben Silbermann,5,1982-07-14
-2098,Jared Smith,6,1974-10-02
-2099,Sun Qinghuan,1,1973-05-08
-2100,Denis Sverdlov,4,1978-06-06
-2101,Prachak Tangkaravakoon,1,1944-03-26
-2102,Lina Tombolato,4,1947-07-28
-2103,Tong Jinquan,5,1954-11-01
-2104,Luiza Helena Trajano,4,1951-10-09
-2105,John Van Lieshout,5,1946-01-12
-2106,Vardis Vardinoyannis & family,3,1933-01-01
-2107,Jens von Bahr,1,1971-02-22
-2108,Wang Jian,4,1954-01-01
-2109,Werner O. Weber,4,1939-02-09
-2110,Wei Lidong & family,1,1976-01-01
-2111,Drorit Wertheim,4,1956-01-01
-2112,Bo Wu,2,1954-05-01
-2113,Eugene Wu,5,1945-05-03
-2114,Wu Xushun & family,4,1948-04-28
-2115,Wenbo Xiang,4,1962-06-21
-2116,Swift Xie,3,1980-01-01
-2117,Xu Bingzhong,1,1974-01-01
-2118,Xu Shaochun,3,1963-01-01
-2119,Yan Junxu,6,1969-07-17
-2120,George Yancopoulos,4,1959-09-10
-2121,Gavril Yushvaev,4,1957-07-23
-2122,Zhuo Jun,4,1966-01-01
-2123,Fredrik Österberg,2,1971-01-19
-2124,Alberto Alcocer,3,1942-12-07
-2125,Alexandra Andresen,1,1996-07-23
-2126,Katharina Andresen,3,1995-05-21
-2127,Rutger Arnhult,1,1967-05-08
-2128,Anant Asavabhokin,5,1950-08-11
-2129,Mehmet Aydinlar,3,1956-07-27
-2130,Binny Bansal,2,1982-12-03
-2131,Sachin Bansal,6,1981-08-05
-2132,Barbara Benetton,5,1969-07-02
-2133,Othman Benjelloun & family,5,1932-11-01
-2134,Angela Bennett,6,1944-04-01
-2135,Oleg Boyko,1,1964-09-28
-2136,Anna Maria Braun,2,1979-01-01
-2137,Edouard Carmignac,1,1947-09-04
-2138,Anthony Casalena,4,1982-04-24
-2139,Chang Jing,6,1982-08-01
-2140,Jeffrey Cheah,3,1945-03-30
-2141,Chen Shiliang,6,1963-12-01
-2142,Yuantai Chen,1,1968-03-01
-2143,Cheng Xianfeng,1,1968-12-01
-2144,Chu Jian,1,1963-04-01
-2145,Chua Thian Poh,5,1948-07-11
-2146,Alberto Cortina,3,1946-01-20
-2147,Sandor Csanyi,5,1953-03-20
-2148,Sasson Dayan & family,2,1940-04-01
-2149,Anand Deshpande,2,1962-05-01
-2150,Richard Desmond,1,1951-12-08
-2151,Shlomo Eliahu,5,1936-01-18
-2152,Jose Roberto Ermirio de Moraes,1,1957-11-30
-2153,Jose Ermirio de Moraes Neto,6,1952-06-17
-2154,David Fattal & family,6,1957-06-22
-2155,Marvy Finger,3,1935-12-08
-2156,Adam Foroughi,6,1980-05-07
-2157,Richard Fortin,2,1948-09-01
-2158,Luiz Frias,5,1963-04-06
-2159,Susumu Fujita,2,1973-05-16
-2160,Simona Giorgetta,2,1977-04-24
-2161,Premchand Godha,6,1947-01-01
-2162,Mikhail Gutseriev & brother,5,1958-03-09
-2163,Hang Hong,2,1968-01-01
-2164,Alfredo Harp Helu & family,6,1944-03-11
-2165,Jaroslav Hascak & family,6,1969-08-30
-2166,He Zuxun,3,1965-10-28
-2167,David Hoffman,4,1952-08-07
-2168,Francis Holder,1,1941-01-01
-2169,Hu Rongda & family,5,1959-01-01
-2170,Wei Huang,5,1959-09-30
-2171,Zarakh Iliev,4,1966-09-09
-2172,Mitchell Jacobson,3,1951-03-06
-2173,Jiang Guiting & family,3,1958-07-01
-2174,Rajeev Juneja,6,1965-07-28
-2175,Peter Kelly,2,1957-07-01
-2176,Kim Nam-jung,2,1973-01-01
-2177,Koon Poh Ming,3,1956-11-17
-2178,Yuri Kovalchuk,1,1951-07-25
-2179,Michael Krasny,1,1953-08-08
-2180,Raymond Kwok,2,1953-04-10
-2181,Heikki Kyostila,1,1946-01-19
-2182,Lee Ho-jin,1,1962-12-08
-2183,Bernard Lewis & family,4,1926-02-10
-2184,Fengluan Li,4,1962-01-01
-2185,Hua Li,2,1978-01-01
-2186,Li Ruiqiang,6,1979-11-01
-2187,Lin Zhijun,3,1975-09-01
-2188,Lin Zhixiong & family,5,1973-07-01
-2189,Liu Ming Hui,3,1963-01-01
-2190,Xuejing Liu & family,6,1951-01-01
-2191,Lu Yonghua & family,5,1963-07-26
-2192,Zhaoxi Lu,2,1969-01-01
-2193,Frederic Luddy,3,1954-11-24
-2194,Miao Yongjun,6,1967-12-01
-2195,Martin Moller Nielsen,6,1964-08-01
-2196,Neide Helena de Moraes,4,1955-02-15
-2197,Yoshiko Mori,5,1940-09-24
-2198,Mofatraj Munot,4,1944-10-04
-2199,Randal Nardone,6,1955-06-22
-2200,God Nisanov,3,1972-04-24
-2201,Vadim Novinsky,4,1963-06-03
-2202,Satyanarayan Nuwal,3,1952-07-25
-2203,John Ocampo,6,1959-04-05
-2204,Pan Gang,6,1970-07-01
-2205,Forrest Preston,4,1933-03-22
-2206,Riju Raveendran,6,1982-11-11
-2207,P.P. Reddy,1,1957-08-30
-2208,P.V.Krishna Reddy,6,1969-06-30
-2209,Satish Reddy,3,1967-06-09
-2210,Lily Safra,2,1938-01-01
-2211,Richard Saghian,3,1981-08-06
-2212,Deniz Sahenk,5,1945-08-06
-2213,Thomas Sandell,1,1961-02-01
-2214,Hajime Satomi,4,1942-01-16
-2215,James Scapa,6,1957-01-23
-2216,Paul Sciarra,3,1981-02-15
-2217,Albert Shigaboutdinov,5,1952-11-12
-2218,Nobutoshi Shimamura,1,1926-03-08
-2219,Ron Sim,4,1958-12-01
-2220,Alexander Sixt,6,1979-10-24
-2221,Konstantin Sixt,1,1982-12-02
-2222,Terry Snow,5,1943-12-23
-2223,Marco Squinzi,1,1971-09-23
-2224,Veronica Squinzi,1,1972-01-01
-2225,Manny Stul,5,1949-05-09
-2226,Rustem Sulteev,4,1954-01-04
-2227,Sehat Sutardja,2,1961-07-09
-2228,Tony Tan Caktiong,4,1953-01-05
-2229,Jim Thompson,2,1940-01-14
-2230,Carmen Thyssen,3,1943-04-23
-2231,August Troendle,4,1956-01-01
-2232,Joop van den Ende,6,1942-02-23
-2233,Sekar Vembu,5,1972-01-01
-2234,Sandro Veronesi & family,2,1959-10-18
-2235,Wan Long,2,1940-09-01
-2236,Han Wang,3,1987-08-01
-2237,Wang Jianyi,6,1963-01-12
-2238,Wang Qinghua,2,1965-07-01
-2239,Pengcheng Wen & family,2,1962-10-08
-2240,"Alfred West, Jr.",5,1942-12-07
-2241,Dan Wilks,2,1956-05-30
-2242,Farris Wilks,4,1952-02-09
-2243,Gang Xu,5,1963-04-17
-2244,Xu Jin,1,1965-01-24
-2245,Tony Xu,2,1984-09-20
-2246,Ye Yanqiao,5,1969-10-01
-2247,Patrick Zalupski,6,1980-11-29
-2248,Shengda Zan,1,1963-04-02
-2249,Zeng Chaoyi,2,1969-04-01
-2250,Zhang Guiping & family,2,1951-08-21
-2251,Peng Zhao,2,1971-01-01
-2252,Zheng Zhiguo,1,1971-10-01
-2253,Kostyantin Zhevago,5,1974-01-07
-2254,Zhou Mingjie,1,1957-08-01
-2255,Zhu Xingliang,4,1959-05-01
-2256,Sanjay Agarwal,3,1970-09-08
-2257,Hamad bin Jassim bin Jaber Al Thani,4,1959-10-01
-2258,Betty Ang,6,1954-11-13
-2259,Christian Angermayer,2,1978-04-26
-2260,Mika Anttonen,2,1966-12-18
-2261,Jose Maria Aristrain,4,1962-11-02
-2262,Emilio Azcarraga Jean,5,1968-02-21
-2263,Thomas Bailey,2,1937-01-01
-2264,Andrei Bokarev,2,1966-10-23
-2265,Stephane Bonvin,2,1967-01-01
-2266,Ashok Boob,6,1952-03-02
-2267,Ludwig Theodor Braun,4,1990-01-01
-2268,Friederike Braun-Luedicke,1,1984-01-01
-2269,Pradip Burman,5,1942-11-02
-2270,Jiancheng Chen,1,1959-01-13
-2271,Chen Xueling,2,1967-10-16
-2272,Cheng Lili,5,1965-01-01
-2273,Yvon Chouinard,4,1938-11-09
-2274,Luigi Cremonini & family,5,1939-04-28
-2275,Tim Draper,1,1958-06-11
-2276,Fan Zhaoxia & family,4,1967-07-20
-2277,Gleb Fetisov,2,1966-06-05
-2278,Robert Fisher,2,1953-08-01
-2279,William Fisher,6,1957-04-01
-2280,J. Christopher Flowers,2,1957-10-27
-2281,Bernd Freier,6,1957-01-01
-2282,Geng Diangen,1,1956-12-03
-2283,Dan Gertler,6,1973-12-23
-2284,David Girouard,2,1966-03-13
-2285,John Goff,3,1955-01-01
-2286,Lawrence Golub,4,1959-10-03
-2287,Sven Hagströmer,1,1943-11-30
-2288,Fahed Hariri,4,1980-12-29
-2289,Richard Hayne,2,1947-09-01
-2290,He Yamin & family,4,1957-02-23
-2291,Michael Heine,5,1949-11-01
-2292,Heikki Herlin,1,1987-01-01
-2293,Hong Feng,4,1977-01-01
-2294,Hu Kun,2,1969-09-01
-2295,Huang Hongyun & family,6,1966-06-26
-2296,Shanbing Huang & family,1,1956-10-16
-2297,Huang Shih Tsai,4,1951-06-01
-2298,Huang Wenbiao,4,1967-05-01
-2299,Mohammed Ibrahim,1,1946-05-03
-2300,Hedda im Brahm-Droege,4,1955-01-01
-2301,Rameshchandra Jain,4,1948-06-22
-2302,Laurent Junique,6,1966-01-01
-2303,Zbigniew Juroszek & family,1,1962-07-07
-2304,Chatchai Kaewbootta,4,1951-07-05
-2305,Shirley Kao,1,1956-09-02
-2306,Ipek Kirac,3,1984-11-28
-2307,Carsten Koerl,5,1964-11-27
-2308,Andrei Kosogov,5,1961-03-15
-2309,John Krystynak,5,1968-05-01
-2310,John Kusuma,5,1966-11-18
-2311,Hartono Kweefanus,6,1950-01-25
-2312,Kwek Leng Peck,5,1956-01-01
-2313,Kristo Käärmann,4,1980-09-01
-2314,Guy Laliberté,1,1960-01-01
-2315,Lee Sang-ryul,6,1961-10-21
-2316,Lee Seung-gun,6,1982-01-30
-2317,Hongjing Li,2,1968-02-01
-2318,Li Wanqiang,2,1977-08-01
-2319,Lu Hongyan,4,1977-05-31
-2320,Dalong Lv,3,1962-03-12
-2321,Carsten Maschmeyer,2,1959-05-08
-2322,Todd McKinnon,5,1971-10-25
-2323,Rubens Menin Teixeira de Souza,2,1956-03-12
-2324,Lorinc Meszaros,2,1966-02-25
-2325,Park Kwan-ho,2,1972-01-11
-2326,George Pedersen,2,1935-08-18
-2327,David Penaloza Alanis,5,1974-01-01
-2328,Stefan Pierer,4,1956-11-25
-2329,Murdaya Poo,2,1941-01-12
-2330,Michael Price,1,1952-07-03
-2331,Leonid Radvinsky,4,1982-01-05
-2332,Megdet Rahimkulov & family,3,1945-10-16
-2333,Andrei Rappoport,3,1963-06-22
-2334,Dasari Uday Kumar Reddy,2,1967-05-01
-2335,Helena Revoredo,4,1947-02-10
-2336,Duke Reyes,5,1957-03-23
-2337,Nobutada Saji,5,1945-11-25
-2338,Leonard Schleifer,4,1952-07-07
-2339,Airat Shaimiev,4,1962-03-07
-2340,Radik Shaimiev,6,1964-11-14
-2341,Vijay Shekhar Sharma,1,1978-06-07
-2342,Devi Shetty,3,1953-01-01
-2343,Shum Chiu Hung & family,1,
-2344,Michael Steinhardt,5,1940-12-07
-2345,Petter Stordalen & family,5,1962-11-29
-2346,Winarko Sulistyo,5,1945-12-10
-2347,Sun Huaiqing & family,6,1969-10-02
-2348,Luc Tack,4,1961-09-01
-2349,Lucio Tan,4,1934-07-17
-2350,Yoshikazu Tanaka,2,1977-02-18
-2351,Stanley Tang,1,1992-10-27
-2352,Sam Tarascio,5,1944-07-22
-2353,Alexander Tedja,1,1945-09-22
-2354,Laurie Tisch,3,1951-02-19
-2355,Steven Tisch,6,1949-02-14
-2356,Stefania Triva,3,1964-10-04
-2357,Maria Grace Uy,4,1968-04-25
-2358,Wim van der Leegte,6,1947-08-23
-2359,Thongma Vijitpongpun,3,1957-07-08
-2360,Jianfeng Wang & family,2,
-2361,Wang Jilei,3,1965-01-01
-2362,Wang Junmin,6,1968-12-12
-2363,Wang Kunxiao,1,1969-06-23
-2364,Wang Zhentao & family,3,1965-05-14
-2365,J. Wayne Weaver,4,1935-09-01
-2366,Weng Xianding,6,1961-11-28
-2367,Horst Wortmann,4,1941-05-08
-2368,Wu Chung-yi,2,1955-07-01
-2369,Wu Li-gann,5,1941-01-01
-2370,Wu Peifu & family,1,1961-10-10
-2371,Xiu Laigui,2,1954-07-01
-2372,Faxiang Yu,4,1971-10-07
-2373,Zeng Chaolin,2,1982-08-01
-2374,Zhang Tianyu,4,1967-08-08
-2375,Shusheng Zheng,3,1966-01-01
-2376,A. Jayson Adair,3,1969-10-16
-2377,Joao Alves de Queiroz Filho,2,1953-01-01
-2378,Ryuji Arai,4,1946-05-28
-2379,Sara Blakely,6,1971-02-27
-2380,Lloyd Blankfein,4,1954-09-20
-2381,Henadiy Boholyubov,4,1962-01-01
-2382,Casper Callerström,4,1973-04-08
-2383,Kejian Cao,4,1962-04-10
-2384,Turgay Ciner,2,1956-03-01
-2385,Dai Lizhong,2,1968-07-01
-2386,Pedro de Godoy Bueno,2,1990-04-14
-2387,Aydin Dogan,5,1936-04-15
-2388,Wolfgang Egger,4,1965-08-18
-2389,Gabriel Escarrer,1,1935-03-02
-2390,Richard Fairbank,2,1950-09-01
-2391,Andy Fang,5,1992-06-21
-2392,Paul Fireman,4,1944-02-14
-2393,Donald Friese,1,1940-10-03
-2394,Soichiro Fukutake,2,1945-12-14
-2395,Antonio Gallardo Ballart,6,1936-03-12
-2396,David Golub,5,1962-04-16
-2397,Guan Yihong,2,
-2398,Stelios Haji-Ioannou,2,1967-02-14
-2399,Mustafa Hamied,5,1940-10-23
-2400,Ronnen Harary,4,1972-01-01
-2401,David Helgason,1,1978-01-01
-2402,Eduardo Hochschild,4,1963-12-04
-2403,Hong Seok-joh,4,1953-01-08
-2404,Huang Xu,3,1967-09-01
-2405,Subba Rao Jasti,5,1927-01-01
-2406,Long Jiang,6,1974-02-01
-2407,Jiang Xuefei & family,5,1969-12-08
-2408,Jonas Kamprad,4,1966-03-04
-2409,Mathias Kamprad,1,1969-06-27
-2410,Peter Kamprad,4,1964-03-29
-2411,Andrew Karam,3,1982-02-12
-2412,Samvel Karapetyan,2,1965-08-18
-2413,Alexander Karp,6,1967-10-01
-2414,Ke Guihua,6,1965-10-13
-2415,Kim Jung-woong,2,1975-01-01
-2416,Harry Klagsbrun,1,1954-07-22
-2417,Alexander Knauf,6,1974-05-30
-2418,Koh Wee Meng,4,1963-07-01
-2419,Sergei Kolesnikov,5,1972-02-25
-2420,Andrei Komarov,5,1966-10-11
-2421,Koo Bon-neung,5,1949-03-26
-2422,Koo Bon-sik,5,1958-06-28
-2423,Suresh Krishna,5,1936-12-24
-2424,Nancy Lerner,1,1960-05-11
-2425,Norma Lerner,1,1936-03-28
-2426,Randolph Lerner,1,1962-02-21
-2427,Li Shui-po,5,1956-08-01
-2428,Li Tan,2,1964-12-19
-2429,Li Wenmei & family,3,1962-10-27
-2430,Lim Hariyanto Wijaya Sarwono,3,1928-11-01
-2431,Lin Jie & family,4,1969-01-31
-2432,Liu Chengyu & family,2,1962-07-26
-2433,Lou Boliang,1,1963-09-01
-2434,Lun Ruixiang & family,1,1968-01-01
-2435,Lv Yongxiang,6,1950-01-03
-2436,Ma Xiuhui,3,1971-01-07
-2437,Yasseen Mansour,2,1961-08-08
-2438,Jorge Mas,2,1963-02-28
-2439,Ulrike Meister,4,1967-03-13
-2440,Jeffrey Michael & family,2,1956-07-18
-2441,Soichiro Minami,6,1976-06-15
-2442,Bob Muglia,3,1959-10-02
-2443,Erik Must,3,1943-01-26
-2444,Kerr Neilson,1,1949-10-17
-2445,John Oyler,3,1968-04-03
-2446,Park Hyeon-joo,4,1958-10-17
-2447,Jose Isaac Peres & family,3,1940-07-18
-2448,John Phillips,5,1951-01-01
-2449,Pu Zhongjie & family,3,1963-01-01
-2450,Qian Xiaojun,3,1975-02-01
-2451,Anton Rabie,2,1972-01-01
-2452,Igor Rybakov,4,1972-05-16
-2453,K. Rai Sahi,4,1946-04-30
-2454,"Karl Scheufele, III. & family",1,1939-01-01
-2455,Steven Schuurman,3,1975-09-24
-2456,Analjit Singh,5,1954-01-11
-2457,Kavita Singhania,4,1962-01-01
-2458,Michael S. Smith,2,1955-05-09
-2459,Scott Smith,4,1949-04-12
-2460,Ashok Soota,6,1942-11-12
-2461,Michael Spencer,4,1955-05-30
-2462,Venu Srinivasan,6,1952-12-11
-2463,Dirk Stroeer,1,1969-01-01
-2464,Susanto Suwarto,5,1956-02-09
-2465,Xiuguo Tang,3,1963-08-25
-2466,Mehmet Sinan Tara,4,1958-05-24
-2467,Robert Toll,2,1940-12-30
-2468,Surin Upatkoon,1,1949-04-18
-2469,Sunil Vachani,1,1968-11-27
-2470,Murat Vargi,4,1947-11-14
-2471,Pongsak Viddayakorn,4,1934-03-23
-2472,Wang Shumin,5,1957-01-11
-2473,Anne Werninghaus,4,1986-01-01
-2474,Allan Wong,5,1950-04-01
-2475,Chaoqun Wu,6,1969-05-18
-2476,Wu Yonghua,4,1971-01-01
-2477,Wu Zhenxing,2,1969-10-01
-2478,Xia Xinde,2,1964-10-15
-2479,Xiong Jun & family,5,1974-02-06
-2480,Jane Yan & family,4,1969-07-19
-2481,Yang Erzhu,6,1951-01-01
-2482,Vlad Yatsenko,4,1983-08-30
-2483,Yi Xianzhong & family,1,1959-05-01
-2484,Yoshiaki Yoshida,4,1941-01-31
-2485,Yu Rong,3,1971-12-14
-2486,Igor Yusufov,3,1956-06-12
-2487,Zhang Cheng Fei,3,1967-10-01
-2488,Zhang Fangliang,3,1965-01-01
-2489,Baoshen Zhong,6,1967-12-01
-2490,Zhou Minghua,4,1964-01-01
-2491,Krishna Kumar Bangur,1,1960-07-02
-2492,"Wilbur  'Ed' Bosarge, Jr.",5,1939-07-28
-2493,Johanna Braun,5,1980-01-01
-2494,Karl Friedrich Braun,1,1983-01-01
-2495,Jean-Pierre Cayard,5,1943-01-01
-2496,Tony Chen,1,1949-07-01
-2497,Vivien Chen,5,1959-01-14
-2498,Chey Ki-won,5,1964-07-06
-2499,Pollyanna Chu,4,1958-04-01
-2500,Roy Chi Ping Chung,1,1953-04-01
-2501,Doug Clarke,5,1981-01-01
-2502,Ronald Clarke,1,1955-08-15
-2503,Jean-Paul Clozel,3,1955-04-03
-2504,Carl DeSantis,5,1939-07-19
-2505,Sefik Yilmaz Dizdar,2,1938-03-16
-2506,Charles Dunstone,1,1964-01-01
-2507,Larry Fink,2,1952-11-02
-2508,Fu Gang,4,1970-05-01
-2509,Jorge Gallardo Ballart,3,1941-09-26
-2510,Nari Genomal,1,1940-01-01
-2511,Ramesh Genomal,3,1951-01-01
-2512,Sunder Genomal,2,1954-01-01
-2513,Horst-Otto Gerberding,2,1952-07-08
-2514,Guo Jiangang,1,1966-08-15
-2515,Polys Haji-Ioannou,2,1960-01-11
-2516,Huang Jian,3,1967-01-01
-2517,Huang Jinxiang & family,6,1965-01-27
-2518,Huang Weibin,4,1967-09-01
-2519,Hiroshi Ishibashi,5,1946-08-01
-2520,Bent Jensen,5,1951-12-15
-2521,Boris Jordan,6,1966-06-02
-2522,Morris Kahn,3,1930-01-01
-2523,Marcelo Kalim,6,1969-10-15
-2524,Eugene Kaspersky,3,1965-10-04
-2525,Kangbao Ke & family,4,1963-01-01
-2526,Yunfeng Ke & family,5,1967-01-01
-2527,Ken Kendrick,5,1943-09-02
-2528,Ihor Kolomoyskyy,6,1963-02-13
-2529,Jeff Lawson,3,1977-06-21
-2530,Liang Jiankun & family,6,1961-07-01
-2531,Liu Baolin,5,1953-06-01
-2532,Liu Quan,3,1976-12-03
-2533,Udo Mueller,4,1962-01-01
-2534,Bruce Nordstrom,3,1933-10-01
-2535,Scott Nuttall,3,1972-11-25
-2536,Roberto Ongpin,5,1937-01-06
-2537,Adrian Paval,4,1968-09-23
-2538,Tyler Perry,2,1969-09-14
-2539,Grant Petty,3,1969-01-01
-2540,G.V. Prasad,4,1960-11-22
-2541,Qiu Zixin,1,1963-11-01
-2542,Jupally Rameshwar Rao,1,1955-09-16
-2543,Vera Rechulski Santo Domingo,5,1948-12-26
-2544,Michael Rees,5,1975-03-19
-2545,Mark Rein,5,1963-05-02
-2546,Ren Zhengfei,3,1944-01-01
-2547,Francisco Jose Riberas Mera,1,1964-06-01
-2548,Boris Rotenberg,2,1957-01-03
-2549,Chanchai Ruayrungruang,1,1954-01-01
-2550,Alan Rydge,2,1952-06-24
-2551,Oliver Samwer,5,1973-08-09
-2552,Glenn Sanford,3,1966-10-15
-2553,Dhruv Sawhney,2,1944-06-26
-2554,Neerja Sethi,2,1955-01-16
-2555,Ramesh Chandra Sharma,3,1945-01-03
-2556,Dean Solon,2,1965-01-01
-2557,Mike Speiser,5,1971-01-25
-2558,Jeff Sprecher,5,1955-02-23
-2559,Axel Stawski,1,1950-11-14
-2560,Joseph Steinberg,3,1944-02-05
-2561,Bhawari Bai Surana,3,1945-09-28
-2562,Ruiqing Tan,4,1966-10-05
-2563,Masaru Tange,4,1974-09-22
-2564,Dennis Anthony Uy,6,1966-06-01
-2565,Peter-Alexander Wacker,6,1951-10-02
-2566,Shigefumi Wada & family,1,1952-08-30
-2567,Wang Qiangxiang,1,1971-09-19
-2568,Xiong Shaoming,2,1971-01-01
-2569,Shintaro Yamada,5,1977-09-21
-2570,Mark Haoyong Yang,4,1974-08-16
-2571,Yao Hsiao Tung,6,1940-01-01
-2572,Yao Liangbo,4,1969-04-01
-2573,Ye Qiongjiu,4,1954-10-14
-2574,"Richard Yuengling, Jr.",3,1943-03-10
-2575,Zhang Kapeng,1,1965-01-01
-2576,Zhang Yuqiang,1,1955-09-01
-2577,Zhou Ruxin,2,1963-03-01
-2578,Wen Zhou & family,6,1965-03-06
-2579,Zhou Yifeng & family,2,1978-07-11
-2580,Zhuang Kuilong & family,3,1962-06-15
+21,Elon Musk,class B,1971-06-28
+22,Jeff Bezos,class A,1964-01-12
+23,Bernard Arnault & family,class A,1949-03-05
+24,Bill Gates,class C,1955-10-28
+25,Warren Buffett,class C,1930-08-30
+26,Larry Page,class A,1973-03-26
+27,Sergey Brin,class A,1973-08-21
+28,Larry Ellison,class B,1944-08-17
+29,Steve Ballmer,class F,1956-03-24
+30,Mukesh Ambani,class B,1957-04-19
+31,Gautam Adani & family,class A,1962-06-24
+32,Michael Bloomberg,class F,1942-02-14
+33,Carlos Slim Helu & family,class A,1940-01-28
+34,Francoise Bettencourt Meyers & family,class D,1953-07-10
+35,Mark Zuckerberg,class E,1984-05-14
+36,Jim Walton,class F,1948-06-07
+37,Zhong Shanshan,class A,1954-12-01
+38,Alice Walton,class A,1949-10-07
+39,Rob Walton,class E,1944-10-27
+40,Changpeng Zhao,class D,1977-09-10
+41,Charles Koch,class E,1935-11-01
+42,Julia Koch & family,class B,1962-04-12
+43,Amancio Ortega,class F,1936-03-28
+44,Michael Dell,class B,1965-02-23
+45,Zhang Yiming,class F,1984-01-01
+46,David Thomson & family,class A,1957-06-12
+47,Phil Knight & family,class A,1938-02-24
+48,Dieter Schwarz,class D,1939-09-24
+49,Robin Zeng,class A,1969-01-01
+50,MacKenzie Scott,class F,1970-04-07
+51,Rodolphe Saadé & family,class C,1970-03-03
+52,François Pinault & family,class D,1936-08-21
+53,Klaus-Michael Kuehne,class B,1937-06-02
+54,Ma Huateng,class E,1971-10-29
+55,Giovanni Ferrero,class D,1964-09-21
+56,Li Ka-shing,class C,1928-06-13
+57,Stephen Schwarzman,class A,1947-02-14
+58,Lee Shau Kee,class D,1928-01-29
+59,Len Blavatnik,class B,1957-06-01
+60,Jacqueline Mars,class D,1939-10-10
+61,John Mars,class D,1935-10-15
+62,Alain Wertheimer,class C,1948-08-28
+63,Gerard Wertheimer,class F,1951-01-09
+64,German Larrea Mota Velasco & family,class C,1953-10-26
+65,Gina Rinehart,class C,1954-02-09
+66,Shiv Nadar,class E,1945-07-18
+67,Jim Simons,class F,1938-04-25
+68,He Xiangjian,class F,1942-08-11
+69,Miriam Adelson,class F,1945-10-10
+70,Dietrich Mateschitz,class C,1944-05-20
+71,Leonardo Del Vecchio & family,class D,1935-05-22
+72,Ken Griffin,class A,1968-10-15
+73,Tadashi Yanai & family,class A,1949-02-07
+74,William Lei Ding,class F,1971-10-01
+75,Susanne Klatten,class A,1962-04-28
+76,Cyrus Poonawalla,class D,1941-05-11
+77,Wang Wei,class F,1970-10-01
+78,Qin Yinglin,class B,1965-04-17
+79,Sam Bankman-Fried,class D,1992-03-05
+80,Takemitsu Takizaki,class A,1945-06-10
+81,Li Shufu,class B,1963-06-01
+82,Emmanuel Besnier,class D,1970-09-18
+83,R. Budi Hartono,class A,1941-01-01
+84,Leonard Lauder,class B,1933-03-19
+85,Iris Fontbona & family,class F,1943-01-01
+86,Jack Ma,class E,1964-09-10
+87,Michael Hartono,class C,1939-10-02
+88,Eric Schmidt,class A,1955-04-27
+89,Ray Dalio,class D,1949-08-08
+90,Daniel Gilbert,class F,1962-01-17
+91,"Thomas Frist, Jr. & family",class A,1938-08-12
+92,Masayoshi Son,class C,1957-08-11
+93,Abigail Johnson,class B,1961-12-19
+94,Rupert Murdoch & family,class E,1931-03-11
+95,Stefan Quandt,class E,1966-05-09
+96,Jensen Huang,class C,1963-02-17
+97,Huang Shilin,class E,1967-01-01
+98,Thomas Peterffy,class B,1944-09-30
+99,Radhakishan Damani,class B,1955-01-01
+100,Pang Kang,class D,1956-01-19
+101,Wang Chuanfu,class C,1966-02-15
+102,Reinhold Wuerth & family,class C,1935-04-20
+103,"Theo Albrecht, Jr. & family",class D,1951-01-01
+104,Yang Huiyan & family,class F,1981-09-27
+105,Vladimir Lisin,class A,1956-05-07
+106,Fan Hongwei & family,class D,1967-01-01
+107,Lakshmi Mittal,class A,1950-06-15
+108,Andrew Forrest,class B,1961-11-18
+109,Jiang Rensheng & family,class C,1953-10-08
+110,Savitri Jindal & family,class E,1950-03-20
+111,Wang Wenyin,class E,1968-01-01
+112,Li Xiting,class E,1951-01-01
+113,Stefan Persson,class E,1947-10-04
+114,Steve Cohen,class B,1956-06-11
+115,Vladimir Potanin,class D,1961-01-03
+116,Harold Hamm & family,class D,1945-12-11
+117,Sun Piaoyang,class A,1958-09-01
+118,Luo Liguo & family,class F,1956-03-01
+119,Peter Woo,class F,1946-09-05
+120,Gianluigi & Rafaela Aponte,class B,1940-06-27
+121,David Tepper,class A,1957-09-11
+122,Renata Kellnerova & family,class C,1967-07-04
+123,"John Menard, Jr.",class C,1940-01-22
+124,Kumar Birla,class F,1967-06-14
+125,Carl Icahn,class A,1936-02-16
+126,Lukas Walton,class B,1986-09-19
+127,Laurene Powell Jobs & family,class E,1963-11-06
+128,James Ratcliffe,class F,1953-01-01
+129,Donald Bren,class B,1932-05-11
+130,Xu Hang,class F,1966-05-22
+131,Lu Xiangyang,class B,1962-12-28
+132,Dilip Shanghvi,class A,1955-10-01
+133,Wei Jianjun & family,class C,1964-03-01
+134,Jorge Paulo Lemann & family,class F,1939-08-26
+135,Eyal Ofer,class A,1950-06-02
+136,Mike Cannon-Brookes,class F,1979-11-17
+137,Wu Yajun,class C,1964-01-01
+138,Charlene de Carvalho-Heineken & family,class B,1954-06-30
+139,Michael Platt,class C,1968-03-18
+140,Pavel Durov,class F,1984-10-10
+141,Scott Farquhar,class B,1979-12-17
+142,Pallonji Mistry,class F,1929-06-01
+143,Dang Yanbao,class F,1973-02-01
+144,Robert Pera,class A,1978-03-10
+145,Donald Newhouse,class A,1929-08-05
+146,Uday Kotak,class E,1959-03-15
+147,Aliko Dangote,class C,1957-04-10
+148,Leonid Mikhelson,class E,1955-08-11
+149,Sunil Mittal & family,class A,1957-10-23
+150,Liu Hanyuan,class D,1964-01-01
+151,Joseph Lau,class D,1951-07-21
+152,Anders Holch Povlsen,class F,1972-11-04
+153,Dhanin Chearavanont,class E,1939-04-19
+154,Gong Hongjia & family,class F,1965-01-01
+155,Liu Yongxing,class C,1948-06-01
+156,Alexey Mordashov,class A,1965-09-26
+157,Wang Jianlin,class A,1954-10-01
+158,David Duffield,class C,1940-09-21
+159,Li Zhenguo & family,class E,1968-01-01
+160,Harry Triguboff,class B,1933-03-03
+161,Zhang Zhidong,class F,1972-01-01
+162,Chen Bang,class C,1965-09-01
+163,John Doerr,class D,1951-06-29
+164,Kwong Siu-hing,class E,1929-12-02
+165,Pei Zhenhua,class F,1959-01-01
+166,Ricardo Salinas Pliego & family,class D,1955-10-19
+167,Jim Pattison,class D,1928-10-01
+168,Charles Schwab,class A,1937-07-29
+169,Goh Cheng Liang,class F,1927-06-27
+170,Lin Jianhua & family,class B,1962-08-01
+171,Charoen Sirivadhanabhakdi,class F,1944-05-02
+172,Jeff Yass,class F,1958-07-17
+173,John Fredriksen,class E,1945-02-01
+174,Andreas Struengmann & family,class B,1950-02-16
+175,Thomas Struengmann & family,class B,1950-02-16
+176,Mikhail Fridman,class B,1964-04-21
+177,Sarath Ratanavadi,class B,1965-07-12
+178,Robert Kuok,class D,1923-10-06
+179,Lei Jun,class F,1969-12-16
+180,Lui Che Woo,class E,1929-04-01
+181,Brian Chesky,class D,1981-08-29
+182,Israel Englander,class D,1948-09-30
+183,Dustin Moskovitz,class C,1984-05-22
+184,Alisher Usmanov,class A,1953-09-09
+185,Jay Chaudhry,class E,1959-08-26
+186,Anthony Pratt,class E,1960-04-11
+187,Colin Zheng Huang,class B,1980-02-02
+188,Jin Baofang,class C,1952-09-01
+189,Pierre Omidyar,class B,1967-06-21
+190,Gennady Timchenko,class F,1952-11-09
+191,Carl Cook,class E,1962-08-19
+192,Andrey Melnichenko,class E,1972-03-08
+193,Xing Wang,class B,1979-02-18
+194,Philip Anschutz,class B,1939-12-28
+195,David Cheriton,class A,1951-03-29
+196,Alexander Otto,class A,1967-07-07
+197,Diane Hendricks,class A,1947-03-02
+198,Stanley Kroenke,class C,1947-07-29
+199,Jerry Jones,class D,1942-10-13
+200,Quek Leng Chan,class A,1941-08-12
+201,Eduardo Saverin,class E,1982-03-19
+202,Vagit Alekperov,class D,1950-09-01
+203,Richard Qiangdong Liu,class D,1974-03-10
+204,Idan Ofer,class E,1955-10-02
+205,Melker Schorling & family,class C,1947-05-15
+206,"Chase Coleman, III.",class F,1975-06-21
+207,Shuirong Li,class A,1956-07-01
+208,Stefano Pessina,class B,1941-06-04
+209,Mikhail Prokhorov,class B,1965-05-03
+210,Marcel Herrmann Telles,class B,1950-01-01
+211,Leon Black,class C,1951-07-31
+212,Joe Gebbia,class D,1981-08-21
+213,David Geffen,class B,1943-02-21
+214,Yu Renrong,class B,1966-04-01
+215,Andrew Beal,class E,1952-11-29
+216,George Kaiser,class C,1942-07-29
+217,Qi Shi & family,class D,1970-01-03
+218,Luis Carlos Sarmiento,class A,1933-01-27
+219,Andreas von Bechtolsheim & family,class A,1955-09-30
+220,Jan Koum,class A,1976-02-24
+221,Jorge Moll Filho & family,class C,1945-01-01
+222,Azim Premji,class D,1945-07-24
+223,Finn Rausing,class E,1955-01-01
+224,Jorn Rausing,class A,1960-01-01
+225,Kirsten Rausing,class A,1952-06-06
+226,Wang Laisheng,class A,1964-12-14
+227,John Collison,class B,1990-08-06
+228,Patrick Collison,class C,1988-09-09
+229,Gordon Moore,class D,1929-01-03
+230,Wang Laichun,class E,1967-06-03
+231,Graeme Hart,class D,1955-06-06
+232,Zheng Shuliang & family,class E,1946-01-01
+233,Cao Renxian,class F,1968-07-24
+234,Nathan Blecharczyk,class B,1983-06-11
+235,James Dyson,class D,1947-05-02
+236,Ivan Glasenberg,class E,1957-01-07
+237,Kim Beom-su,class A,1966-03-27
+238,Jay Y. Lee,class A,1968-06-23
+239,Liu Yonghao & family,class E,1951-09-01
+240,Ann Walton Kroenke,class E,1948-12-18
+241,Li Ping,class B,1968-01-01
+242,Eric Wittouck,class E,1946-10-01
+243,Friedhelm Loh,class F,1946-08-15
+244,Xavier Niel,class B,1967-08-25
+245,Michael Otto,class B,1943-04-12
+246,Johann Rupert & family,class F,1950-06-01
+247,Hui Ka Yan,class A,1958-10-01
+248,Pauline MacMillan Keinath,class C,1934-01-01
+249,"Herbert Kohler, Jr. & family",class B,1939-02-20
+250,Li Ge,class B,1967-01-01
+251,Kushal Pal Singh,class F,1931-08-15
+252,Zong Qinghou,class D,1945-10-01
+253,Cai Kui,class E,1963-01-01
+254,Charles Ergen,class A,1953-03-01
+255,Gao Jifan & family,class E,1965-01-01
+256,Bernard Marcus,class B,1929-05-12
+257,Nicky Oppenheimer & family,class E,1945-06-08
+258,"Ernest Garcia, II.",class A,1957-05-21
+259,Paul Xiaoming Lee & family,class E,1958-01-01
+260,George Soros,class C,1930-08-12
+261,Wang Liping & family,class F,1966-02-24
+262,Ernesto Bertarelli,class A,1965-09-22
+263,Tamara Gustavson,class C,1961-11-16
+264,Carlos Alberto Sicupira & family,class E,1948-01-01
+265,Laurent Dassault,class E,1953-07-07
+266,Thierry Dassault,class C,1957-03-26
+267,Marie-Hélène Habert-Dassault,class B,1965-04-04
+268,Liu Jincheng & family,class C,1964-09-22
+269,Ma Jianrong & family,class A,1964-01-01
+270,Steven Rales,class E,1951-03-31
+271,Joseph Tsai,class A,1964-01-19
+272,Anthony von Mandl,class F,1950-03-10
+273,Carl Bennet,class B,1951-08-19
+274,Robert Kraft,class B,1941-06-05
+275,Chairul Tanjung,class D,1962-06-18
+276,Manuel Villar,class B,1949-12-13
+277,Jean-Michel Besnier,class F,1967-06-05
+278,Marie Besnier Beauvalot,class D,1980-07-30
+279,Gustaf Douglas,class D,1938-03-03
+280,Kjeld Kirk Kristiansen,class A,1947-12-27
+281,Sofie Kirk Kristiansen,class F,1976-01-01
+282,Thomas Kirk Kristiansen,class D,1979-01-01
+283,Stephen Ross,class E,1940-05-10
+284,Agnete Kirk Thinggaard,class E,1983-05-18
+285,Marc Benioff,class D,1964-09-25
+286,Dmitri Bukhman,class C,1985-05-27
+287,Igor Bukhman,class C,1982-03-29
+288,Francis Choi,class B,1947-09-18
+289,Murali Divi & family,class E,1951-03-17
+290,Nancy Walton Laurie,class E,1951-05-15
+291,Georg Schaeffler,class C,1964-10-19
+292,Yao Liangsong,class D,1964-08-01
+293,Zhong Huijuan,class A,1961-01-01
+294,George Roberts,class D,1943-09-14
+295,Michael Rubin,class F,1972-07-21
+296,Patrick Ryan,class B,1937-05-15
+297,Christopher Hohn,class B,1966-10-27
+298,Marijke Mars,class A,1964-07-28
+299,Pamela Mars,class A,1960-08-01
+300,Valerie Mars,class D,1959-01-26
+301,Victoria Mars,class C,1956-12-15
+302,Hasso Plattner & family,class C,1944-01-21
+303,Georg Stumpf,class F,1972-09-14
+304,Christy Walton,class D,1949-02-08
+305,Giorgio Armani,class F,1934-07-11
+306,Gopikishan Damani,class F,1958-01-01
+307,Ding Shizhong & family,class F,1970-12-01
+308,Jim Kennedy,class E,1947-11-29
+309,German Khan,class E,1961-10-24
+310,Liang Wengen,class B,1956-12-14
+311,Blair Parry-Okeden,class D,1950-05-21
+312,Tsai Eng-meng,class F,1957-01-15
+313,Ashwin Dani & family,class E,1942-10-24
+314,Ding Shijia,class E,1964-01-01
+315,Karel Komarek,class E,1969-03-15
+316,Henry Kravis,class B,1944-01-06
+317,Frederik Paulsen,class C,1950-10-30
+318,Nassef Sawiris,class E,1961-01-19
+319,Xu Shihui,class F,1958-01-01
+320,Rahel Blocher,class A,1976-01-01
+321,Shahid Khan,class E,1950-07-18
+322,Magdalena Martullo-Blocher,class E,1969-01-01
+323,Vincent Bolloré & family,class D,1952-04-01
+324,Jeffery Hildebrand,class D,1959-03-05
+325,Michael Kim,class C,1963-10-01
+326,Richard Kinder,class E,1944-10-19
+327,David Shaw,class E,1951-03-29
+328,John Malone,class C,1941-03-07
+329,Vicky Safra,class D,1953-01-01
+330,Tim Sweeney,class E,1970-12-13
+331,Mike Adenuga,class B,1953-04-29
+332,David Green & family,class C,1941-11-13
+333,"Paul Tudor Jones, II.",class A,1954-09-28
+334,Yuri Milner,class A,1961-11-11
+335,Henry Samueli,class C,1954-09-20
+336,Patrick Soon-Shiong,class D,1952-07-29
+337,Antonia Ax:son Johnson & family,class C,1943-09-06
+338,Michael Kadoorie,class A,1941-07-19
+339,Lin Shu-hong,class C,1928-08-01
+340,Niels Peter Louis-Hansen,class A,1947-10-25
+341,Reinhold Schmieding,class C,1955-01-03
+342,Wee Cho Yaw,class F,1929-01-10
+343,Silvio Berlusconi & family,class E,1936-09-29
+344,Arthur Blank,class D,1942-09-27
+345,Qian Dongqi & family,class D,1958-01-01
+346,J. Christopher Reyes,class B,1953-12-29
+347,Jude Reyes,class B,1955-09-16
+348,Nik Storonsky,class F,1984-07-21
+349,Zhou Qunfei & family,class F,
+350,Deng Weiming & family,class D,1968-09-01
+351,Judy Faulkner,class F,1943-08-11
+352,Robin Li,class F,1968-11-17
+353,Carrie Perrodo & family,class F,1951-01-01
+354,David Reuben,class C,1938-09-01
+355,Simon Reuben,class D,1941-05-01
+356,Seo Jung-jin,class C,1957-10-23
+357,Roman Abramovich,class F,1966-10-24
+358,Micky Arison,class D,1949-06-29
+359,Edythe Broad & family,class C,1936-01-01
+360,Terry Gou,class F,1950-10-18
+361,Jiang Bin,class D,1966-09-16
+362,Vinod Khosla,class A,1955-01-28
+363,Ralph Lauren,class C,1939-10-14
+364,Douglas Leone,class A,1957-07-04
+365,Lucia Maggi & family,class F,1932-07-20
+366,Horst Julius Pudwill,class A,1944-10-23
+367,Abdulsamad Rabiu,class B,1960-08-04
+368,Harry Stine,class F,1941-11-30
+369,Dennis Washington,class A,1934-07-27
+370,Hasmukh Chudgar & family,class C,1933-09-19
+371,Stanley Druckenmiller,class F,1953-06-14
+372,Jonathan Gray,class A,1970-02-04
+373,Kwon Hyuk-bin,class D,1974-01-01
+374,Frank Lowy,class F,1930-10-22
+375,Ronda Stryker,class D,1954-05-01
+376,Alejandro Bailleres Gual & siblings,class E,1961-01-01
+377,Benu Gopal Bangur,class F,1931-06-01
+378,James Goodnight,class F,1943-01-06
+379,Alain Merieux & family,class C,1938-01-01
+380,Enrique Razon Jr.,class D,1960-03-03
+381,Robert F. Smith,class F,1962-12-01
+382,Brian Armstrong,class C,1983-01-25
+383,Dannine Avara,class B,1964-03-09
+384,Patrick Drahi,class F,1963-08-20
+385,Scott Duncan,class D,1982-11-01
+386,Milane Frantz,class B,1969-08-12
+387,Andreas Halvorsen,class A,1961-04-23
+388,Law Kar Po,class C,1948-08-02
+389,Nicolas Puech,class A,1943-01-29
+390,Viktor Rashnikov,class A,1948-10-13
+391,Dmitry Rybolovlev,class F,1966-11-22
+392,Randa Duncan Williams,class E,1961-08-28
+393,Chen Jianhua,class B,1971-01-01
+394,John Grayken,class E,1956-06-01
+395,Ray Lee Hunt,class F,1943-04-06
+396,Philippe Laffont,class C,1967-09-16
+397,"Henry Nicholas, III.",class C,1959-10-08
+398,Axel Oberwelland & siblings,class D,1967-01-01
+399,Cliff Obrecht,class D,1985-12-28
+400,John Overdeck,class E,1969-12-21
+401,Melanie Perkins,class B,1987-05-13
+402,Ruan Hongliang & family,class C,1961-01-01
+403,David Siegel,class E,1961-07-15
+404,David Velez,class E,1981-10-02
+405,Juergen Blickle,class A,1947-01-01
+406,Cheng Xue,class F,1970-02-26
+407,Jack Dangermond,class F,1945-07-23
+408,Jiang Weiping & family,class C,1955-03-01
+409,Takahisa Takahara,class F,1961-07-12
+410,Orlando Bravo,class C,1970-09-23
+411,Hong Ra-hee,class C,1945-07-15
+412,"Edward Johnson, IV.",class E,1964-11-18
+413,Li Xiaohua & family,class A,1962-01-01
+414,Sri Prakash Lohia,class A,1952-08-11
+415,Miao Hangen,class D,1965-01-01
+416,Bobby Murphy,class F,1988-07-19
+417,Wu Jianshu,class D,1964-01-01
+418,Maria Asuncion Aramburuzabala & family,class B,1963-05-02
+419,Melinda French Gates,class F,1964-08-15
+420,Bruce Kovner,class E,1945-02-25
+421,Pham Nhat Vuong,class B,1968-08-05
+422,Michal Solowow,class F,1962-07-11
+423,Leonard Stern,class D,1938-03-28
+424,Stef Wertheimer & family,class A,1926-07-16
+425,Rocco Commisso,class D,1949-11-25
+426,Jack Dorsey,class B,1976-11-19
+427,Lin Li,class D,1963-05-01
+428,George Lucas,class B,1944-05-14
+429,Evan Spiegel,class A,1990-06-04
+430,Zhao Yan,class E,1967-01-01
+431,Tom Gores,class E,1964-07-31
+432,Leo Koguan,class A,1955-02-15
+433,Alexei Kuzmichev,class B,1962-10-15
+434,Fredrik Lundberg,class D,1951-08-05
+435,John Morris,class E,1948-03-19
+436,Ivar Tollefsen,class B,1961-06-23
+437,Stephen Bisciotti,class C,1960-04-10
+438,Mahendra Choksi & family,class A,1941-04-19
+439,Jian Jun,class C,1963-11-01
+440,Barry Lam,class C,1949-04-24
+441,Michael Moritz,class E,1954-09-12
+442,Teh Hong Piow,class B,1930-03-14
+443,Gary Wang,class E,1993-06-13
+444,Andre Esteves,class C,1968-07-12
+445,Joshua Harris,class E,1964-12-29
+446,Rakesh Jhunjhunwala,class A,1960-07-05
+447,Ken Langone,class E,1935-09-16
+448,Ludwig Merckle,class B,1965-01-01
+449,Sandra Ortega Mera,class D,1968-07-09
+450,Terrence Pegula,class B,1951-03-27
+451,Karen Pritzker,class E,1958-01-07
+452,Mitchell Rales,class B,1956-08-21
+453,Wolfgang Reimann,class F,1952-10-04
+454,Matthias Reimann-Andersen,class C,1965-03-30
+455,Stefan Reimann-Andersen,class B,1963-07-13
+456,Renate Reimann-Haas,class B,1951-10-08
+457,Ruan Liping,class B,1964-01-01
+458,Ruan Xueping,class F,1972-01-01
+459,Charles Simonyi,class A,1948-09-10
+460,John A. Sobrato & family,class D,1939-05-23
+461,David Steward,class C,1951-07-02
+462,Radovan Vitek,class B,1971-04-22
+463,Les Wexner & family,class F,1937-09-08
+464,Aloys Wobben,class D,1952-01-22
+465,Sam Zell,class F,1941-09-28
+466,Anthony Bamford & family,class C,1945-10-23
+467,Rainer Blickle,class D,1947-07-16
+468,Clive Calder,class A,1946-12-13
+469,Frits Goldschmeding,class C,1933-08-02
+470,Ananda Krishnan,class B,1938-04-01
+471,Joe Mansueto,class E,1956-09-03
+472,Odd Reitan & family,class D,1951-09-11
+473,Antony Ressler,class B,1962-01-01
+474,Tang Xiao'ou,class A,1968-01-01
+475,Tse Ping,class E,1952-01-03
+476,Ken Xie,class E,1963-01-26
+477,Tilman Fertitta,class F,1957-06-25
+478,Prajogo Pangestu,class A,1944-05-13
+479,"Edward Roski, Jr.",class F,1938-12-25
+480,Teddy Sagi,class E,1971-11-01
+481,Thomas Straumann,class C,1963-07-22
+482,David Sun,class C,1951-10-12
+483,John Tu,class A,1941-08-12
+484,Erich Wesjohann & family,class A,1945-06-02
+485,Xu Jinfu,class A,1964-01-01
+486,Alexander Abramov,class B,1959-02-20
+487,Neil Bluhm,class D,1938-01-12
+488,Don Hankey,class A,1943-06-13
+489,Jane Lauder,class D,1973-01-01
+490,Gwendolyn Sontheim Meyer,class E,1961-10-27
+491,John Reece,class A,1957-03-07
+492,Eric Smidt,class D,1960-01-01
+493,Viktor Vekselberg,class C,1957-04-14
+494,Ronald Wanek,class D,1941-05-19
+495,Rene Benko,class D,1977-03-20
+496,John Brown,class E,1934-09-15
+497,Chen Zhiping,class C,1976-01-01
+498,Andrew Currie,class E,1955-12-04
+499,Jim Davis & family,class A,1943-05-17
+500,Charles Dolan & family,class D,1926-10-16
+501,Tom Golisano,class B,1941-11-14
+502,Hui Wing Mau,class A,1950-07-01
+503,Daniel Kretinsky,class F,1975-07-09
+504,Massimiliana Landini Aleotti & family,class A,1943-01-01
+505,Joe Lewis,class E,1937-02-05
+506,Li Chunan,class C,1968-10-10
+507,Lin Muqin & family,class E,1964-01-01
+508,Shigenobu Nagamori,class A,1944-08-28
+509,Kjell Inge Rokke,class A,1958-10-25
+510,Wang Wenjing,class A,1964-12-05
+511,Chris Xu,class E,1984-01-01
+512,Samuel Yin,class E,1950-08-16
+513,M.A. Yusuff Ali,class A,1955-11-15
+514,Denise Coates,class D,1967-09-26
+515,Ken Fisher,class E,1950-11-29
+516,Peter Grogg,class C,1942-01-10
+517,Dietmar Hopp & family,class D,1940-04-26
+518,Sumet Jiaravanon,class B,1934-11-02
+519,Nathan Kirsh,class D,1932-01-06
+520,Forrest Li,class B,1978-01-01
+521,Rudolf Maag,class B,1946-01-31
+522,Gary Rollins,class E,1944-08-30
+523,Ugur Sahin,class E,1965-09-19
+524,Mark Scheinberg,class A,1973-12-27
+525,Shen Guojun,class F,1962-07-31
+526,Chip Wilson,class C,1957-01-01
+527,Zhang Yong,class A,1970-07-01
+528,James Chambers,class B,1957-04-12
+529,Chen Fashu,class D,1960-10-26
+530,Jaran Chiaravanont,class F,1930-04-01
+531,Ravi Jaipuria,class C,1954-11-28
+532,Koon Poh Keong,class B,1961-04-25
+533,Li Liangbin,class C,1967-09-01
+534,Liang Feng,class A,1968-11-22
+535,Wolfgang Marguerre & family,class A,1941-06-04
+536,Katharine Rayner,class B,1945-01-12
+537,Carlos Rodriguez-Pastor,class C,1959-04-11
+538,Margaretta Taylor,class A,1942-04-15
+539,You Xiaoping,class F,1958-01-21
+540,Eric Yuan & family,class E,1970-02-20
+541,Robert Bass,class D,1948-03-19
+542,Alexandre Behring,class D,1967-02-20
+543,Chan Laiwa & family,class A,1941-01-01
+544,Jeff Greene,class C,1954-12-10
+545,Montri Jiaravanont,class F,1931-04-01
+546,Charles B. Johnson,class C,1933-01-06
+547,Elizabeth Johnson,class E,1963-05-07
+548,Lin Bin,class F,1968-02-01
+549,Hiroshi Mikitani,class F,1965-03-11
+550,Isaac Perlmutter,class A,1942-12-01
+551,Michael Pieper,class A,1946-02-05
+552,Issad Rebrab & family,class D,1944-01-01
+553,Tsai Hong-tu,class D,1952-08-01
+554,Richard Tsai,class C,1957-06-02
+555,Wang Junshi & family,class F,1949-01-01
+556,Wang Yanqing & family,class A,1966-04-07
+557,Shari Arison,class A,1957-09-09
+558,Alain Bouchard,class B,1949-02-18
+559,"Austen Cargill, II.",class C,1951-03-09
+560,"James Cargill, II.",class C,1949-04-07
+561,Ben Chestnut,class F,1974-06-15
+562,Wei Fang,class A,1973-09-04
+563,Leonid Fedun,class B,1956-04-05
+564,Johann Graf,class C,1947-01-03
+565,Huang Chulong,class F,1959-01-01
+566,Huang Yi,class F,1962-01-01
+567,Vladimir Kim,class C,1960-10-29
+568,Dan Kurzius,class F,1971-12-01
+569,Ronald Lauder,class C,1944-02-26
+570,Marianne Liebmann,class C,1953-07-11
+571,Tobi Lutke,class A,1980-07-16
+572,Thomas Pritzker,class E,1950-06-06
+573,Scott Shleifer,class D,1977-06-14
+574,Autry Stephens,class B,1939-01-01
+575,Peter Thiel,class A,1967-10-11
+576,Tsai Cheng-ta,class D,1950-04-01
+577,Hansjoerg Wyss,class A,1935-01-01
+578,Xiao Yongming & family,class E,1964-07-01
+579,Zhang Tao,class E,1972-11-01
+580,Daniel Ziff,class D,1971-11-02
+581,Dirk Ziff,class D,1964-04-01
+582,Robert Ziff,class D,1966-08-12
+583,Mat Ishbia,class F,1980-01-06
+584,"Robert Rich, Jr.",class C,1941-01-25
+585,Thomas Schmidheiny,class C,1945-12-17
+586,Alexandra Schoerghuber & family,class E,1958-07-24
+587,Erik Selin,class B,1967-05-08
+588,Daniel Tsai,class A,1956-04-25
+589,Dona Bertarelli,class F,1968-01-01
+590,Andrei Guriev & family,class F,1960-03-24
+591,Luciano Hang,class A,1962-10-11
+592,Hu Baifan,class D,1962-10-01
+593,Bidzina Ivanishvili,class F,1956-02-18
+594,Leng Youbin,class A,1969-01-01
+595,Theo Mueller,class E,1940-01-30
+596,"Julian Robertson, Jr.",class C,1932-06-25
+597,Marc Rowan,class F,1962-08-19
+598,Emanuele (Lino) Saputo & family,class D,1937-01-01
+599,Jeff Skoll,class F,1965-01-16
+600,Frank Wang,class D,1980-10-30
+601,Wang Junlin,class A,1962-09-01
+602,Yang Shaopeng,class A,1958-01-01
+603,Maria Fernanda Amorim & family,class D,1935-01-16
+604,Leonid Boguslavsky,class E,1951-06-17
+605,Richard Branson,class C,1950-07-18
+606,Robert Brockman,class A,1941-05-28
+607,Pierre Chen,class A,1956-09-28
+608,Chu Mang Yee & family,class F,1960-01-01
+609,Scott Cook,class F,1952-07-26
+610,Mark Cuban,class C,1958-07-31
+611,Guenther Fielmann & family,class D,1939-09-17
+612,Martin Haefner,class B,1954-01-01
+613,Johnelle Hunt,class D,1932-01-04
+614,"Andre Koo, Sr.",class D,1967-05-25
+615,Lai Meisong,class C,1971-01-01
+616,Richard Li,class C,1966-11-08
+617,Mangal Prabhat Lodha,class A,1955-12-01
+618,Igor Olenicoff,class E,1942-09-20
+619,Mark Shoen,class B,1950-11-20
+620,Andrei Skoch & family,class B,1966-01-30
+621,Fred Smith,class F,1944-08-11
+622,Murat Ulker,class A,1959-03-23
+623,Yu Yong,class B,1961-02-01
+624,Stéphane Bancel,class A,1972-07-20
+625,Bubba Cathy,class C,1954-04-22
+626,Dan Cathy,class A,1953-03-01
+627,Trudy Cathy White,class C,1955-12-17
+628,Jason Chang,class B,1944-05-01
+629,Dagmar Dolby & family,class B,1941-06-28
+630,Bruce Flatt,class D,1965-06-01
+631,Masatoshi Ito,class A,1924-04-30
+632,Viatcheslav Kantor,class F,1953-09-08
+633,Min Kao & family,class F,1949-01-10
+634,Lin Xiucheng & family,class F,1955-10-10
+635,Sami Mnaymneh,class A,1961-07-13
+636,Tony Tamer,class E,1957-10-12
+637,Richard White,class D,1955-04-01
+638,Baoguo Zhu & family,class C,1962-04-25
+639,Michael Ashley,class D,1964-09-12
+640,Ron Baron,class C,1943-05-23
+641,Bert Beveridge,class A,1962-01-01
+642,Todd Boehly,class D,1973-09-20
+643,David Bonderman,class C,1942-11-27
+644,Guo Guangchang,class D,1967-02-16
+645,Daryl Katz,class E,1961-09-01
+646,Ted Lerner & family,class D,1925-10-15
+647,Falguni Nayar,class A,1963-02-19
+648,Trevor Rees-Jones,class F,1951-08-12
+649,J. Joe Ricketts & family,class D,1941-07-16
+650,Robert Rowling,class F,1953-09-26
+651,Mark Stevens,class F,1960-02-17
+652,Gustav Magnar Witzoe,class D,1993-04-22
+653,Xie Liangzhi & family,class D,1966-01-01
+654,Yeung Kin-man,class D,1964-04-01
+655,Andrej Babis,class F,1954-09-02
+656,Giuseppe De'Longhi & family,class E,1939-04-24
+657,Barry Diller,class C,1942-02-02
+658,Christian Haub,class A,1964-07-22
+659,Huang Li,class B,1963-06-27
+660,Marian Ilitch,class D,1933-01-07
+661,Suleiman Kerimov & family,class C,1966-03-12
+662,Edwin Leong,class E,1951-12-04
+663,Lu Yiwen,class C,1987-01-01
+664,N.R. Narayana Murthy,class D,1946-08-20
+665,Yang Jianliang & family,class D,1969-06-01
+666,Pyotr Aven,class A,1955-03-16
+667,Joesley Batista,class F,1972-02-05
+668,Wesley Batista,class F,1972-12-08
+669,Margot Birmingham Perot,class A,1933-11-15
+670,Rick Caruso,class F,1959-01-07
+671,Jim Davis,class B,1960-03-13
+672,Walter P.J. Droege,class C,1952-11-25
+673,Dan Friedkin,class A,1965-02-27
+674,Gao Dekang & family,class F,1952-02-01
+675,Antti Herlin,class D,1956-11-14
+676,W. Herbert Hunt,class B,1929-03-06
+677,Jason Jiang,class D,1973-01-01
+678,"Rupert Johnson, Jr.",class B,1940-08-10
+679,Vikram Lal & family,class B,1942-03-05
+680,Chris Larsen,class C,1960-06-15
+681,Richard Schulze,class B,1941-01-02
+682,Paul Singer,class E,1944-08-22
+683,Barry Sternlicht,class B,1960-11-27
+684,Su Hua,class E,1982-01-01
+685,Mark Walter,class A,1960-05-22
+686,Ty Warner,class B,1944-09-03
+687,Rinat Akhmetov,class B,1966-09-21
+688,Bernard Broermann,class C,1943-11-22
+689,Mong-Koo Chung,class F,1938-03-19
+690,Daniel D'Aniello,class F,1946-09-14
+691,Traudl Engelhorn & family,class A,1927-01-21
+692,Piero Ferrari,class F,1945-05-22
+693,Carlo Fidani,class B,1955-01-01
+694,Yakir Gabay,class A,1966-04-13
+695,Jaime Gilinski Bacal,class E,1957-12-14
+696,Bertil Hult,class D,1941-02-10
+697,Martha Ingram & family,class E,1935-08-20
+698,Lee Yin Yee,class E,1952-01-01
+699,Daniel Loeb,class F,1961-12-18
+700,Janice McNair,class D,1936-09-30
+701,Ajay Piramal,class C,1955-08-03
+702,Lynsi Snyder,class E,1982-05-05
+703,Peter Spuhler,class F,1959-09-01
+704,Kerry Stokes,class F,1940-09-13
+705,Jon Stryker,class D,1958-05-03
+706,Vincent Viola,class B,1956-02-12
+707,Romesh T. Wadhwani,class C,1947-08-25
+708,Juan Domingo Beckmann Legorreta & family,class B,1967-07-01
+709,Rafael Del Pino,class A,1958-07-18
+710,Sergey Dmitriev,class E,1966-03-11
+711,Senapathy Gopalakrishnan,class C,1955-04-05
+712,James Irving,class E,1928-03-20
+713,Lee Boo-jin,class A,1970-10-06
+714,Samuel Tak Lee,class C,1939-04-09
+715,Thai Lee,class C,1958-11-27
+716,Eric Lefkofsky,class B,1969-09-02
+717,Weiguo Li,class E,1965-01-01
+718,Ermirio Pereira de Moraes & family,class A,1932-05-13
+719,Maria Helena Moraes Scripilliti & family,class C,1930-09-20
+720,Thomas Secunda,class B,1954-06-23
+721,Shaul Shani,class B,1955-01-01
+722,E. Joe Shoen,class F,1949-10-28
+723,Steven Udvar-Hazy,class D,1946-02-23
+724,Russ Weiner,class B,1970-05-05
+725,Guanjiang Wu & family,class F,1968-12-21
+726,Anil Agarwal & family,class C,1953-09-07
+727,Somphote Ahunai,class E,1967-06-01
+728,Patrizio Bertelli,class B,1946-01-01
+729,Rakesh Gangwal,class A,1953-07-25
+730,Paul Gauselmann & family,class E,1934-08-26
+731,Hao Hong,class B,1956-01-01
+732,He Xiaopeng,class E,1977-11-03
+733,Michael Herz,class F,1943-09-28
+734,Wolfgang Herz,class D,1951-01-01
+735,Arthur Irving,class C,1930-01-01
+736,Victor Jacobsson,class B,1981-08-28
+737,Marc Ladreit de Lacharriere,class B,1940-11-06
+738,Patrick Lee,class E,1942-01-01
+739,Max Lytvyn,class C,1980-01-01
+740,Gilles Martin,class E,1963-10-20
+741,Ramzi Musallam,class A,1968-09-17
+742,Georg Nemetschek & family,class E,1934-01-01
+743,Akio Nitori,class A,1944-03-05
+744,Daniel Och,class F,1961-01-27
+745,Pankaj Patel,class B,1953-03-19
+746,John Paulson,class E,1955-12-14
+747,Miuccia Prada,class A,1949-05-10
+748,Jean (Gigi) Pritzker,class C,1962-07-01
+749,Juan Roig,class F,1949-10-08
+750,David Rubenstein,class A,1949-08-11
+751,Howard Schultz,class B,1953-07-19
+752,Alex Shevchenko,class F,1980-01-01
+753,Dan Snyder,class C,1964-11-23
+754,Jerzy Starak,class F,1947-12-12
+755,Kelcy Warren,class F,1955-11-09
+756,Herbert Wertheim,class A,1939-05-23
+757,Cameron Winklevoss,class E,1981-08-21
+758,Tyler Winklevoss,class F,1981-08-21
+759,Denise York & family,class C,1950-10-21
+760,Zhao Lixin,class B,1966-01-01
+761,Hubert Burda,class A,1940-02-09
+762,Francesco Gaetano Caltagirone,class E,1943-03-21
+763,Li Xiang,class A,1981-10-01
+764,"Stephen Mandel, Jr.",class F,1956-03-12
+765,Gabe Newell,class C,1962-11-03
+766,Maja Oeri,class A,1955-01-01
+767,Neil Shen,class E,1967-12-16
+768,Helmut Sohmen,class D,1939-12-10
+769,Donald Sterling,class A,1934-04-26
+770,Don Vultaggio & family,class A,1952-02-26
+771,Yiling Wu,class A,1949-10-24
+772,Gongshan Zhu,class C,1958-01-01
+773,Gayle Benson,class B,1947-01-26
+774,"William Conway, Jr.",class F,1949-08-27
+775,Gurbachan Singh Dhingra,class F,1950-04-09
+776,Kuldip Singh Dhingra,class F,1947-09-02
+777,Luca Garavoglia,class C,1969-02-27
+778,Jimmy Haslam,class F,1954-03-09
+779,Susan Carol Holland,class B,1956-05-27
+780,Timur Kulibaev,class A,1966-09-10
+781,Dinara Kulibaeva,class E,1967-08-19
+782,Michel Leclercq & family,class A,1939-05-27
+783,Pablo Legorreta,class F,1963-10-30
+784,Margarita Louis-Dreyfus & family,class E,1962-06-01
+785,Michael Milken,class F,1946-07-04
+786,Denis O'Brien,class D,1958-04-17
+787,Katharina Otto-Bernstein,class C,1964-01-01
+788,James Packer,class E,1967-09-08
+789,Sergio Stevanato & family,class C,1943-03-20
+790,Leena Tewari,class A,1957-09-03
+791,Yitzhak Tshuva,class F,1948-07-07
+792,Paul-Heinz Wesjohann & family,class F,1943-05-25
+793,Zeng Fangqin,class A,1965-12-25
+794,Zhou Bajin,class B,1935-05-01
+795,William Berkley,class A,1946-09-01
+796,John Catsimatidis,class A,1948-09-07
+797,Che Jianxing,class E,1966-07-18
+798,Gustavo Denegri,class F,1937-03-17
+799,Charles Edelstenne,class D,1938-01-03
+800,Reed Hastings,class E,1960-10-08
+801,"Amos Hostetter, Jr.",class D,1937-01-12
+802,Brad Jacobs,class C,1956-07-01
+803,Friedrich Knapp,class A,1951-05-06
+804,William Lauder,class F,1960-04-11
+805,Richard LeFrak & family,class A,1945-08-29
+806,Li Guoqiang,class F,1964-01-01
+807,Low Tuck Kwong,class F,1948-04-17
+808,Akira Mori & family,class B,1936-07-12
+809,Anthony Pritzker,class C,1961-01-07
+810,Ira Rennert,class E,1934-05-31
+811,"Bernard Saul, II.",class E,1932-04-15
+812,Shi Yonghong & family,class B,1969-01-01
+813,Song Chi-hyung,class B,1979-01-01
+814,Steven Spielberg,class F,1946-12-18
+815,Wong Luen Hei,class E,1962-01-01
+816,Danielle Bellon & family,class F,1940-02-08
+817,Byju Raveendran and Divya Gokulnath,class B,1981-07-06
+818,Cho Tak Wong,class C,1946-05-15
+819,Charles Cohen,class D,1952-02-08
+820,Kenneth Dart,class D,1955-04-21
+821,Martin Ebner,class F,1945-08-01
+822,David Filo,class B,1966-04-15
+823,Miguel Fluxa Rossello,class A,1938-07-27
+824,John Henry,class C,1949-09-13
+825,Hu Kaijun,class F,1962-01-01
+826,Peter Kellogg,class E,1942-09-01
+827,James Leprino,class E,1937-11-22
+828,Iskander Makhmudov,class B,1963-12-05
+829,Daniel Mate,class E,1963-06-02
+830,Aristotelis Mistakidis,class E,1961-11-21
+831,Arturo Moreno,class D,1946-08-14
+832,Nan Cunhui,class B,1963-07-09
+833,Julio Ponce Lerou,class E,1945-11-13
+834,J.B. Pritzker,class E,1965-01-19
+835,Chandru Raheja,class F,1940-10-01
+836,Rodger Riney & family,class B,1946-01-01
+837,Shi Yuzhu,class B,1962-09-01
+838,Zuowen Song,class F,1947-03-19
+839,Jerry Speyer,class E,1940-06-23
+840,Julia Thiele-Schuerhoff,class B,1972-01-01
+841,Tung Chee Chen,class E,1942-12-15
+842,Roger Wang,class C,1949-01-01
+843,Wu Shaoxun,class D,1956-01-01
+844,Wenzhong Zhang,class F,1962-01-01
+845,Chen Kaixuan,class D,1958-05-01
+846,Beatriz Davila de Santo Domingo,class D,1939-03-07
+847,Antonio Del Valle Ruiz & family,class E,1938-08-13
+848,Carl Douglas,class F,1961-05-05
+849,Eric Douglas,class C,1968-05-01
+850,Jiangtao Du & family,class A,1969-11-17
+851,Juan Carlos Escotet,class D,1959-07-23
+852,Fiona Geminder,class C,1964-12-01
+853,Yuhua Gu & family,class A,1949-10-05
+854,James Irsay,class B,1959-06-13
+855,Kuok Khoon Hong,class C,1950-01-01
+856,Aerin Lauder,class F,1970-04-23
+857,Lee Seo-hyun,class C,1973-09-20
+858,Li Yongxin & family,class F,1976-03-09
+859,Jeffrey Lurie,class C,1951-09-08
+860,Mary Alice Dorrance Malone,class D,1950-02-03
+861,Ronald McAulay,class F,1935-10-05
+862,Apoorva Mehta,class A,1986-07-19
+863,Arnon Milchan,class D,1944-12-06
+864,Masahiro Noda,class A,1938-08-24
+865,Renzo Rosso & family,class D,1955-09-15
+866,Lynn Schusterman,class E,1939-01-21
+867,Gil Shwed,class D,1968-06-12
+868,Thomas Siebel,class E,1952-11-22
+869,Herb Simon,class E,1934-10-23
+870,Friede Springer,class C,1942-08-15
+871,Wang Zhenhua,class E,1962-03-01
+872,Hans Peter Wild,class B,1941-06-16
+873,"William Wrigley, Jr.",class A,1963-11-01
+874,Xia Zuoquan,class D,1962-01-01
+875,Xue Hua,class C,
+876,Mohed Altrad,class E,1948-03-09
+877,Sid Bass,class F,1942-04-09
+878,Nick Caporella,class F,1936-01-15
+879,Cheng Yixiao,class A,1984-01-01
+880,Wesley Edens,class E,1961-10-31
+881,Behdad Eghbali,class B,1976-05-06
+882,Archie Aldis Emmerson & family,class C,1929-04-10
+883,Jose E. Feliciano,class A,1973-05-29
+884,Fu Liquan & family,class E,1967-08-01
+885,David Gottesman,class D,1926-04-26
+886,Laurence Graff & family,class C,1938-06-13
+887,Jeff T. Green,class C,1977-03-30
+888,Jim Kavanaugh,class F,1962-10-17
+889,Steven Klinsky,class C,1956-05-30
+890,John Middleton,class D,1955-03-02
+891,Jerry Ng,class D,1965-07-02
+892,Tengyun Nie & family,class A,1976-01-24
+893,Nandan Nilekani,class D,1955-06-02
+894,Bob Parsons,class F,1950-11-27
+895,Prasert Prasarttong-Osoth,class B,1933-03-26
+896,Qiu Guanghe & family,class A,1951-11-10
+897,Richard Sands,class C,1951-03-03
+898,Robert Sands,class D,1958-06-10
+899,T. Denny Sanford,class A,1935-12-23
+900,Naguib Sawiris,class B,1954-06-15
+901,Pavel Tykac,class B,1964-05-15
+902,Todd Wanek,class C,1964-03-16
+903,Meg Whitman,class A,1956-08-04
+904,Michael Xie,class C,1969-02-20
+905,Chenghai Ye & family,class D,1943-08-15
+906,An Kang,class B,1949-01-01
+907,John Arnold,class E,1974-03-09
+908,Arun Bharat Ram,class F,1940-11-15
+909,Tomasz Biernacki,class B,1973-01-01
+910,Travis Boersma,class E,1971-01-01
+911,Dongsheng Chen,class A,1957-12-01
+912,Jean Coutu & family,class B,1927-05-29
+913,Ralph Dommermuth,class E,1963-11-19
+914,Walter Faria,class C,1955-04-01
+915,Bob Gaglardi,class D,1941-02-19
+916,John Gandel,class B,1934-08-13
+917,Xuande Hua & family,class B,1943-10-30
+918,Micky Jagtiani,class C,1951-09-28
+919,H. Fisk Johnson,class C,1958-05-19
+920,S. Curtis Johnson,class C,1955-05-05
+921,Helen Johnson-Leipold,class D,1956-12-30
+922,Miguel Krigsner,class E,1950-01-09
+923,Li Jianquan & family,class C,1957-01-01
+924,Lin Ming-hsiung,class C,1950-01-01
+925,Winifred J. Marquart,class B,1959-04-06
+926,Kiran Mazumdar-Shaw,class D,1953-03-23
+927,Patrice Motsepe,class B,1962-01-28
+928,Alfred Oetker,class A,1967-01-01
+929,Carl Ferdinand Oetker,class B,1972-10-03
+930,Julia Oetker,class C,1979-01-26
+931,Or Wai Sheun,class E,1951-06-01
+932,Jay Paul,class E,1947-07-08
+933,Horst Paulmann & family,class C,1935-01-01
+934,Theodore Rachmat,class B,1943-12-15
+935,John Sall,class B,1948-04-04
+936,Stefan von Holtzbrinck,class D,1963-05-15
+937,Nusli Wadia,class B,1944-02-15
+938,Steve Wynn,class B,1942-01-27
+939,Yang Weidong & family,class B,1968-09-09
+940,Barry Zekelman,class B,1967-01-03
+941,Zhang Shilong & family,class D,1966-01-01
+942,Zhong Ruonong & family,class C,1962-10-30
+943,Cameron Adams,class F,1979-12-26
+944,Dongchen Cai,class A,1953-02-01
+945,Vanich Chaiyawan,class F,1932-01-01
+946,James Clark,class A,1944-03-23
+947,Jack Cowin,class F,1942-07-13
+948,Giuseppe Crippa & family,class D,1935-05-05
+949,Sergei Galitsky,class D,1967-08-14
+950,"Ernest Garcia, III.",class B,1982-05-01
+951,Peter Gilgan,class B,1951-01-01
+952,Joseph Grendys,class F,1961-12-01
+953,Thomas Hagen,class D,1936-01-01
+954,"Robert Hale, Jr.",class E,1966-07-08
+955,Michael Hintze,class A,1953-07-27
+956,Pansy Ho,class F,1962-08-26
+957,Alan Howard,class D,1963-09-01
+958,Kei Hoi Pang,class C,1966-01-01
+959,Rudy Ma,class B,1940-07-04
+960,Najib Mikati,class E,1955-11-24
+961,Taha Mikati,class D,1945-01-01
+962,Gail Miller,class F,1943-10-14
+963,Vikas Oberoi,class B,1970-09-08
+964,"H. Ross Perot, Jr.",class A,1958-11-07
+965,Candido Pinheiro Koren de Lima,class E,1947-01-01
+966,Matthew Prince,class D,1975-01-01
+967,Penny Pritzker,class C,1959-05-02
+968,Yasumitsu Shigeta,class D,1965-02-25
+969,Sebastian Siemiatkowski,class E,1981-10-03
+970,Barry Silbert,class A,1976-05-15
+971,Daniel Sundheim,class C,1977-03-29
+972,Rita Tong Liu,class C,1948-06-29
+973,Tran Dinh Long,class B,1961-01-01
+974,Zhang Daocai,class F,1950-01-01
+975,John Caudwell,class C,1952-10-01
+976,Philippe Foriel-Destezet,class C,1935-09-12
+977,Walter Frey,class A,1943-07-30
+978,Alessandra Garavoglia,class B,1960-02-06
+979,Peter Gassner,class E,1965-02-26
+980,Mitchell Goldhar,class E,1961-07-15
+981,Otto Happel,class C,1948-02-09
+982,Peter Hargreaves,class F,1946-10-05
+983,Bom Kim,class C,1978-10-01
+984,Gaiteng Li,class A,1972-04-08
+985,Liufa Li & family,class F,1957-06-01
+986,Lu Weiding,class D,1971-03-01
+987,Harsh Mariwala,class E,1951-05-14
+988,Samir Mehta,class F,1963-09-18
+989,Sudhir Mehta,class A,1954-04-10
+990,Pawan Munjal & family,class E,1954-01-01
+991,Nguyen Thi Phuong Thao,class D,1970-06-07
+992,Madhukar Parekh,class C,1947-01-01
+993,Sergei Popov,class C,1971-08-12
+994,Haim Saban,class C,1944-10-15
+995,Karthik Sarma,class D,1974-12-01
+996,Klaus-Peter Schulenberg,class B,1951-07-01
+997,Pat Stryker,class C,1956-04-06
+998,Jeff Sutton,class E,1960-01-17
+999,Jon Yarbrough,class C,1957-05-10
+1000,Gang Ye,class B,1980-06-01
+1001,Yi Zheng,class F,1970-10-15
+1002,Zhang Fan,class C,1965-12-29
+1003,William Ackman,class F,1966-05-11
+1004,Markus Blocher,class D,1971-01-01
+1005,Neal Blue & family,class E,1935-04-04
+1006,Eva Maria Bucher-Haefner,class C,1957-01-01
+1007,Chang Kuo-Hua,class E,1955-01-01
+1008,Todd Christopher,class B,1962-10-08
+1009,Euisun Chung,class E,1970-10-18
+1010,Bernard Ecclestone & family,class C,1930-10-28
+1011,Michael Federmann & family,class C,1943-09-09
+1012,Gudrun Heine,class A,1954-10-19
+1013,Heidi Horten,class C,1941-02-13
+1014,Dawen Huang,class C,1960-11-01
+1015,Sheldon Lavin,class F,1932-06-17
+1016,Li Min,class F,1965-12-26
+1017,Liang Yunchao,class D,1969-01-03
+1018,Joseph Liemandt,class B,1968-08-05
+1019,Strive Masiyiwa,class F,1961-01-29
+1020,Masahiro Miki,class E,1955-07-26
+1021,Karsanbhai Patel,class B,1944-01-07
+1022,Arvind Poddar,class E,1957-11-07
+1023,Remo Ruffini,class E,1961-08-27
+1024,Eddy Kusnadi Sariaatmadja,class C,1953-08-23
+1025,Sybill Storz,class F,1937-04-06
+1026,Lawrence Stroll,class A,1959-07-11
+1027,Michael Tojner,class F,1966-03-31
+1028,Donald Trump,class C,1946-06-14
+1029,Tsai Ming-kai,class B,1950-04-06
+1030,John Tyson,class F,1953-09-05
+1031,Rufino Vigil Gonzalez,class D,1948-06-01
+1032,Ning Wang & family,class E,1987-01-01
+1033,Wang Yusuo & family,class E,1964-03-11
+1034,Zhigang Wu & family,class A,1935-01-14
+1035,Xie Juhua & family,class F,1951-01-01
+1036,Oren Zeev,class A,1964-09-23
+1037,Charles Zegar,class C,1948-02-29
+1038,Zhang Lei,class C,1972-12-01
+1039,Zhang Xin & Pan Shiyi,class A,1965-08-24
+1040,Mortimer Zuckerman,class F,1937-06-04
+1041,Juan Abello,class B,1941-12-16
+1042,John Armitage,class C,1959-12-01
+1043,Bang Si-hyuk,class E,1972-08-09
+1044,Miriam Baumann-Blocher,class D,1975-01-01
+1045,Riley Bechtel & family,class D,1952-03-25
+1046,Wilhelm Beier & family,class D,1956-04-21
+1047,Nicolas Berggruen,class B,1961-08-10
+1048,Bui Thanh Nhon,class D,1958-01-01
+1049,Cao Longxiang & family,class D,1957-09-05
+1050,Deng Wen,class B,1968-03-01
+1051,Daniel Dines,class F,1972-01-01
+1052,Joseph Edelman,class F,1955-06-10
+1053,N. Murray Edwards,class C,1959-12-10
+1054,Jane Goldman,class F,1955-07-29
+1055,Guo Zhenyu & family,class E,1963-11-01
+1056,Stewart Horejsi & family,class A,1937-09-19
+1057,Zhenda Huang & family,class D,1947-09-01
+1058,"Jeremy Jacobs, Sr. & family",class A,1940-01-21
+1059,Hamilton James,class E,1951-08-03
+1060,Valentin Kipyatkov,class A,1976-06-05
+1061,Li Zhongchu,class C,1963-08-26
+1062,Martin Lorentzon,class A,1969-04-01
+1063,"Drayton McLane, Jr.",class F,1936-07-22
+1064,Roger Penske,class B,1937-02-20
+1065,Olivier Pomel,class A,1977-03-26
+1066,Jean Salata,class E,1965-12-01
+1067,Arnout Schuijff,class F,1967-10-16
+1068,Shen Hua & family,class F,1963-01-01
+1069,Martua Sitorus,class E,1960-02-18
+1070,Zygmunt Solorz-Zak,class E,1956-08-04
+1071,Warren Stephens,class B,1957-02-18
+1072,Tang Jinkui & family,class F,1955-09-19
+1073,Alan Trefler,class F,1956-03-10
+1074,Masateru Uno & family,class C,1947-02-06
+1075,Frank VanderSloot,class E,1948-08-14
+1076,Guangming Wu,class A,1962-02-27
+1077,Kai Wu,class C,1968-01-01
+1078,Ye Fan & family,class B,1971-01-01
+1079,Yoo Jung-hyun,class E,1969-04-16
+1080,Fenggang Zhao,class B,1966-01-01
+1081,Zheng Xiaodong,class B,1964-03-01
+1082,Zhou Jianping,class B,1960-05-28
+1083,Jose Joao Abdalla Filho,class C,1945-05-30
+1084,Brian Acton,class D,1972-02-17
+1085,Bill Alfond,class F,1948-05-16
+1086,Susan Alfond,class B,1945-07-19
+1087,Ted Alfond,class B,1944-08-19
+1088,Felix Baker,class C,1969-03-29
+1089,Julian Baker,class D,1966-05-21
+1090,Maurizio Billi,class C,1957-11-22
+1091,Otto Philipp Braun,class E,1978-01-01
+1092,Garrett Camp,class B,1978-10-04
+1093,Cao Ji,class D,1952-01-01
+1094,Hua Chen,class F,1966-01-01
+1095,John Paul DeJoria,class A,1944-04-13
+1096,Beda Diethelm,class B,1941-01-01
+1097,K. Dinesh,class A,1954-06-06
+1098,Dong Fan,class B,
+1099,Bennett Dorrance,class D,1946-02-09
+1100,Marcel Erni,class E,1965-01-01
+1101,Abhay Firodia,class F,1944-11-05
+1102,Alfred Gantner,class A,1968-04-01
+1103,Allan Goldman,class B,1943-03-06
+1104,Amy Goldman Fowler,class C,1954-04-19
+1105,J. Tomilson Hill,class E,1948-05-24
+1106,Hong Jie,class D,1967-10-01
+1107,James Jannard,class B,1949-06-08
+1108,Travis Kalanick,class A,1976-08-06
+1109,Diane Kemper,class C,1945-07-21
+1110,George Kurtz,class B,1970-10-01
+1111,Kwek Leng Beng,class C,1941-01-01
+1112,Geoffrey Kwok,class E,1985-05-01
+1113,Maritsa Lazari & family,class D,1944-10-14
+1114,Alexis Lê-Quôc,class F,1974-11-14
+1115,Angela Leong,class E,1961-03-23
+1116,Lin Chen-hai,class A,1947-03-01
+1117,Sergio Mantegazza,class D,1927-10-31
+1118,Hans Melchers,class C,1938-04-28
+1119,Tom Morris,class E,1954-10-02
+1120,Eugene Murtagh,class F,1942-06-23
+1121,Philip Niarchos,class D,1954-01-01
+1122,Pan Dong,class F,1965-01-01
+1123,Sean Parker,class F,1979-12-03
+1124,Richard Peery,class A,1938-10-01
+1125,Gregorio Perez Companc & family,class A,1935-08-23
+1126,Sebastian Piñera & family,class A,1949-12-01
+1127,Nicholas Pritzker,class D,1944-01-01
+1128,Jeff Rothschild,class D,1955-01-02
+1129,Steven Sarowitz,class D,1965-11-07
+1130,Isabella Seràgnoli,class A,1945-12-23
+1131,Stephen Smith,class E,1951-06-02
+1132,William Stone,class A,1955-04-09
+1133,Sun Hongbin,class D,1963-01-01
+1134,Sun Shoukuan,class E,1949-10-01
+1135,"Henry Sy, Jr.",class C,1953-02-01
+1136,Andrew Tan,class B,1952-02-01
+1137,Kenneth Tuchman,class F,1959-10-23
+1138,Tung Chee Hwa,class B,1937-07-07
+1139,Bulat Utemuratov,class D,1958-01-01
+1140,Xicheng Wang & family,class B,1948-11-01
+1141,Urs Wietlisbach,class F,1961-08-25
+1142,Wong Man Li,class F,1965-02-12
+1143,Xie Weitong,class E,1957-01-01
+1144,Xu Chuanhua & family,class F,1935-01-01
+1145,Ye Xiaoping,class B,1963-02-01
+1146,Weiguo Zhao,class C,1967-01-01
+1147,Ben Ashkenazy,class E,1969-09-23
+1148,Bill Austin,class F,1942-02-25
+1149,Pavel Baudis,class D,1960-05-15
+1150,Yvonne Bauer,class C,1977-03-29
+1151,Giuliana Benetton,class C,1937-07-08
+1152,Luciano Benetton,class F,1935-05-13
+1153,Aneel Bhusri,class A,1966-02-04
+1154,George Bishop,class E,1937-10-06
+1155,Vivek Chand Burman,class B,1937-04-28
+1156,Morris Chang,class F,1931-07-10
+1157,Jinxia Chen,class C,1968-03-28
+1158,Cho Jung-ho,class F,1958-10-05
+1159,Jack Cockwell,class A,1941-01-12
+1160,"Edward DeBartolo, Jr.",class B,1946-11-06
+1161,Abilio dos Santos Diniz,class F,1936-12-28
+1162,"John Dorrance, III.",class D,1944-01-01
+1163,Hailiang Feng,class D,1960-10-01
+1164,Xingjiang Gao,class F,1963-11-01
+1165,Carlos Hank Rhon,class D,1947-12-10
+1166,Vivek Jain,class B,1955-08-30
+1167,Brad Kelley,class D,1956-12-23
+1168,Alicia Koplowitz,class A,1953-09-12
+1169,Li Li,class E,1965-09-01
+1170,C. Dean Metropoulos,class E,1946-05-05
+1171,Dan Olsson,class B,1947-01-01
+1172,Tor Peterson,class B,1964-08-07
+1173,John Pritzker,class D,1953-08-10
+1174,Hussain Sajwani,class C,1953-03-01
+1175,Tseng Cheng,class D,1961-12-01
+1176,Jerry Yang,class C,1968-11-06
+1177,Takao Yasuda,class F,1949-05-07
+1178,Yu Qibing & family,class C,1965-11-01
+1179,Zhang Xuezheng,class C,1975-06-01
+1180,Isak Andic & family,class B,1953-10-20
+1181,Harindarpal Banga,class D,1950-08-10
+1182,Anne Beaufour,class A,1963-08-08
+1183,Henri Beaufour,class B,1965-06-01
+1184,Sanjeev Bikhchandani,class C,1963-06-29
+1185,Norman Braman,class E,1932-08-22
+1186,J. Hyatt Brown,class E,1937-07-12
+1187,Chen Lip Keong,class E,1947-07-01
+1188,Jim Coulter,class A,1959-12-01
+1189,Federico De Nora,class E,1968-03-23
+1190,Dong Wei,class D,1971-01-01
+1191,Sandeep Engineer,class E,1961-05-11
+1192,Alceu Elias Feldmann,class C,1949-07-01
+1193,"Frank Fertitta, III.",class E,1962-02-24
+1194,Lorenzo Fertitta,class A,1969-01-03
+1195,Doris Fisher,class E,1931-08-23
+1196,Alec Gores,class D,1953-03-18
+1197,Rajinder Gupta,class F,1959-01-02
+1198,Igor Kesaev,class E,1966-10-30
+1199,Raj Kumar & Kishin RK,class E,1954-05-25
+1200,Li Hongxin & family,class E,1953-03-07
+1201,Liu Fangyi,class F,
+1202,Lu Zhongfang,class C,1942-12-01
+1203,Nirmal Minda,class C,1957-11-07
+1204,Farhad Moshiri,class D,1955-05-18
+1205,Hans Georg Naeder,class C,1961-09-04
+1206,Eren Ozmen,class F,1958-09-03
+1207,Ronald Perelman,class E,1943-01-01
+1208,Ravi Pillai,class B,1953-09-02
+1209,Daniel Pritzker,class F,1959-09-15
+1210,Matthias Reinhart,class B,1960-01-01
+1211,Alejandro Santo Domingo,class C,1977-02-13
+1212,Vivek Chaand Sehgal,class F,1956-09-28
+1213,Kavitark Ram Shriram,class A,1957-01-21
+1214,Hans Sy,class B,1955-09-29
+1215,Herbert Sy,class B,1956-10-01
+1216,Tahir & family,class D,1952-03-26
+1217,Wang Linpeng,class D,1968-05-01
+1218,David Wertheim,class A,1958-01-01
+1219,Oprah Winfrey,class F,1954-01-29
+1220,Xingming Zhu,class F,1967-03-01
+1221,Suhail Bahwan,class E,1939-01-01
+1222,David Baszucki,class D,1963-01-20
+1223,Thor Bjorgolfsson,class F,1967-03-19
+1224,Charles Bronfman,class D,1931-06-27
+1225,Chen Tei-fu,class B,1948-04-19
+1226,Chuchat Petaumpai & Daonapa Petampai,class F,1953-01-01
+1227,Leon G. Cooperman,class C,1943-04-25
+1228,Smita Crishna-Godrej,class A,1950-12-30
+1229,Jacques D'Amours,class C,1956-12-08
+1230,Maria Del Pino,class B,1956-03-19
+1231,Gerald Ford,class E,1944-08-04
+1232,Adi Godrej,class A,1942-04-03
+1233,Jamshyd Godrej,class C,1949-01-24
+1234,Nadir Godrej,class A,1951-01-01
+1235,Sanjiv Goenka,class F,1961-01-29
+1236,Stein Erik Hagen,class C,1956-07-22
+1237,Donald Horton & family,class D,1950-03-05
+1238,Hu Yangzhong,class C,1965-03-06
+1239,Baba Kalyani,class D,1949-01-07
+1240,Stephen Lansdown,class F,1952-08-30
+1241,Mark Leonard & family,class E,1956-05-06
+1242,William Li,class F,1975-01-01
+1243,K.C. Liu,class F,1954-03-20
+1244,Liu Xiaodong,class D,1967-07-03
+1245,Aloke Lohia,class C,1958-11-27
+1246,Mohamed Mansour,class B,1948-01-23
+1247,Kishore Mariwala,class B,1935-02-14
+1248,Jed McCaleb,class F,1975-01-01
+1249,Enhua Mi,class A,1958-04-01
+1250,Willy Michel,class E,1947-01-01
+1251,Lachhman Das Mittal,class B,1930-11-05
+1252,Ravi Modi,class B,1977-03-13
+1253,Charles Munger,class A,1924-01-01
+1254,Rishad Naoroji,class B,1951-08-30
+1255,Yongpei Ni & family,class D,1952-01-23
+1256,Fatih Ozmen,class B,1958-02-02
+1257,Qiu Minxiu,class F,1945-09-17
+1258,Stewart Rahr,class C,1946-02-18
+1259,Prathap Reddy,class E,1932-02-05
+1260,Chad Richison,class B,1970-10-10
+1261,Suh Kyung-bae,class A,1963-01-14
+1262,Glen Taylor,class C,1941-04-20
+1263,Nadia Thiele,class C,1976-01-07
+1264,Wang Minwen,class F,1963-11-01
+1265,Huijiao Yu,class C,1966-04-01
+1266,Zhang Ning & family,class D,1974-04-01
+1267,Zhao Tao,class F,1966-01-01
+1268,Hongyi Zhou,class E,1970-10-01
+1269,Rajendra Agarwal,class C,1959-02-25
+1270,George Argyros & family,class A,1937-02-04
+1271,Edward Bass,class F,1945-09-10
+1272,Banwari Lal Bawri,class F,1953-04-02
+1273,Girdhari Lal Bawri,class C,1947-08-03
+1274,Chao Teng-hsiung,class F,1944-10-04
+1275,Zhisong Chen,class B,1966-01-07
+1276,Chey Tae-won,class B,1960-12-03
+1277,Choo Chong Ngen,class D,1953-04-21
+1278,John Coates,class F,1970-01-07
+1279,Alexandra Daitch,class D,1963-01-01
+1280,Chetan Dube,class B,1966-01-05
+1281,Daniel Ek,class D,1983-02-21
+1282,John Fisher,class B,1961-06-01
+1283,Bernard Fraisse & family,class C,1956-08-10
+1284,William Franke,class E,1937-04-15
+1285,Caroline Hagen Kjos,class C,1984-01-01
+1286,Lam Kong,class A,1964-06-15
+1287,Hans Langer,class F,1952-01-18
+1288,Joe Lau,class F,1989-07-01
+1289,Liang Qin & family,class C,1971-10-26
+1290,Peter Lim,class C,1953-06-01
+1291,Sarah MacMillan,class F,1954-01-01
+1292,Kalanithi Maran,class F,1965-07-26
+1293,Lirio Parisotto,class B,1953-12-18
+1294,Rajan Raheja & family,class F,1954-06-01
+1295,Alberto Roemmers,class F,1927-01-01
+1296,Rodney Sacks,class D,1949-12-24
+1297,Ferit Faik Sahenk,class D,1964-03-18
+1298,Hilton Schlosberg,class A,1953-01-01
+1299,Alberto Siccardi & family,class C,1944-05-01
+1300,Salil Singhal,class F,1947-07-21
+1301,Lucy Stitzer,class D,1960-01-01
+1302,Otto Toto Sugiri,class F,1953-09-23
+1303,Harley Sy,class B,1959-06-01
+1304,Teresita Sy-Coson,class E,1950-10-01
+1305,Katsumi Tada,class A,1945-07-12
+1306,Tang Yiu,class B,1934-04-01
+1307,Jeff Tangney,class D,1972-08-09
+1308,Lottie Tham & family,class E,1949-04-18
+1309,T.Y. Tsai,class C,1953-01-01
+1310,Timur Turlov,class E,1987-11-13
+1311,Hamdi Ulukaya,class B,1972-10-26
+1312,Peter Unger,class C,1944-08-20
+1313,Nikil Viswanathan,class B,1987-10-16
+1314,Anthony Wood,class E,1965-12-04
+1315,Zhang Hongwei,class E,1954-12-26
+1316,Zhang Li,class D,1953-01-01
+1317,Houshan Bai,class B,1964-01-01
+1318,Alex Beard,class F,1967-08-03
+1319,Koos Bekker,class A,1952-12-14
+1320,William Boyd & family,class B,1931-11-04
+1321,Timothy Boyle,class A,1949-09-07
+1322,Anand Burman,class F,1952-05-05
+1323,Richard Chandler,class A,1959-01-01
+1324,R.G. Chandramogan,class F,1949-03-01
+1325,Cho Young-sik,class C,1961-06-30
+1326,Chu Lam Yiu,class D,1969-12-01
+1327,Kommer Damen,class E,1944-03-30
+1328,Henry Davis,class E,1951-02-16
+1329,Ray Davis,class F,1941-12-18
+1330,Stephen Feinberg,class F,1960-03-29
+1331,Kenneth Feld & family,class E,1948-10-31
+1332,Alexander Frolov,class E,1964-05-17
+1333,Mario Germano Giuliani,class B,1972-02-26
+1334,Serge Godin,class B,1949-11-17
+1335,Noam Gottesman,class F,1961-05-24
+1336,Philip & Cristina Green,class A,1952-03-15
+1337,Yusuf Hamied,class B,1936-07-26
+1338,Bill Haslam,class B,1958-08-23
+1339,Hans-Werner Hector,class C,1940-01-17
+1340,Ho Hung Anh,class B,1970-06-08
+1341,Douglas Hsu,class F,1942-08-24
+1342,Erman Ilicak,class C,1967-10-03
+1343,Zhaobai Jiang,class D,1963-08-17
+1344,Osman Kibar,class C,1971-04-01
+1345,Adam Kwok,class E,1983-04-01
+1346,Frank Laukien,class B,1960-02-04
+1347,Louis Le Duff,class B,1946-08-01
+1348,Solomon Lew,class A,1945-03-22
+1349,Liang Rubo,class B,1983-01-01
+1350,Liang Zhaoxian,class F,1965-01-01
+1351,Prayudh Mahagitsiri,class F,1946-01-01
+1352,Clayton Mathile,class C,1941-01-11
+1353,Erwin Franz Mueller,class B,1932-08-09
+1354,David Murdock,class C,1923-04-10
+1355,Rubens Ometto Silveira Mello,class D,1950-01-01
+1356,Erik Paulsson & family,class B,1942-01-31
+1357,Heloise Pratt,class B,1962-09-13
+1358,Qiu Jianping & family,class D,1962-01-28
+1359,Dirk Rossmann & family,class C,1946-09-07
+1360,Stephan Schmidheiny,class C,1947-10-29
+1361,Wenrong Shen,class B,1946-02-13
+1362,Guangxin Sun,class F,1962-12-01
+1363,Mengquan Sun & family,class B,1950-03-01
+1364,Thomas Tull,class E,1970-06-11
+1365,Ted Turner,class C,1938-11-19
+1366,David Walentas,class B,1938-08-07
+1367,Yingming Wu,class F,1967-01-01
+1368,Yingzhuo Xu,class A,1968-01-01
+1369,Christoph Zeller,class F,1957-05-04
+1370,Zhang Wanzhen,class E,1949-12-01
+1371,Xiaojuan Zhang,class B,1969-10-01
+1372,Michael Ashcroft,class F,1946-01-01
+1373,Alex Atallah,class D,1992-03-09
+1374,Brett Blundy,class A,1960-01-17
+1375,Chris Britt,class E,1973-03-17
+1376,Cen Junda,class B,1964-06-18
+1377,Yadu Hari Dalmia & family,class E,1947-06-02
+1378,Zhenggang Dou,class C,1953-05-21
+1379,Weimin Du,class A,1963-12-01
+1380,Devin Finzer,class A,1990-10-18
+1381,Robert Friedland,class E,1950-08-18
+1382,Phillip Frost,class A,1936-11-11
+1383,Jeffrey Gundlach,class E,1959-01-01
+1384,John Hancock,class D,1976-01-02
+1385,Georg Haub,class A,1962-01-01
+1386,Hortensia Herrero,class B,1950-05-20
+1387,"B. Wayne Hughes, Jr.",class D,1961-01-01
+1388,Bruce Karsh,class B,1955-10-10
+1389,Shlomo Kramer,class A,1966-03-14
+1390,Jonathan Kwok,class C,1992-03-01
+1391,Christian Latouche,class C,1940-07-18
+1392,Martin Lau,class E,1973-04-01
+1393,Li Wa,class F,1966-01-01
+1394,Liang Xinjun,class F,1968-01-01
+1395,Lin Chang Su-O,class B,1940-08-01
+1396,Lin Fanlian,class E,1961-06-01
+1397,Lin Lairong & family,class F,1968-08-09
+1398,Daniel Lubetzky,class F,1968-09-28
+1399,Howard Marks,class F,1946-04-23
+1400,Craig McCaw,class B,1949-08-11
+1401,Vincent McMahon,class C,1945-08-24
+1402,Mu Rongjun,class A,1980-01-01
+1403,Jonathan Nelson,class A,1956-05-18
+1404,Bianca Rinehart,class D,1977-03-19
+1405,Ginia Rinehart,class A,1986-09-06
+1406,Filiz Sahenk,class C,1967-02-14
+1407,S.D. Shibulal,class F,1955-03-01
+1408,Alexander Svetakov,class F,1968-02-15
+1409,Jeffrey Talpins,class B,1975-03-06
+1410,Ming Tian,class C,1953-12-20
+1411,Arvind Tiku,class C,1970-02-22
+1412,Torsten Toeller,class B,1966-04-06
+1413,Riaz Valani,class A,1976-09-01
+1414,Pieter van der Does,class C,1969-05-01
+1415,Lang Walker,class D,1945-07-05
+1416,Hope Welker,class B,1985-08-13
+1417,Xie Bingkun & family,class E,1966-08-25
+1418,William Young,class E,1941-01-01
+1419,Zhou Jian,class B,1976-07-01
+1420,Mohamed Al Fayed,class A,1929-01-27
+1421,Faisal Bin Qassim Al Thani,class E,1948-01-01
+1422,Masaaki Arai,class C,1965-10-29
+1423,Tatyana Bakalchuk,class A,1975-10-16
+1424,Lee Bass,class B,1956-05-24
+1425,Alberto Bombassei,class B,1940-10-05
+1426,Jim Breyer,class E,1961-07-26
+1427,Ron Burkle,class C,1952-11-12
+1428,Chen Huwen,class D,1970-07-01
+1429,Chen Huxiong,class E,1970-07-01
+1430,Chen Xuehua,class A,1961-01-01
+1431,Bruce Cheng,class F,1936-01-01
+1432,Ryan Cohen,class C,1985-08-04
+1433,Dermot Desmond,class A,1950-07-01
+1434,Fred Ehrsam,class C,1988-05-10
+1435,John Elkann,class D,1976-01-04
+1436,Bob Ell,class F,1944-12-22
+1437,Fang Xiaoliang & family,class A,1958-09-01
+1438,Lindsay Fox,class E,1937-04-19
+1439,Gary Friedman,class F,1957-08-06
+1440,Gordon Getty,class B,1933-12-20
+1441,Dennis Gillings,class C,1944-04-25
+1442,Harsh Goenka,class C,1957-12-10
+1443,David Hains,class B,1930-08-19
+1444,Bahaa Hariri,class E,1966-04-26
+1445,Shmuel Harlap,class F,1944-11-13
+1446,Gerry Harvey,class A,1939-09-18
+1447,Reid Hoffman,class A,1967-08-05
+1448,Hou Juncheng,class F,1964-12-17
+1449,Thomas James,class D,1942-05-10
+1450,Eiichi Kuriwada,class E,1946-10-10
+1451,Kwek Leng Kee,class C,1955-01-01
+1452,Lai Shixian,class C,1975-01-01
+1453,Lau Cho Kun,class C,1936-01-10
+1454,Lee Hae-jin,class E,1967-06-22
+1455,Harald Link,class B,1955-01-12
+1456,Liu Xiucai & family,class F,1957-03-01
+1457,Yangyong Luo & family,class A,1975-06-02
+1458,Igor Makarov,class A,1962-04-05
+1459,Alexander Mamut,class F,1960-01-29
+1460,David Mindus,class B,1972-01-26
+1461,Yuji Otsuka,class A,1954-02-13
+1462,Clive Palmer,class D,1954-03-26
+1463,Ajay Parekh,class B,1957-06-23
+1464,Narendrakumar Parekh,class F,1938-04-17
+1465,Xiangdong Qi,class C,1970-10-01
+1466,Jianhua Ren,class B,1956-08-01
+1467,Alice Schwartz,class D,1926-07-02
+1468,Peter Sondakh,class B,1950-02-26
+1469,Song Fei,class E,1966-09-12
+1470,Timothy Springer,class F,1948-02-23
+1471,Suyu Su & family,class F,1948-11-24
+1472,Elizabeth Sy,class E,1952-06-01
+1473,Sukanto Tanoto,class C,1949-12-25
+1474,Jayshree Ullal,class B,1961-03-27
+1475,Sunny Varkey,class A,1957-04-09
+1476,Jitendra Virwani,class D,1966-02-18
+1477,Wang Ren-sheng,class C,1931-12-01
+1478,Wang Wenmo,class E,1957-01-01
+1479,Thomas Wu,class C,1950-04-01
+1480,Wu Ying,class B,1964-04-16
+1481,Amy Wyss,class C,1971-01-01
+1482,Xiang Guangming & family,class F,1963-10-01
+1483,Xu Shugen,class D,1965-06-12
+1484,Steven Meng Yang & family,class C,1982-05-01
+1485,Clayton Zekelman,class F,1969-01-01
+1486,Hongfei Zhao,class D,1974-06-01
+1487,S. Daniel Abraham,class C,1924-08-15
+1488,Aziz Akhannouch & family,class B,1961-01-01
+1489,Andrey Andreev,class A,1974-02-03
+1490,Ramon Ang,class E,1954-01-14
+1491,Guilherme Benchimol,class C,1976-07-07
+1492,Julio Bozano,class C,1936-02-01
+1493,Ryan Breslow,class F,1994-05-20
+1494,Cao Jianwei,class A,1978-05-30
+1495,Herb Chambers,class C,1942-01-01
+1496,Daniel Chiu,class B,1960-11-30
+1497,Tim Cook,class C,1960-11-01
+1498,Brunello Cucinelli & family,class D,1953-09-03
+1499,Georgi Domuschiev,class E,1972-08-06
+1500,Kiril Domuschiev,class F,1969-04-18
+1501,Glenn Dubin,class C,1957-04-13
+1502,James Duff,class C,1961-03-07
+1503,Thomas Duff,class D,1956-12-31
+1504,Robert Duggan,class F,1944-04-28
+1505,Maria Franca Fissolo,class A,1935-01-01
+1506,Fu Mingkang & family,class C,1963-03-17
+1507,Jay Hennick,class E,1957-01-20
+1508,Orion Hindawi,class C,1980-01-10
+1509,Ji Qi,class A,1966-10-01
+1510,Kim Chang-soo,class F,1961-04-01
+1511,Vyacheslav Kim,class F,1969-06-12
+1512,Kuan Kam Hon & family,class A,1947-09-04
+1513,Egor Kulkov,class C,1971-12-07
+1514,Josh Kushner,class F,1985-06-12
+1515,Henry Laufer,class F,1945-08-13
+1516,Thomas Lee,class F,1944-03-27
+1517,Michael Lee-Chin,class E,1951-01-03
+1518,Li Xuhui,class B,1968-06-15
+1519,Lim Kok Thay,class B,1951-08-16
+1520,Joao Roberto Marinho,class B,1953-09-16
+1521,Jose Roberto Marinho,class C,1955-12-26
+1522,Roberto Irineu Marinho,class D,1947-10-13
+1523,Jim McKelvey,class F,1965-10-19
+1524,Robert Miller,class F,1933-05-23
+1525,David Nahmad,class F,1947-04-14
+1526,Florentino Perez,class F,1947-03-08
+1527,Jennifer Pritzker,class F,1950-08-13
+1528,Linda Pritzker,class E,1953-09-14
+1529,P.V. Ramprasad Reddy,class E,1958-03-30
+1530,"Joe Rogers, Jr.",class F,1946-12-02
+1531,Ruan Shuilong & family,class D,1935-12-01
+1532,Phil Ruffin,class F,1935-03-17
+1533,Vinod Saraf,class C,1952-06-16
+1534,Maria-Elisabeth Schaeffler-Thumann,class E,1941-08-17
+1535,Genhuo Shao,class F,1965-07-29
+1536,Shen Xiqiang & family,class F,1948-03-02
+1537,Shi Wen-long,class E,1928-02-01
+1538,Thaksin Shinawatra,class B,1949-07-26
+1539,Alexander Skorobogatko,class B,1967-09-25
+1540,Sylvia Stroeher,class B,1955-05-30
+1541,Wichai Thongtang,class D,1947-01-01
+1542,Todd Wagner,class D,1960-08-02
+1543,Wang Jianguo,class E,1960-01-01
+1544,Shuifu Wang,class E,1955-02-10
+1545,Wenbiao Wang,class D,1957-01-01
+1546,Kanye West,class E,1977-06-08
+1547,Evan Williams,class F,1972-03-31
+1548,Zhongyi Wu,class D,1973-10-28
+1549,Zhihan Xu,class D,1972-11-30
+1550,Yan Zhi,class B,1972-07-01
+1551,Michael Ying,class B,1949-12-01
+1552,Yuan Liping,class C,1971-01-01
+1553,Anu Aga,class A,1942-08-01
+1554,Joy Alukkas,class F,1956-09-04
+1555,Sezai Bacaksiz,class E,1949-07-27
+1556,Baokun Bai,class A,
+1557,Acharya Balkrishna,class F,1972-07-25
+1558,Kiki Barki,class B,1939-11-25
+1559,John Bloor,class B,1943-06-16
+1560,Nicola Bulgari,class A,1941-01-16
+1561,Alejandro Bulgheroni,class C,1944-11-01
+1562,Fernando Chico Pardo,class E,1952-02-15
+1563,Jose Luis Cutrale,class A,1946-09-17
+1564,D. Leopoldo Del Pino,class F,1962-07-30
+1565,James Dinan,class B,1959-05-22
+1566,Francois Feuillet & family,class F,1949-01-01
+1567,Guangming Fu & family,class E,1953-10-02
+1568,Mario Gabelli,class C,1942-03-31
+1569,Reinold Geiger,class A,1947-07-10
+1570,He Zhenggang,class E,1954-03-25
+1571,Roberto Hernandez Ramirez,class B,1942-03-24
+1572,Hoi Kin Hong,class C,1952-09-01
+1573,Huang Qiaoling,class B,1958-11-15
+1574,Willis Johnson,class B,1947-05-26
+1575,Keeree Kanjanapas,class F,1950-10-18
+1576,Kim Dae-il,class C,1980-01-26
+1577,Kim Hyoung-nyon,class C,1976-01-01
+1578,Andrei Kozitsyn,class A,1960-06-09
+1579,Thomas Kwok,class B,1951-10-06
+1580,Lei Jufang,class F,1953-01-03
+1581,David Lichtenstein,class F,1961-11-21
+1582,Lin Dingqiang & family,class A,1966-10-01
+1583,Mikhail Lomtadze,class C,1975-10-17
+1584,Yusaku Maezawa,class D,1975-11-22
+1585,Katarina Martinson,class F,1981-05-04
+1586,Shouliang Miao,class F,1955-01-01
+1587,Romano Minozzi,class A,1935-03-06
+1588,Pedro Moreira Salles,class F,1959-10-20
+1589,Alexander Nesis,class C,1962-12-19
+1590,Nguyen Dang Quang,class B,1963-08-23
+1591,Oei Hong Leong,class A,1948-03-21
+1592,Nihat Ozdemir,class D,1950-04-05
+1593,Gretel Packer,class A,1966-04-01
+1594,Benjamin Zhengmin Pan & family,class B,1969-12-01
+1595,Victor Pinchuk,class A,1960-12-14
+1596,Alexander Ponomarenko,class B,1964-10-27
+1597,Qi Jinxing,class E,1962-03-28
+1598,Larry Robbins,class F,1969-10-21
+1599,Dwight Schar,class D,1942-02-08
+1600,Shi Yifeng,class D,1974-01-01
+1601,Sun Hongjun,class D,1973-07-01
+1602,Anand Surana,class B,1971-03-24
+1603,Dilip Surana,class D,1966-01-18
+1604,Djoko Susanto,class B,1950-02-09
+1605,Sze Man Bok,class B,1950-01-01
+1606,Alain Taravella,class F,1948-01-01
+1607,Martin Viessmann,class C,1953-10-10
+1608,Georg von Opel,class B,1966-05-04
+1609,Changtian Wang,class C,1965-04-26
+1610,Wang Chaobin,class F,1956-01-01
+1611,Wang Chou-hsiong,class C,1941-01-01
+1612,Wang Xiaoshen,class A,1968-10-01
+1613,Wei Yin-Heng,class A,1959-01-01
+1614,Xue Xiangdong & family,class B,1959-02-10
+1615,Yuan Fugen & family,class D,1950-11-15
+1616,David Zalik,class D,1974-02-02
+1617,Leslie Alexander,class B,1943-06-30
+1618,Igor Altushkin,class B,1970-09-10
+1619,Roberto Angelini Rossi,class B,1948-07-30
+1620,Nigel Austin,class C,1970-09-25
+1621,Bang Jun-hyuk,class E,1968-06-01
+1622,O. Francis Biondi,class D,1964-07-04
+1623,Chang Byung-gyu,class A,1973-04-25
+1624,Chen Gang,class F,1968-01-01
+1625,Liying Chen,class B,1975-10-30
+1626,Chen Xueli,class E,1951-10-01
+1627,Chi Yufeng,class E,1971-01-01
+1628,Mark Coombs,class F,1961-01-01
+1629,Tench Coxe,class C,1958-01-14
+1630,John de Mol,class D,1955-03-24
+1631,Alfredo Egydio Arruda Villela Filho,class E,1969-11-18
+1632,Ibrahim Erdemoglu,class C,1962-09-26
+1633,Paul Foster,class E,1957-10-08
+1634,James France,class A,1944-10-24
+1635,Yasuhiro Fukushima,class D,1947-08-18
+1636,Zhongru Gan,class A,1948-07-01
+1637,Rahul Gautam,class A,1952-11-18
+1638,Ali Ghodsi,class D,1978-12-08
+1639,Giammaria Giuliani,class D,1978-02-20
+1640,Christopher Goldsbury,class A,1943-01-01
+1641,Alexandre Grendene Bartelle,class C,1950-01-23
+1642,Surjit Kumar Gupta,class E,1942-01-13
+1643,Brian Higgins,class A,1965-02-08
+1644,David Hindawi,class B,1944-12-08
+1645,Chengzhong Hu,class A,1961-03-01
+1646,Huang Min,class E,1973-07-01
+1647,Stanley Hubbard,class B,1933-05-28
+1648,Hui Lin Chit,class B,1953-06-16
+1649,Hal Jackman,class A,1932-06-10
+1650,Stephen Jarislowsky,class D,1925-09-09
+1651,George Joseph,class A,1921-09-11
+1652,Kim Kardashian,class F,1980-10-21
+1653,Dominika Kulczyk,class B,1977-07-30
+1654,Edward Lampert,class A,1962-07-19
+1655,Marc Lasry,class F,1960-09-23
+1656,Michiel Le Roux,class D,1949-05-20
+1657,Peter Leibinger,class D,1967-01-01
+1658,Regine Leibinger,class E,1963-01-01
+1659,Nicola Leibinger-Kammueller,class F,1959-12-15
+1660,Wolfgang Leitner,class E,1953-03-27
+1661,Liu Zhongtian & family,class E,1964-02-01
+1662,Bill Malhotra,class B,1949-09-08
+1663,George Marcus,class A,1941-08-15
+1664,Yves-Loic Martin,class E,1966-01-01
+1665,Gary Michelson,class F,1949-01-14
+1666,Robert G. Miller,class E,1945-07-03
+1667,Fernando Roberto Moreira Salles,class A,1946-05-29
+1668,Joao Moreira Salles,class B,1962-01-01
+1669,Walther Moreira Salles Junior,class D,1956-04-12
+1670,Zugen Ni,class A,1957-01-18
+1671,Liora Ofer,class F,1953-12-22
+1672,Mrudula Parekh,class F,1948-01-01
+1673,David Paul,class F,1966-12-25
+1674,Pierre Karl Péladeau,class D,1961-10-16
+1675,Miranda Qu,class F,1985-01-01
+1676,Phillip T. (Terry) Ragon,class E,1949-06-01
+1677,G. Rajendran,class A,1942-10-05
+1678,Krit Ratanarak,class F,1946-04-19
+1679,Jerry Reinsdorf,class F,1936-02-25
+1680,Mochtar Riady & family,class F,1929-05-12
+1681,Rajju Shroff,class F,1933-10-20
+1682,Frank Slootman,class E,1958-10-03
+1683,Henry Swieca,class F,1957-05-09
+1684,Yuequn Tao,class C,1960-01-01
+1685,Robert Toennies,class F,1978-05-29
+1686,Torbjorn Tornqvist,class B,1953-11-08
+1687,Zhenghua Wang,class A,1944-04-25
+1688,Charlotte Colket Weber,class F,1942-11-19
+1689,Wu Lanlan & family,class E,1974-01-01
+1690,Wu Yulan,class C,1969-08-26
+1691,Elaine Wynn,class D,1942-04-28
+1692,Xu Shijun & family,class F,1963-03-01
+1693,Xu Xudong & family,class D,1970-03-01
+1694,Yang Xuegang,class B,1965-02-01
+1695,Zhang Chuanwei & family,class F,1962-06-15
+1696,Xuexin Zhang & family,class F,1947-07-01
+1697,Noubar Afeyan,class C,1962-07-25
+1698,Farkhad Akhmedov,class B,1955-09-15
+1699,Marc Andreessen,class A,1971-07-09
+1700,John Bicket,class E,1980-03-20
+1701,Zadik Bino & family,class E,1944-01-01
+1702,Christian Birkenstock,class A,1972-09-21
+1703,Sanjit Biswas,class F,1982-01-12
+1704,David Booth,class F,1946-01-01
+1705,Josef Boquoi & family,class D,1934-01-01
+1706,Saket Burman,class B,1977-03-10
+1707,Mingtong Cai,class A,1952-02-15
+1708,Chen Yung-tai,class D,1936-01-20
+1709,Phongthep Chiaravanont,class D,1952-01-01
+1710,Ivan Chrenko,class A,1967-06-27
+1711,Sol Daurella,class A,1966-01-01
+1712,Dulce Pugliese de Godoy Bueno,class A,1947-12-12
+1713,Norbert Dentressangle,class B,1954-07-09
+1714,Oleg Deripaska,class A,1968-01-02
+1715,Dong Jinggui,class F,
+1716,Keith Dunleavy & family,class C,1969-06-25
+1717,Donald Foss,class D,1944-06-18
+1718,Rolf Gerling,class F,1954-12-15
+1719,G. Gnanalingam,class F,1944-09-10
+1720,He Zhaoxi,class E,1974-01-01
+1721,William Heinecke,class D,1949-06-04
+1722,Huh Jae-myung,class B,1971-05-01
+1723,Tianjiang Jia & family,class D,1962-07-01
+1724,Michael Jordan,class F,1963-02-17
+1725,Dmitry Kamenshchik,class F,1968-04-26
+1726,Kim Taek-jin,class B,1967-03-14
+1727,Koo Kwang-mo,class E,1978-01-23
+1728,Anthony Langley,class D,1954-12-02
+1729,Lee Joong-keun,class F,1941-01-11
+1730,James Leininger,class C,1945-03-30
+1731,Li Jianli,class D,1972-09-27
+1732,Weiwei Li,class A,1977-01-01
+1733,Li Zhigang,class D,1976-06-01
+1734,Jimmy John Liautaud,class D,1964-01-12
+1735,Louise Lindh,class F,1979-10-20
+1736,Anand Mahindra,class A,1955-05-01
+1737,Bruce Mathieson,class B,1944-02-14
+1738,Billy Joe (Red) McCombs,class D,1927-10-19
+1739,Deepak Mehta,class A,1956-12-12
+1740,Mario Moretti Polegato & family,class D,1952-08-16
+1741,Alberto Palatchi,class E,1949-06-26
+1742,Nelson Peltz,class A,1942-06-01
+1743,Jorge Perez,class D,1949-10-17
+1744,Alberto Prada,class D,1954-02-21
+1745,Marina Prada,class E,1945-07-14
+1746,M.Satyanarayana Reddy,class F,1957-04-18
+1747,Rihanna,class C,1988-02-20
+1748,Arkady Rotenberg,class A,1951-12-15
+1749,Dieter Schnabel,class D,1946-01-01
+1750,Shang Xiaobo & family,class B,1974-03-30
+1751,Shao Qinxiang,class E,1954-09-01
+1752,Basudeo Singh,class D,1940-11-20
+1753,Edward Stack,class C,1954-12-27
+1754,Weijie Sun,class D,1963-07-26
+1755,Vonnarat Tangkaravakoon,class F,1971-09-11
+1756,Byron Trott,class F,1958-12-02
+1757,Jan Van Geet,class C,1971-04-23
+1758,Radha Vembu,class B,1972-12-24
+1759,Patrizio Vinciarelli,class A,1946-10-26
+1760,Mingwang Wang,class E,1967-05-02
+1761,Wang Yanqing & family,class F,1946-07-02
+1762,Lars Wingefors,class E,1977-04-02
+1763,Stephen Winn,class B,1946-09-12
+1764,Ian Wood & family,class B,1942-07-21
+1765,Gordon Wu,class C,1935-12-03
+1766,Wu Xiangdong,class D,1969-01-01
+1767,Yao Kuizhang,class B,1965-01-01
+1768,Vladimir Yevtushenkov,class D,1948-09-25
+1769,Dasheng Yi,class B,1961-02-01
+1770,Yu Lili,class C,1968-01-01
+1771,Alan Zekelman,class A,1962-10-01
+1772,Kaitian Zeng,class D,1975-01-01
+1773,Zhang Jingzhang & family,class F,1936-01-01
+1774,Zhang Yubai,class B,1964-10-01
+1775,Zheng Hong & family,class C,1950-10-22
+1776,Zhong Peifeng,class F,1963-01-01
+1777,Zhou Zongwen & family,class B,1957-03-01
+1778,Zhu Yiming,class C,1972-07-01
+1779,Zhaojiang Zhu,class D,1974-01-01
+1780,Anita Zucker,class E,1952-01-19
+1781,"Herbert Allen, Jr. & family",class C,1940-03-05
+1782,Vasily Anisimov,class F,1951-09-19
+1783,Mori Arkin,class C,1952-09-24
+1784,Semahat Sevim Arsel,class B,1928-09-08
+1785,Clifford Asness,class C,1966-10-17
+1786,Louis Bacon,class D,1956-07-25
+1787,Hari Bhartia,class E,1956-12-12
+1788,Shyam Bhartia,class A,1952-11-09
+1789,Amit Burman,class F,1969-07-01
+1790,Chen Shibin,class A,1966-11-01
+1791,Chen Tianshi,class A,1985-01-01
+1792,Robert Clark,class F,1959-01-30
+1793,Ana Lucia de Mattos Barretto Villela,class D,1973-10-25
+1794,Diao Zhizhong,class F,1963-11-06
+1795,Jamie Dimon,class E,1956-03-13
+1796,Gary Fegel,class F,1974-01-01
+1797,Gao Yunfeng,class B,1967-02-01
+1798,Philippe Ginestet & family,class C,1954-01-01
+1799,Sam Goi,class C,1946-12-28
+1800,Lance Gokongwei,class C,1967-12-01
+1801,Sergei Gordeev,class B,1972-11-22
+1802,Bill Gross,class A,1944-04-13
+1803,Sue Gross,class E,1950-02-17
+1804,Patrick Hanrahan,class A,1955-05-08
+1805,Lutz Mario Helmig,class F,1946-08-29
+1806,Ilkka Herlin,class C,1959-01-01
+1807,Asok Kumar Hiranandani,class D,1954-11-28
+1808,Hu Kunhui,class C,1991-01-01
+1809,Archie Hwang,class F,1952-08-20
+1810,Jared Isaacman,class D,1983-02-11
+1811,Anurang Jain,class E,1962-03-21
+1812,Jin Lei & family,class E,1954-09-23
+1813,Sunjay Kapur,class F,1971-10-15
+1814,Richard Kayne,class D,1946-01-01
+1815,Randal J. Kirk,class F,1954-03-01
+1816,Jim Koch,class D,1949-05-27
+1817,William Koch,class B,1940-05-03
+1818,Kagemasa Kozuki,class D,1940-11-12
+1819,Arvind Lal,class B,1949-08-22
+1820,Robert Langer,class C,1948-08-29
+1821,Theodore Leonsis,class B,1956-01-08
+1822,David Xueling Li,class B,1973-01-01
+1823,Li Denghai,class A,1949-09-01
+1824,Li Guoqing,class C,1970-02-22
+1825,Li Jiaquan,class D,1963-09-06
+1826,Li Rucheng,class D,1951-06-13
+1827,Li Sze Lim,class A,1957-04-01
+1828,Li Yongqing,class E,1964-06-30
+1829,Lim Wee Chai,class C,1958-01-07
+1830,Liu Aisen & family,class A,1972-10-01
+1831,Liu Ming Chung,class E,1963-01-01
+1832,Vincent Lo,class B,1949-04-01
+1833,Brandt Louie,class A,1943-07-05
+1834,Catherine Lozick,class E,1945-05-01
+1835,Lu Zongjun,class F,1963-06-01
+1836,Lv Jianming,class D,1965-01-01
+1837,"Cargill MacMillan, III.",class E,1959-12-21
+1838,Duncan MacMillan,class F,1937-12-17
+1839,John MacMillan,class B,1949-09-20
+1840,Martha MacMillan,class E,1951-10-01
+1841,William MacMillan,class B,1954-05-25
+1842,Terence (Terry) Matthews,class E,1943-04-01
+1843,Kazuo Okada,class D,1942-10-03
+1844,Tomas Olivo Lopez,class B,1974-01-01
+1845,Jorge Pinheiro Koren de Lima,class C,1972-11-09
+1846,Candido Pinheiro Koren de Lima Junior,class D,1970-10-10
+1847,Qian Ying,class A,1966-01-01
+1848,Ren Jinsheng & family,class C,1963-01-01
+1849,Brian Roberts,class A,1959-06-28
+1850,Austin Russell,class F,1995-03-14
+1851,George Sakellaris,class A,1946-06-03
+1852,Sheryl Sandberg,class B,1969-08-28
+1853,Andres Santo Domingo,class E,1978-06-01
+1854,Paul Saville,class C,1955-12-14
+1855,Ivan Savvidis,class A,1959-03-27
+1856,Michael Saylor,class A,1965-02-04
+1857,Gerald Schwartz,class A,1941-11-24
+1858,Sathien Setthasit,class F,1954-04-20
+1859,Niraj Shah,class E,1974-03-10
+1860,Keiichi Shibahara,class A,1964-10-09
+1861,Evgeny (Eugene) Shvidler,class D,1964-03-23
+1862,Ryan Smith,class E,1978-06-28
+1863,Peter Sperling,class F,1959-11-22
+1864,Ion Stoica,class C,1965-02-12
+1865,Bambang Sutantio,class E,1958-12-26
+1866,Tan Yu Yeh,class A,1971-01-01
+1867,David Teoh,class C,1956-01-01
+1868,Carl Thoma,class E,1948-10-12
+1869,Ion Tiriac,class D,1939-05-09
+1870,Clemens Toennies,class F,1956-05-27
+1871,Tran Ba Duong & family,class A,1960-04-01
+1872,Tung Ching Bor,class C,1963-01-01
+1873,Tung Ching Sai,class D,1965-01-01
+1874,Scott Watterson,class B,1955-05-18
+1875,Wei Ing-Chou,class D,1953-07-01
+1876,Wei Yin-Chun,class E,1957-03-08
+1877,Wei Ying-Chiao,class B,1955-02-04
+1878,Tom Werner,class F,1950-04-12
+1879,Kie Chie Wong,class B,1948-04-04
+1880,Xu Guozhong & family,class A,1963-09-01
+1881,Xu Yuejuan,class B,1962-01-24
+1882,Yang Tingdong,class D,1960-05-20
+1883,Yu Peidi,class A,1960-01-01
+1884,Matei Zaharia,class D,1985-04-21
+1885,Zhang Jian,class E,1969-01-01
+1886,Keqiang Zhang,class E,1960-04-29
+1887,Zheng Jianjiang & family,class F,1961-01-01
+1888,Zhong Sheng Jian,class C,1958-03-03
+1889,Antti Aarnio-Wihuri,class D,1940-02-24
+1890,Hamdi Akin & family,class A,1955-01-01
+1891,Chirayu Amin,class A,1946-12-04
+1892,Joachim Ante,class A,1983-01-01
+1893,Ziv Aviram,class D,1959-01-03
+1894,Danna Azrieli,class F,1967-06-03
+1895,Naomi Azrieli,class F,1965-09-26
+1896,Sharon Azrieli,class B,1960-08-04
+1897,Lesley Bamberger,class D,1965-06-03
+1898,Bernhard Braun-Luedicke,class C,1977-01-01
+1899,Eva Maria Braun-Luedicke,class C,1987-01-01
+1900,Ana Maria Brescia Cafferata,class E,1924-04-19
+1901,Nikolai Buinov,class F,1967-07-09
+1902,Paolo Bulgari,class F,1937-09-08
+1903,Andres Bzurovski Bay,class B,1977-09-04
+1904,Ahmet Calik,class C,1958-03-01
+1905,Giuliana Caprotti,class A,1940-11-21
+1906,Marina Caprotti,class A,1978-01-17
+1907,Steve Case,class A,1958-08-21
+1908,Safra Catz,class B,1961-12-13
+1909,Binod Chaudhary,class B,1955-04-14
+1910,Chen Baohua,class A,1962-01-01
+1911,Xianbao Chen & family,class C,1959-05-19
+1912,Chung Yong-jin,class C,1968-09-19
+1913,Steve Conine,class D,1972-08-28
+1914,Eduardo Costantini,class E,1946-09-17
+1915,Wenjun Dai,class E,1968-08-12
+1916,Bharat Desai,class E,1952-11-20
+1917,Mohammed Dewji,class C,1975-05-08
+1918,Mathias Doepfner,class F,1963-01-15
+1919,Domenico Dolce,class B,1958-08-13
+1920,Marek Dospiva,class B,1969-07-18
+1921,Henrique Dubugras,class A,1995-11-10
+1922,Egon Durban,class B,1973-08-23
+1923,Bulent Eczacibasi,class C,1949-12-25
+1924,Faruk Eczacibasi,class B,1954-06-15
+1925,Henry Engelhardt,class E,1958-01-17
+1926,Ali Erdemoglu,class A,1959-11-20
+1927,Eduardo Eurnekian,class A,1932-12-04
+1928,John Farber,class F,1925-08-23
+1929,Clement Fayat & family,class C,1932-01-24
+1930,Daniel Feffer,class A,1959-10-28
+1931,David Feffer,class E,1956-11-13
+1932,Ruben Feffer,class F,
+1933,Feng Yuxia,class D,1964-11-06
+1934,Sergio Fogel,class C,1963-12-22
+1935,Pedro Franceschi,class B,1996-07-19
+1936,Stefano Gabbana,class E,1962-11-14
+1937,Yi Gao & family,class E,1968-10-25
+1938,Geng Jianming,class D,1962-09-01
+1939,Alan Gerry,class B,1928-12-25
+1940,Balkrishan Goenka,class C,1966-08-15
+1941,Esther Grether,class A,1936-01-01
+1942,Gu Wei,class F,1965-01-27
+1943,Torstein Hagen,class E,1943-02-18
+1944,Kenneth Hao,class B,1968-09-11
+1945,He Zhiping,class F,1964-01-01
+1946,Timothy Headington,class F,1950-04-24
+1947,Ilona Herlin,class B,1965-01-01
+1948,Niranjan Hiranandani,class B,1950-03-08
+1949,Drew Houston,class C,1983-03-04
+1950,Huang Rulun,class B,1951-09-18
+1951,Justin Ishbia,class D,1977-09-18
+1952,Peter Jackson,class F,1961-10-31
+1953,Jin Lei,class D,1965-08-01
+1954,Jin Xin,class F,1967-01-08
+1955,Conni Jonsson,class D,1960-07-15
+1956,Jenny Just,class B,1968-03-05
+1957,Ke Xiping & family,class E,1960-06-07
+1958,Ke Zunhong & family,class E,1954-07-01
+1959,Sidney Kimmel,class F,1928-01-16
+1960,Seth Klarman,class B,1957-05-01
+1961,Mustafa Rahmi Koc,class B,1930-10-09
+1962,Pyotr Kondrashev,class F,1949-07-16
+1963,Kong Jian Min,class F,1968-01-01
+1964,Hemendra Kothari,class B,1946-08-26
+1965,Eduard Kucera,class A,1953-01-11
+1966,Christopher Kwok,class E,1986-04-01
+1967,Edward Kwok,class E,1981-04-01
+1968,Joe Lacob,class A,1956-01-10
+1969,Lai Jianfa,class A,
+1970,Manuel Lao Hernández,class B,1944-06-10
+1971,Lee Joon-ho,class E,1964-09-17
+1972,Manfredi Lefebvre d'Ovidio & family,class C,1953-04-30
+1973,Zhen Li & family,class E,1964-01-23
+1974,Rongfu Lu,class E,1971-01-01
+1975,Rafique Malik,class D,1950-10-31
+1976,Youssef Mansour,class F,1945-05-21
+1977,Mao Lixiang & family,class D,1941-01-01
+1978,David McMurtry,class A,1940-05-03
+1979,Meng Qingshan & family,class A,1948-11-17
+1980,Alan Miller & family,class E,1937-08-17
+1981,Greg Mondre,class D,1974-05-20
+1982,Massimo Moratti,class A,1945-05-16
+1983,Robert Mouawad,class E,1945-01-01
+1984,Ezra Nahmad,class A,1945-07-31
+1985,Kentaro Ogawa,class D,1948-07-01
+1986,Jonathan Oringer,class E,1974-05-02
+1987,Niti Osathanugrah,class F,1974-01-01
+1988,Dragos Paval,class E,1966-06-22
+1989,Zach Perret,class B,1987-09-17
+1990,Karl-Johan Persson,class B,1975-03-25
+1991,Markus Persson,class E,1979-06-01
+1992,Tom Persson,class E,1985-01-01
+1993,Kevin Plank,class A,1972-08-13
+1994,Andreas Pohl,class E,1964-07-28
+1995,"Reinfried Pohl, Jr.",class B,1959-11-02
+1996,Michael Polsky,class C,1949-01-01
+1997,Qin Long,class D,1965-07-01
+1998,G. M. Rao,class E,1950-07-01
+1999,Mike Repole,class C,1968-01-21
+2000,Fernando Roig,class B,1947-06-25
+2001,Christopher Rokos,class C,1970-09-21
+2002,Fayez Sarofim,class F,1928-11-19
+2003,Antonio Luiz Seabra,class F,1943-01-01
+2004,Amnon Shashua,class A,1960-05-26
+2005,Yuri Shefler,class B,1967-09-10
+2006,Mikhail Shelkov,class D,1968-05-30
+2007,Charlotte Soderstrom,class D,1977-01-01
+2008,Edwin Soeryadjaya,class F,1949-07-17
+2009,Thomas Steyer,class C,1957-06-27
+2010,Kevin Systrom,class F,1983-12-30
+2011,Tang Binsen,class E,1982-12-12
+2012,Hary Tanoesoedibjo,class C,1965-09-26
+2013,Jonathan Tisch,class C,1953-12-07
+2014,Wilma Tisch,class B,1927-06-25
+2015,Kenny Troutt,class F,1948-01-08
+2016,Thomas von Koch,class D,1966-03-24
+2017,Junjin Wang,class A,1968-12-01
+2018,Wang Zelong,class E,1996-07-01
+2019,Myron Wentz,class C,1940-01-01
+2020,Kaiting Wu,class B,1969-12-01
+2021,Xiong Wu,class F,1976-01-01
+2022,Xu Wanmao,class D,1945-01-01
+2023,Xue Jiping,class E,1951-01-01
+2024,Yang Jian,class C,1972-01-01
+2025,Xinghai Zhang & family,class B,1963-01-01
+2026,Xuansong Zhang,class F,1971-10-09
+2027,Zhang Yin,class F,1957-02-01
+2028,Chengjian Zhou,class D,1965-04-30
+2029,Radhe Shyam Agarwal,class E,1945-02-01
+2030,Syed Mokhtar AlBukhary,class F,1951-12-12
+2031,Nerio Alessandri,class F,1961-04-08
+2032,Patricia Angelini Rossi,class F,1954-04-05
+2033,Tope Awotona,class D,1981-04-22
+2034,Elena Baturina,class D,1963-03-08
+2035,Sabrina Benetton,class F,1973-10-04
+2036,Thomas Bruch,class B,1950-04-25
+2037,Marina Budiman,class E,1961-09-05
+2038,Stewart Butterfield,class F,1973-03-21
+2039,Richard Chang,class A,1947-01-01
+2040,Chen Tianqiao,class B,1973-05-16
+2041,Chen Wenyuan & family,class F,1968-01-01
+2042,Cheng Antares,class B,1957-11-01
+2043,Chin Jong Hwa,class A,1958-06-01
+2044,Jim Crane,class B,1954-01-17
+2045,Thierry Cruanes,class D,1967-06-23
+2046,Benoit Dageville,class C,1966-06-29
+2047,Weili Dai,class C,1961-09-14
+2048,Darwin Deason,class E,1940-05-14
+2049,Diego Della Valle,class E,1953-12-30
+2050,Deng Yingzhong,class E,1951-01-01
+2051,Ding Shui Po,class C,1970-11-01
+2052,Mark Dixon,class A,1959-11-02
+2053,Du Shuanghua,class C,1965-01-01
+2054,Mukand Lal Dua,class A,1949-01-08
+2055,Ramesh Kumar Dua,class B,1954-03-24
+2056,Fan Minhua,class C,1961-10-23
+2057,Hongbo Fang,class A,1967-01-01
+2058,"William Foley, II.",class A,1944-12-29
+2059,Jayme Garfinkel & family,class E,1945-11-30
+2060,Radhe Shyam Goenka,class F,1946-02-01
+2061,Maggie Hardy Knox,class E,1965-12-07
+2062,Ayman Hariri,class D,1978-05-16
+2063,Christoph Henkel,class F,1958-02-11
+2064,Daniel Hirschfeld,class F,1941-05-31
+2065,William Hockey,class D,1989-09-21
+2066,Huang Guanlin,class D,1965-01-01
+2067,Huang Xiaofen & family,class A,1962-01-01
+2068,Jay-Z,class A,1969-12-04
+2069,Yintai Jiang & family,class D,1950-07-30
+2070,Johan Johannson,class A,1967-01-01
+2071,Ramesh Juneja,class B,1955-07-28
+2072,Scott Kapnick,class A,1959-02-09
+2073,Viktor Kharitonin,class C,1972-11-20
+2074,Kim Jun-ki,class F,1944-12-04
+2075,Kim Sang-yeol,class E,1961-01-03
+2076,Yogesh Kothari,class E,1949-01-01
+2077,Kurt Krieger,class F,1948-04-02
+2078,Mustafa Kucuk,class B,1963-06-03
+2079,Sebastian Kulczyk,class E,1980-11-16
+2080,Gary Lauder,class E,1962-05-05
+2081,Art Levinson,class F,1950-03-31
+2082,Li Li,class D,1964-02-09
+2083,Guangwei Liang,class E,1963-09-01
+2084,Scott Lin,class D,1933-01-01
+2085,Jenny Lindén Urnes,class E,1971-03-29
+2086,Anatoly Lomakin,class E,1952-06-30
+2087,Jeffrey Lorberbaum,class E,1954-10-25
+2088,Gary Magness,class C,1954-02-26
+2089,Zhongwu Mao,class F,1962-08-13
+2090,Ilson Mateus & family,class A,1963-02-06
+2091,Vadim Moshkovich,class D,1967-04-06
+2092,Jerry Moyes & family,class A,1944-01-15
+2093,George Alexander Muthoot,class F,1955-09-16
+2094,George Jacob Muthoot,class E,1952-09-21
+2095,George Thomas Muthoot,class F,1950-12-25
+2096,Sara George Muthoot,class A,1960-04-22
+2097,Marius Nacht,class E,1966-01-01
+2098,Adam Neumann,class F,1979-04-01
+2099,Simon Nixon,class E,1967-08-01
+2100,Stefan Olsson,class A,1949-01-01
+2101,Ranjan Pai,class F,1972-11-11
+2102,Antonio Percassi,class F,1953-06-09
+2103,Mark Pincus,class E,1966-02-13
+2104,Alexey Repik,class E,1979-08-27
+2105,Matthew Roszak,class F,1972-12-09
+2106,Subhash Runwal,class C,1943-05-22
+2107,Carlos Sanchez,class D,1962-01-21
+2108,Martin Selig,class F,1937-12-31
+2109,Bhadresh Shah,class D,1951-10-07
+2110,Shu Ping,class D,
+2111,Ben Silbermann,class E,1982-07-14
+2112,Jared Smith,class F,1974-10-02
+2113,Sun Qinghuan,class A,1973-05-08
+2114,Denis Sverdlov,class D,1978-06-06
+2115,Prachak Tangkaravakoon,class A,1944-03-26
+2116,Lina Tombolato,class D,1947-07-28
+2117,Tong Jinquan,class E,1954-11-01
+2118,Luiza Helena Trajano,class D,1951-10-09
+2119,John Van Lieshout,class E,1946-01-12
+2120,Vardis Vardinoyannis & family,class C,1933-01-01
+2121,Jens von Bahr,class A,1971-02-22
+2122,Wang Jian,class D,1954-01-01
+2123,Werner O. Weber,class D,1939-02-09
+2124,Wei Lidong & family,class A,1976-01-01
+2125,Drorit Wertheim,class D,1956-01-01
+2126,Bo Wu,class B,1954-05-01
+2127,Eugene Wu,class E,1945-05-03
+2128,Wu Xushun & family,class D,1948-04-28
+2129,Wenbo Xiang,class D,1962-06-21
+2130,Swift Xie,class C,1980-01-01
+2131,Xu Bingzhong,class A,1974-01-01
+2132,Xu Shaochun,class C,1963-01-01
+2133,Yan Junxu,class F,1969-07-17
+2134,George Yancopoulos,class D,1959-09-10
+2135,Gavril Yushvaev,class D,1957-07-23
+2136,Zhuo Jun,class D,1966-01-01
+2137,Fredrik Österberg,class B,1971-01-19
+2138,Alberto Alcocer,class C,1942-12-07
+2139,Alexandra Andresen,class A,1996-07-23
+2140,Katharina Andresen,class C,1995-05-21
+2141,Rutger Arnhult,class A,1967-05-08
+2142,Anant Asavabhokin,class E,1950-08-11
+2143,Mehmet Aydinlar,class C,1956-07-27
+2144,Binny Bansal,class B,1982-12-03
+2145,Sachin Bansal,class F,1981-08-05
+2146,Barbara Benetton,class E,1969-07-02
+2147,Othman Benjelloun & family,class E,1932-11-01
+2148,Angela Bennett,class F,1944-04-01
+2149,Oleg Boyko,class A,1964-09-28
+2150,Anna Maria Braun,class B,1979-01-01
+2151,Edouard Carmignac,class A,1947-09-04
+2152,Anthony Casalena,class D,1982-04-24
+2153,Chang Jing,class F,1982-08-01
+2154,Jeffrey Cheah,class C,1945-03-30
+2155,Chen Shiliang,class F,1963-12-01
+2156,Yuantai Chen,class A,1968-03-01
+2157,Cheng Xianfeng,class A,1968-12-01
+2158,Chu Jian,class A,1963-04-01
+2159,Chua Thian Poh,class E,1948-07-11
+2160,Alberto Cortina,class C,1946-01-20
+2161,Sandor Csanyi,class E,1953-03-20
+2162,Sasson Dayan & family,class B,1940-04-01
+2163,Anand Deshpande,class B,1962-05-01
+2164,Richard Desmond,class A,1951-12-08
+2165,Shlomo Eliahu,class E,1936-01-18
+2166,Jose Roberto Ermirio de Moraes,class A,1957-11-30
+2167,Jose Ermirio de Moraes Neto,class F,1952-06-17
+2168,David Fattal & family,class F,1957-06-22
+2169,Marvy Finger,class C,1935-12-08
+2170,Adam Foroughi,class F,1980-05-07
+2171,Richard Fortin,class B,1948-09-01
+2172,Luiz Frias,class E,1963-04-06
+2173,Susumu Fujita,class B,1973-05-16
+2174,Simona Giorgetta,class B,1977-04-24
+2175,Premchand Godha,class F,1947-01-01
+2176,Mikhail Gutseriev & brother,class E,1958-03-09
+2177,Hang Hong,class B,1968-01-01
+2178,Alfredo Harp Helu & family,class F,1944-03-11
+2179,Jaroslav Hascak & family,class F,1969-08-30
+2180,He Zuxun,class C,1965-10-28
+2181,David Hoffman,class D,1952-08-07
+2182,Francis Holder,class A,1941-01-01
+2183,Hu Rongda & family,class E,1959-01-01
+2184,Wei Huang,class E,1959-09-30
+2185,Zarakh Iliev,class D,1966-09-09
+2186,Mitchell Jacobson,class C,1951-03-06
+2187,Jiang Guiting & family,class C,1958-07-01
+2188,Rajeev Juneja,class F,1965-07-28
+2189,Peter Kelly,class B,1957-07-01
+2190,Kim Nam-jung,class B,1973-01-01
+2191,Koon Poh Ming,class C,1956-11-17
+2192,Yuri Kovalchuk,class A,1951-07-25
+2193,Michael Krasny,class A,1953-08-08
+2194,Raymond Kwok,class B,1953-04-10
+2195,Heikki Kyostila,class A,1946-01-19
+2196,Lee Ho-jin,class A,1962-12-08
+2197,Bernard Lewis & family,class D,1926-02-10
+2198,Fengluan Li,class D,1962-01-01
+2199,Hua Li,class B,1978-01-01
+2200,Li Ruiqiang,class F,1979-11-01
+2201,Lin Zhijun,class C,1975-09-01
+2202,Lin Zhixiong & family,class E,1973-07-01
+2203,Liu Ming Hui,class C,1963-01-01
+2204,Xuejing Liu & family,class F,1951-01-01
+2205,Lu Yonghua & family,class E,1963-07-26
+2206,Zhaoxi Lu,class B,1969-01-01
+2207,Frederic Luddy,class C,1954-11-24
+2208,Miao Yongjun,class F,1967-12-01
+2209,Martin Moller Nielsen,class F,1964-08-01
+2210,Neide Helena de Moraes,class D,1955-02-15
+2211,Yoshiko Mori,class E,1940-09-24
+2212,Mofatraj Munot,class D,1944-10-04
+2213,Randal Nardone,class F,1955-06-22
+2214,God Nisanov,class C,1972-04-24
+2215,Vadim Novinsky,class D,1963-06-03
+2216,Satyanarayan Nuwal,class C,1952-07-25
+2217,John Ocampo,class F,1959-04-05
+2218,Pan Gang,class F,1970-07-01
+2219,Forrest Preston,class D,1933-03-22
+2220,Riju Raveendran,class F,1982-11-11
+2221,P.P. Reddy,class A,1957-08-30
+2222,P.V.Krishna Reddy,class F,1969-06-30
+2223,Satish Reddy,class C,1967-06-09
+2224,Lily Safra,class B,1938-01-01
+2225,Richard Saghian,class C,1981-08-06
+2226,Deniz Sahenk,class E,1945-08-06
+2227,Thomas Sandell,class A,1961-02-01
+2228,Hajime Satomi,class D,1942-01-16
+2229,James Scapa,class F,1957-01-23
+2230,Paul Sciarra,class C,1981-02-15
+2231,Albert Shigaboutdinov,class E,1952-11-12
+2232,Nobutoshi Shimamura,class A,1926-03-08
+2233,Ron Sim,class D,1958-12-01
+2234,Alexander Sixt,class F,1979-10-24
+2235,Konstantin Sixt,class A,1982-12-02
+2236,Terry Snow,class E,1943-12-23
+2237,Marco Squinzi,class A,1971-09-23
+2238,Veronica Squinzi,class A,1972-01-01
+2239,Manny Stul,class E,1949-05-09
+2240,Rustem Sulteev,class D,1954-01-04
+2241,Sehat Sutardja,class B,1961-07-09
+2242,Tony Tan Caktiong,class D,1953-01-05
+2243,Jim Thompson,class B,1940-01-14
+2244,Carmen Thyssen,class C,1943-04-23
+2245,August Troendle,class D,1956-01-01
+2246,Joop van den Ende,class F,1942-02-23
+2247,Sekar Vembu,class E,1972-01-01
+2248,Sandro Veronesi & family,class B,1959-10-18
+2249,Wan Long,class B,1940-09-01
+2250,Han Wang,class C,1987-08-01
+2251,Wang Jianyi,class F,1963-01-12
+2252,Wang Qinghua,class B,1965-07-01
+2253,Pengcheng Wen & family,class B,1962-10-08
+2254,"Alfred West, Jr.",class E,1942-12-07
+2255,Dan Wilks,class B,1956-05-30
+2256,Farris Wilks,class D,1952-02-09
+2257,Gang Xu,class E,1963-04-17
+2258,Xu Jin,class A,1965-01-24
+2259,Tony Xu,class B,1984-09-20
+2260,Ye Yanqiao,class E,1969-10-01
+2261,Patrick Zalupski,class F,1980-11-29
+2262,Shengda Zan,class A,1963-04-02
+2263,Zeng Chaoyi,class B,1969-04-01
+2264,Zhang Guiping & family,class B,1951-08-21
+2265,Peng Zhao,class B,1971-01-01
+2266,Zheng Zhiguo,class A,1971-10-01
+2267,Kostyantin Zhevago,class E,1974-01-07
+2268,Zhou Mingjie,class A,1957-08-01
+2269,Zhu Xingliang,class D,1959-05-01
+2270,Sanjay Agarwal,class C,1970-09-08
+2271,Hamad bin Jassim bin Jaber Al Thani,class D,1959-10-01
+2272,Betty Ang,class F,1954-11-13
+2273,Christian Angermayer,class B,1978-04-26
+2274,Mika Anttonen,class B,1966-12-18
+2275,Jose Maria Aristrain,class D,1962-11-02
+2276,Emilio Azcarraga Jean,class E,1968-02-21
+2277,Thomas Bailey,class B,1937-01-01
+2278,Andrei Bokarev,class B,1966-10-23
+2279,Stephane Bonvin,class B,1967-01-01
+2280,Ashok Boob,class F,1952-03-02
+2281,Ludwig Theodor Braun,class D,1990-01-01
+2282,Friederike Braun-Luedicke,class A,1984-01-01
+2283,Pradip Burman,class E,1942-11-02
+2284,Jiancheng Chen,class A,1959-01-13
+2285,Chen Xueling,class B,1967-10-16
+2286,Cheng Lili,class E,1965-01-01
+2287,Yvon Chouinard,class D,1938-11-09
+2288,Luigi Cremonini & family,class E,1939-04-28
+2289,Tim Draper,class A,1958-06-11
+2290,Fan Zhaoxia & family,class D,1967-07-20
+2291,Gleb Fetisov,class B,1966-06-05
+2292,Robert Fisher,class B,1953-08-01
+2293,William Fisher,class F,1957-04-01
+2294,J. Christopher Flowers,class B,1957-10-27
+2295,Bernd Freier,class F,1957-01-01
+2296,Geng Diangen,class A,1956-12-03
+2297,Dan Gertler,class F,1973-12-23
+2298,David Girouard,class B,1966-03-13
+2299,John Goff,class C,1955-01-01
+2300,Lawrence Golub,class D,1959-10-03
+2301,Sven Hagströmer,class A,1943-11-30
+2302,Fahed Hariri,class D,1980-12-29
+2303,Richard Hayne,class B,1947-09-01
+2304,He Yamin & family,class D,1957-02-23
+2305,Michael Heine,class E,1949-11-01
+2306,Heikki Herlin,class A,1987-01-01
+2307,Hong Feng,class D,1977-01-01
+2308,Hu Kun,class B,1969-09-01
+2309,Huang Hongyun & family,class F,1966-06-26
+2310,Shanbing Huang & family,class A,1956-10-16
+2311,Huang Shih Tsai,class D,1951-06-01
+2312,Huang Wenbiao,class D,1967-05-01
+2313,Mohammed Ibrahim,class A,1946-05-03
+2314,Hedda im Brahm-Droege,class D,1955-01-01
+2315,Rameshchandra Jain,class D,1948-06-22
+2316,Laurent Junique,class F,1966-01-01
+2317,Zbigniew Juroszek & family,class A,1962-07-07
+2318,Chatchai Kaewbootta,class D,1951-07-05
+2319,Shirley Kao,class A,1956-09-02
+2320,Ipek Kirac,class C,1984-11-28
+2321,Carsten Koerl,class E,1964-11-27
+2322,Andrei Kosogov,class E,1961-03-15
+2323,John Krystynak,class E,1968-05-01
+2324,John Kusuma,class E,1966-11-18
+2325,Hartono Kweefanus,class F,1950-01-25
+2326,Kwek Leng Peck,class E,1956-01-01
+2327,Kristo Käärmann,class D,1980-09-01
+2328,Guy Laliberté,class A,1960-01-01
+2329,Lee Sang-ryul,class F,1961-10-21
+2330,Lee Seung-gun,class F,1982-01-30
+2331,Hongjing Li,class B,1968-02-01
+2332,Li Wanqiang,class B,1977-08-01
+2333,Lu Hongyan,class D,1977-05-31
+2334,Dalong Lv,class C,1962-03-12
+2335,Carsten Maschmeyer,class B,1959-05-08
+2336,Todd McKinnon,class E,1971-10-25
+2337,Rubens Menin Teixeira de Souza,class B,1956-03-12
+2338,Lorinc Meszaros,class B,1966-02-25
+2339,Park Kwan-ho,class B,1972-01-11
+2340,George Pedersen,class B,1935-08-18
+2341,David Penaloza Alanis,class E,1974-01-01
+2342,Stefan Pierer,class D,1956-11-25
+2343,Murdaya Poo,class B,1941-01-12
+2344,Michael Price,class A,1952-07-03
+2345,Leonid Radvinsky,class D,1982-01-05
+2346,Megdet Rahimkulov & family,class C,1945-10-16
+2347,Andrei Rappoport,class C,1963-06-22
+2348,Dasari Uday Kumar Reddy,class B,1967-05-01
+2349,Helena Revoredo,class D,1947-02-10
+2350,Duke Reyes,class E,1957-03-23
+2351,Nobutada Saji,class E,1945-11-25
+2352,Leonard Schleifer,class D,1952-07-07
+2353,Airat Shaimiev,class D,1962-03-07
+2354,Radik Shaimiev,class F,1964-11-14
+2355,Vijay Shekhar Sharma,class A,1978-06-07
+2356,Devi Shetty,class C,1953-01-01
+2357,Shum Chiu Hung & family,class A,
+2358,Michael Steinhardt,class E,1940-12-07
+2359,Petter Stordalen & family,class E,1962-11-29
+2360,Winarko Sulistyo,class E,1945-12-10
+2361,Sun Huaiqing & family,class F,1969-10-02
+2362,Luc Tack,class D,1961-09-01
+2363,Lucio Tan,class D,1934-07-17
+2364,Yoshikazu Tanaka,class B,1977-02-18
+2365,Stanley Tang,class A,1992-10-27
+2366,Sam Tarascio,class E,1944-07-22
+2367,Alexander Tedja,class A,1945-09-22
+2368,Laurie Tisch,class C,1951-02-19
+2369,Steven Tisch,class F,1949-02-14
+2370,Stefania Triva,class C,1964-10-04
+2371,Maria Grace Uy,class D,1968-04-25
+2372,Wim van der Leegte,class F,1947-08-23
+2373,Thongma Vijitpongpun,class C,1957-07-08
+2374,Jianfeng Wang & family,class B,
+2375,Wang Jilei,class C,1965-01-01
+2376,Wang Junmin,class F,1968-12-12
+2377,Wang Kunxiao,class A,1969-06-23
+2378,Wang Zhentao & family,class C,1965-05-14
+2379,J. Wayne Weaver,class D,1935-09-01
+2380,Weng Xianding,class F,1961-11-28
+2381,Horst Wortmann,class D,1941-05-08
+2382,Wu Chung-yi,class B,1955-07-01
+2383,Wu Li-gann,class E,1941-01-01
+2384,Wu Peifu & family,class A,1961-10-10
+2385,Xiu Laigui,class B,1954-07-01
+2386,Faxiang Yu,class D,1971-10-07
+2387,Zeng Chaolin,class B,1982-08-01
+2388,Zhang Tianyu,class D,1967-08-08
+2389,Shusheng Zheng,class C,1966-01-01
+2390,A. Jayson Adair,class C,1969-10-16
+2391,Joao Alves de Queiroz Filho,class B,1953-01-01
+2392,Ryuji Arai,class D,1946-05-28
+2393,Sara Blakely,class F,1971-02-27
+2394,Lloyd Blankfein,class D,1954-09-20
+2395,Henadiy Boholyubov,class D,1962-01-01
+2396,Casper Callerström,class D,1973-04-08
+2397,Kejian Cao,class D,1962-04-10
+2398,Turgay Ciner,class B,1956-03-01
+2399,Dai Lizhong,class B,1968-07-01
+2400,Pedro de Godoy Bueno,class B,1990-04-14
+2401,Aydin Dogan,class E,1936-04-15
+2402,Wolfgang Egger,class D,1965-08-18
+2403,Gabriel Escarrer,class A,1935-03-02
+2404,Richard Fairbank,class B,1950-09-01
+2405,Andy Fang,class E,1992-06-21
+2406,Paul Fireman,class D,1944-02-14
+2407,Donald Friese,class A,1940-10-03
+2408,Soichiro Fukutake,class B,1945-12-14
+2409,Antonio Gallardo Ballart,class F,1936-03-12
+2410,David Golub,class E,1962-04-16
+2411,Guan Yihong,class B,
+2412,Stelios Haji-Ioannou,class B,1967-02-14
+2413,Mustafa Hamied,class E,1940-10-23
+2414,Ronnen Harary,class D,1972-01-01
+2415,David Helgason,class A,1978-01-01
+2416,Eduardo Hochschild,class D,1963-12-04
+2417,Hong Seok-joh,class D,1953-01-08
+2418,Huang Xu,class C,1967-09-01
+2419,Subba Rao Jasti,class E,1927-01-01
+2420,Long Jiang,class F,1974-02-01
+2421,Jiang Xuefei & family,class E,1969-12-08
+2422,Jonas Kamprad,class D,1966-03-04
+2423,Mathias Kamprad,class A,1969-06-27
+2424,Peter Kamprad,class D,1964-03-29
+2425,Andrew Karam,class C,1982-02-12
+2426,Samvel Karapetyan,class B,1965-08-18
+2427,Alexander Karp,class F,1967-10-01
+2428,Ke Guihua,class F,1965-10-13
+2429,Kim Jung-woong,class B,1975-01-01
+2430,Harry Klagsbrun,class A,1954-07-22
+2431,Alexander Knauf,class F,1974-05-30
+2432,Koh Wee Meng,class D,1963-07-01
+2433,Sergei Kolesnikov,class E,1972-02-25
+2434,Andrei Komarov,class E,1966-10-11
+2435,Koo Bon-neung,class E,1949-03-26
+2436,Koo Bon-sik,class E,1958-06-28
+2437,Suresh Krishna,class E,1936-12-24
+2438,Nancy Lerner,class A,1960-05-11
+2439,Norma Lerner,class A,1936-03-28
+2440,Randolph Lerner,class A,1962-02-21
+2441,Li Shui-po,class E,1956-08-01
+2442,Li Tan,class B,1964-12-19
+2443,Li Wenmei & family,class C,1962-10-27
+2444,Lim Hariyanto Wijaya Sarwono,class C,1928-11-01
+2445,Lin Jie & family,class D,1969-01-31
+2446,Liu Chengyu & family,class B,1962-07-26
+2447,Lou Boliang,class A,1963-09-01
+2448,Lun Ruixiang & family,class A,1968-01-01
+2449,Lv Yongxiang,class F,1950-01-03
+2450,Ma Xiuhui,class C,1971-01-07
+2451,Yasseen Mansour,class B,1961-08-08
+2452,Jorge Mas,class B,1963-02-28
+2453,Ulrike Meister,class D,1967-03-13
+2454,Jeffrey Michael & family,class B,1956-07-18
+2455,Soichiro Minami,class F,1976-06-15
+2456,Bob Muglia,class C,1959-10-02
+2457,Erik Must,class C,1943-01-26
+2458,Kerr Neilson,class A,1949-10-17
+2459,John Oyler,class C,1968-04-03
+2460,Park Hyeon-joo,class D,1958-10-17
+2461,Jose Isaac Peres & family,class C,1940-07-18
+2462,John Phillips,class E,1951-01-01
+2463,Pu Zhongjie & family,class C,1963-01-01
+2464,Qian Xiaojun,class C,1975-02-01
+2465,Anton Rabie,class B,1972-01-01
+2466,Igor Rybakov,class D,1972-05-16
+2467,K. Rai Sahi,class D,1946-04-30
+2468,"Karl Scheufele, III. & family",class A,1939-01-01
+2469,Steven Schuurman,class C,1975-09-24
+2470,Analjit Singh,class E,1954-01-11
+2471,Kavita Singhania,class D,1962-01-01
+2472,Michael S. Smith,class B,1955-05-09
+2473,Scott Smith,class D,1949-04-12
+2474,Ashok Soota,class F,1942-11-12
+2475,Michael Spencer,class D,1955-05-30
+2476,Venu Srinivasan,class F,1952-12-11
+2477,Dirk Stroeer,class A,1969-01-01
+2478,Susanto Suwarto,class E,1956-02-09
+2479,Xiuguo Tang,class C,1963-08-25
+2480,Mehmet Sinan Tara,class D,1958-05-24
+2481,Robert Toll,class B,1940-12-30
+2482,Surin Upatkoon,class A,1949-04-18
+2483,Sunil Vachani,class A,1968-11-27
+2484,Murat Vargi,class D,1947-11-14
+2485,Pongsak Viddayakorn,class D,1934-03-23
+2486,Wang Shumin,class E,1957-01-11
+2487,Anne Werninghaus,class D,1986-01-01
+2488,Allan Wong,class E,1950-04-01
+2489,Chaoqun Wu,class F,1969-05-18
+2490,Wu Yonghua,class D,1971-01-01
+2491,Wu Zhenxing,class B,1969-10-01
+2492,Xia Xinde,class B,1964-10-15
+2493,Xiong Jun & family,class E,1974-02-06
+2494,Jane Yan & family,class D,1969-07-19
+2495,Yang Erzhu,class F,1951-01-01
+2496,Vlad Yatsenko,class D,1983-08-30
+2497,Yi Xianzhong & family,class A,1959-05-01
+2498,Yoshiaki Yoshida,class D,1941-01-31
+2499,Yu Rong,class C,1971-12-14
+2500,Igor Yusufov,class C,1956-06-12
+2501,Zhang Cheng Fei,class C,1967-10-01
+2502,Zhang Fangliang,class C,1965-01-01
+2503,Baoshen Zhong,class F,1967-12-01
+2504,Zhou Minghua,class D,1964-01-01
+2505,Krishna Kumar Bangur,class A,1960-07-02
+2506,"Wilbur  'Ed' Bosarge, Jr.",class E,1939-07-28
+2507,Johanna Braun,class E,1980-01-01
+2508,Karl Friedrich Braun,class A,1983-01-01
+2509,Jean-Pierre Cayard,class E,1943-01-01
+2510,Tony Chen,class A,1949-07-01
+2511,Vivien Chen,class E,1959-01-14
+2512,Chey Ki-won,class E,1964-07-06
+2513,Pollyanna Chu,class D,1958-04-01
+2514,Roy Chi Ping Chung,class A,1953-04-01
+2515,Doug Clarke,class E,1981-01-01
+2516,Ronald Clarke,class A,1955-08-15
+2517,Jean-Paul Clozel,class C,1955-04-03
+2518,Carl DeSantis,class E,1939-07-19
+2519,Sefik Yilmaz Dizdar,class B,1938-03-16
+2520,Charles Dunstone,class A,1964-01-01
+2521,Larry Fink,class B,1952-11-02
+2522,Fu Gang,class D,1970-05-01
+2523,Jorge Gallardo Ballart,class C,1941-09-26
+2524,Nari Genomal,class A,1940-01-01
+2525,Ramesh Genomal,class C,1951-01-01
+2526,Sunder Genomal,class B,1954-01-01
+2527,Horst-Otto Gerberding,class B,1952-07-08
+2528,Guo Jiangang,class A,1966-08-15
+2529,Polys Haji-Ioannou,class B,1960-01-11
+2530,Huang Jian,class C,1967-01-01
+2531,Huang Jinxiang & family,class F,1965-01-27
+2532,Huang Weibin,class D,1967-09-01
+2533,Hiroshi Ishibashi,class E,1946-08-01
+2534,Bent Jensen,class E,1951-12-15
+2535,Boris Jordan,class F,1966-06-02
+2536,Morris Kahn,class C,1930-01-01
+2537,Marcelo Kalim,class F,1969-10-15
+2538,Eugene Kaspersky,class C,1965-10-04
+2539,Kangbao Ke & family,class D,1963-01-01
+2540,Yunfeng Ke & family,class E,1967-01-01
+2541,Ken Kendrick,class E,1943-09-02
+2542,Ihor Kolomoyskyy,class F,1963-02-13
+2543,Jeff Lawson,class C,1977-06-21
+2544,Liang Jiankun & family,class F,1961-07-01
+2545,Liu Baolin,class E,1953-06-01
+2546,Liu Quan,class C,1976-12-03
+2547,Udo Mueller,class D,1962-01-01
+2548,Bruce Nordstrom,class C,1933-10-01
+2549,Scott Nuttall,class C,1972-11-25
+2550,Roberto Ongpin,class E,1937-01-06
+2551,Adrian Paval,class D,1968-09-23
+2552,Tyler Perry,class B,1969-09-14
+2553,Grant Petty,class C,1969-01-01
+2554,G.V. Prasad,class D,1960-11-22
+2555,Qiu Zixin,class A,1963-11-01
+2556,Jupally Rameshwar Rao,class A,1955-09-16
+2557,Vera Rechulski Santo Domingo,class E,1948-12-26
+2558,Michael Rees,class E,1975-03-19
+2559,Mark Rein,class E,1963-05-02
+2560,Ren Zhengfei,class C,1944-01-01
+2561,Francisco Jose Riberas Mera,class A,1964-06-01
+2562,Boris Rotenberg,class B,1957-01-03
+2563,Chanchai Ruayrungruang,class A,1954-01-01
+2564,Alan Rydge,class B,1952-06-24
+2565,Oliver Samwer,class E,1973-08-09
+2566,Glenn Sanford,class C,1966-10-15
+2567,Dhruv Sawhney,class B,1944-06-26
+2568,Neerja Sethi,class B,1955-01-16
+2569,Ramesh Chandra Sharma,class C,1945-01-03
+2570,Dean Solon,class B,1965-01-01
+2571,Mike Speiser,class E,1971-01-25
+2572,Jeff Sprecher,class E,1955-02-23
+2573,Axel Stawski,class A,1950-11-14
+2574,Joseph Steinberg,class C,1944-02-05
+2575,Bhawari Bai Surana,class C,1945-09-28
+2576,Ruiqing Tan,class D,1966-10-05
+2577,Masaru Tange,class D,1974-09-22
+2578,Dennis Anthony Uy,class F,1966-06-01
+2579,Peter-Alexander Wacker,class F,1951-10-02
+2580,Shigefumi Wada & family,class A,1952-08-30
+2581,Wang Qiangxiang,class A,1971-09-19
+2582,Xiong Shaoming,class B,1971-01-01
+2583,Shintaro Yamada,class E,1977-09-21
+2584,Mark Haoyong Yang,class D,1974-08-16
+2585,Yao Hsiao Tung,class F,1940-01-01
+2586,Yao Liangbo,class D,1969-04-01
+2587,Ye Qiongjiu,class D,1954-10-14
+2588,"Richard Yuengling, Jr.",class C,1943-03-10
+2589,Zhang Kapeng,class A,1965-01-01
+2590,Zhang Yuqiang,class A,1955-09-01
+2591,Zhou Ruxin,class B,1963-03-01
+2592,Wen Zhou & family,class F,1965-03-06
+2593,Zhou Yifeng & family,class B,1978-07-11
+2594,Zhuang Kuilong & family,class C,1962-06-15
