@@ -1,6 +1,0 @@
-class A,Data Engineering
-class B,App Developer
-class C,Web Developer
-class D,AI
-class E,Anime
-class F,White Hat
