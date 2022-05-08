@@ -68,7 +68,7 @@
 88,Eric Schmidt,class A,1955-04-27
 89,Ray Dalio,class D,1949-08-08
 90,Daniel Gilbert,class F,1962-01-17
-91,"Thomas Frist, Jr. & family",class A,1938-08-12
+91,Thomas Frist,class A,1938-08-12
 92,Masayoshi Son,class C,1957-08-11
 93,Abigail Johnson,class B,1961-12-19
 94,Rupert Murdoch & family,class E,1931-03-11
@@ -80,7 +80,7 @@
 100,Pang Kang,class D,1956-01-19
 101,Wang Chuanfu,class C,1966-02-15
 102,Reinhold Wuerth & family,class C,1935-04-20
-103,"Theo Albrecht, Jr. & family",class D,1951-01-01
+103,Theo Albrecht,class D,1951-01-01
 104,Yang Huiyan & family,class F,1981-09-27
 105,Vladimir Lisin,class A,1956-05-07
 106,Fan Hongwei & family,class D,1967-01-01
@@ -100,7 +100,7 @@
 120,Gianluigi & Rafaela Aponte,class B,1940-06-27
 121,David Tepper,class A,1957-09-11
 122,Renata Kellnerova & family,class C,1967-07-04
-123,"John Menard, Jr.",class C,1940-01-22
+123,John Menard,class C,1940-01-22
 124,Kumar Birla,class F,1967-06-14
 125,Carl Icahn,class A,1936-02-16
 126,Lukas Walton,class B,1986-09-19
@@ -183,7 +183,7 @@
 203,Richard Qiangdong Liu,class D,1974-03-10
 204,Idan Ofer,class E,1955-10-02
 205,Melker Schorling & family,class C,1947-05-15
-206,"Chase Coleman, III.",class F,1975-06-21
+206,Chase Coleman,class F,1975-06-21
 207,Shuirong Li,class A,1956-07-01
 208,Stefano Pessina,class B,1941-06-04
 209,Mikhail Prokhorov,class B,1965-05-03
@@ -226,7 +226,7 @@
 246,Johann Rupert & family,class F,1950-06-01
 247,Hui Ka Yan,class A,1958-10-01
 248,Pauline MacMillan Keinath,class C,1934-01-01
-249,"Herbert Kohler, Jr. & family",class B,1939-02-20
+249,Herbert Kohler,class B,1939-02-20
 250,Li Ge,class B,1967-01-01
 251,Kushal Pal Singh,class F,1931-08-15
 252,Zong Qinghou,class D,1945-10-01
@@ -235,7 +235,7 @@
 255,Gao Jifan & family,class E,1965-01-01
 256,Bernard Marcus,class B,1929-05-12
 257,Nicky Oppenheimer & family,class E,1945-06-08
-258,"Ernest Garcia, II.",class A,1957-05-21
+258,Ernest Garcia,class A,1957-05-21
 259,Paul Xiaoming Lee & family,class E,1958-01-01
 260,George Soros,class C,1930-08-12
 261,Wang Liping & family,class F,1966-02-24
@@ -310,7 +310,7 @@
 330,Tim Sweeney,class E,1970-12-13
 331,Mike Adenuga,class B,1953-04-29
 332,David Green & family,class C,1941-11-13
-333,"Paul Tudor Jones, II.",class A,1954-09-28
+333,Paul Tudor Jones,class A,1954-09-28
 334,Yuri Milner,class A,1961-11-11
 335,Henry Samueli,class C,1954-09-20
 336,Patrick Soon-Shiong,class D,1952-07-29
@@ -374,7 +374,7 @@
 394,John Grayken,class E,1956-06-01
 395,Ray Lee Hunt,class F,1943-04-06
 396,Philippe Laffont,class C,1967-09-16
-397,"Henry Nicholas, III.",class C,1959-10-08
+397,Henry Nicholas,class C,1959-10-08
 398,Axel Oberwelland & siblings,class D,1967-01-01
 399,Cliff Obrecht,class D,1985-12-28
 400,John Overdeck,class E,1969-12-21
@@ -389,7 +389,7 @@
 409,Takahisa Takahara,class F,1961-07-12
 410,Orlando Bravo,class C,1970-09-23
 411,Hong Ra-hee,class C,1945-07-15
-412,"Edward Johnson, IV.",class E,1964-11-18
+412,Edward Johnson,class E,1964-11-18
 413,Li Xiaohua & family,class A,1962-01-01
 414,Sri Prakash Lohia,class A,1952-08-11
 415,Miao Hangen,class D,1965-01-01
@@ -456,7 +456,7 @@
 476,Ken Xie,class E,1963-01-26
 477,Tilman Fertitta,class F,1957-06-25
 478,Prajogo Pangestu,class A,1944-05-13
-479,"Edward Roski, Jr.",class F,1938-12-25
+479,Edward Roski,class F,1938-12-25
 480,Teddy Sagi,class E,1971-11-01
 481,Thomas Straumann,class C,1963-07-22
 482,David Sun,class C,1951-10-12
@@ -536,8 +536,8 @@
 556,Wang Yanqing & family,class A,1966-04-07
 557,Shari Arison,class A,1957-09-09
 558,Alain Bouchard,class B,1949-02-18
-559,"Austen Cargill, II.",class C,1951-03-09
-560,"James Cargill, II.",class C,1949-04-07
+559,Austen Cargill,class C,1951-03-09
+560,James Cargill,class C,1949-04-07
 561,Ben Chestnut,class F,1974-06-15
 562,Wei Fang,class A,1973-09-04
 563,Leonid Fedun,class B,1956-04-05
@@ -561,7 +561,7 @@
 581,Dirk Ziff,class D,1964-04-01
 582,Robert Ziff,class D,1966-08-12
 583,Mat Ishbia,class F,1980-01-06
-584,"Robert Rich, Jr.",class C,1941-01-25
+584,Robert Rich,class C,1941-01-25
 585,Thomas Schmidheiny,class C,1945-12-17
 586,Alexandra Schoerghuber & family,class E,1958-07-24
 587,Erik Selin,class B,1967-05-08
@@ -573,7 +573,7 @@
 593,Bidzina Ivanishvili,class F,1956-02-18
 594,Leng Youbin,class A,1969-01-01
 595,Theo Mueller,class E,1940-01-30
-596,"Julian Robertson, Jr.",class C,1932-06-25
+596,Julian Robertson,class C,1932-06-25
 597,Marc Rowan,class F,1962-08-19
 598,Emanuele (Lino) Saputo & family,class D,1937-01-01
 599,Jeff Skoll,class F,1965-01-16
@@ -591,7 +591,7 @@
 611,Guenther Fielmann & family,class D,1939-09-17
 612,Martin Haefner,class B,1954-01-01
 613,Johnelle Hunt,class D,1932-01-04
-614,"Andre Koo, Sr.",class D,1967-05-25
+614,Andre Koo,class D,1967-05-25
 615,Lai Meisong,class C,1971-01-01
 616,Richard Li,class C,1966-11-08
 617,Mangal Prabhat Lodha,class A,1955-12-01
@@ -655,7 +655,7 @@
 675,Antti Herlin,class D,1956-11-14
 676,W. Herbert Hunt,class B,1929-03-06
 677,Jason Jiang,class D,1973-01-01
-678,"Rupert Johnson, Jr.",class B,1940-08-10
+678,Rupert Johnson,class B,1940-08-10
 679,Vikram Lal & family,class B,1942-03-05
 680,Chris Larsen,class C,1960-06-15
 681,Richard Schulze,class B,1941-01-02
@@ -741,7 +741,7 @@
 761,Hubert Burda,class A,1940-02-09
 762,Francesco Gaetano Caltagirone,class E,1943-03-21
 763,Li Xiang,class A,1981-10-01
-764,"Stephen Mandel, Jr.",class F,1956-03-12
+764,Stephen Mandel,class F,1956-03-12
 765,Gabe Newell,class C,1962-11-03
 766,Maja Oeri,class A,1955-01-01
 767,Neil Shen,class E,1967-12-16
@@ -751,7 +751,7 @@
 771,Yiling Wu,class A,1949-10-24
 772,Gongshan Zhu,class C,1958-01-01
 773,Gayle Benson,class B,1947-01-26
-774,"William Conway, Jr.",class F,1949-08-27
+774,William Conway,class F,1949-08-27
 775,Gurbachan Singh Dhingra,class F,1950-04-09
 776,Kuldip Singh Dhingra,class F,1947-09-02
 777,Luca Garavoglia,class C,1969-02-27
@@ -778,7 +778,7 @@
 798,Gustavo Denegri,class F,1937-03-17
 799,Charles Edelstenne,class D,1938-01-03
 800,Reed Hastings,class E,1960-10-08
-801,"Amos Hostetter, Jr.",class D,1937-01-12
+801,Amos Hostetter,class D,1937-01-12
 802,Brad Jacobs,class C,1956-07-01
 803,Friedrich Knapp,class A,1951-05-06
 804,William Lauder,class F,1960-04-11
@@ -788,7 +788,7 @@
 808,Akira Mori & family,class B,1936-07-12
 809,Anthony Pritzker,class C,1961-01-07
 810,Ira Rennert,class E,1934-05-31
-811,"Bernard Saul, II.",class E,1932-04-15
+811,Bernard Saul,class E,1932-04-15
 812,Shi Yonghong & family,class B,1969-01-01
 813,Song Chi-hyung,class B,1979-01-01
 814,Steven Spielberg,class F,1946-12-18
@@ -850,7 +850,7 @@
 870,Friede Springer,class C,1942-08-15
 871,Wang Zhenhua,class E,1962-03-01
 872,Hans Peter Wild,class B,1941-06-16
-873,"William Wrigley, Jr.",class A,1963-11-01
+873,William Wrigley,class A,1963-11-01
 874,Xia Zuoquan,class D,1962-01-01
 875,Xue Hua,class C,
 876,Mohed Altrad,class E,1948-03-09
@@ -927,11 +927,11 @@
 947,Jack Cowin,class F,1942-07-13
 948,Giuseppe Crippa & family,class D,1935-05-05
 949,Sergei Galitsky,class D,1967-08-14
-950,"Ernest Garcia, III.",class B,1982-05-01
+950,Ernest Garcia,class B,1982-05-01
 951,Peter Gilgan,class B,1951-01-01
 952,Joseph Grendys,class F,1961-12-01
 953,Thomas Hagen,class D,1936-01-01
-954,"Robert Hale, Jr.",class E,1966-07-08
+954,Robert Hale,class E,1966-07-08
 955,Michael Hintze,class A,1953-07-27
 956,Pansy Ho,class F,1962-08-26
 957,Alan Howard,class D,1963-09-01
@@ -941,7 +941,7 @@
 961,Taha Mikati,class D,1945-01-01
 962,Gail Miller,class F,1943-10-14
 963,Vikas Oberoi,class B,1970-09-08
-964,"H. Ross Perot, Jr.",class A,1958-11-07
+964,H. Ross Perot,class A,1958-11-07
 965,Candido Pinheiro Koren de Lima,class E,1947-01-01
 966,Matthew Prince,class D,1975-01-01
 967,Penny Pritzker,class C,1959-05-02
@@ -1035,12 +1035,12 @@
 1055,Guo Zhenyu & family,class E,1963-11-01
 1056,Stewart Horejsi & family,class A,1937-09-19
 1057,Zhenda Huang & family,class D,1947-09-01
-1058,"Jeremy Jacobs, Sr. & family",class A,1940-01-21
+1058,Jeremy Jacobs,class A,1940-01-21
 1059,Hamilton James,class E,1951-08-03
 1060,Valentin Kipyatkov,class A,1976-06-05
 1061,Li Zhongchu,class C,1963-08-26
 1062,Martin Lorentzon,class A,1969-04-01
-1063,"Drayton McLane, Jr.",class F,1936-07-22
+1063,Drayton McLane,class F,1936-07-22
 1064,Roger Penske,class B,1937-02-20
 1065,Olivier Pomel,class A,1977-03-26
 1066,Jean Salata,class E,1965-12-01
@@ -1112,7 +1112,7 @@
 1132,William Stone,class A,1955-04-09
 1133,Sun Hongbin,class D,1963-01-01
 1134,Sun Shoukuan,class E,1949-10-01
-1135,"Henry Sy, Jr.",class C,1953-02-01
+1135,Henry Sy,class C,1953-02-01
 1136,Andrew Tan,class B,1952-02-01
 1137,Kenneth Tuchman,class F,1959-10-23
 1138,Tung Chee Hwa,class B,1937-07-07
@@ -1137,9 +1137,9 @@
 1157,Jinxia Chen,class C,1968-03-28
 1158,Cho Jung-ho,class F,1958-10-05
 1159,Jack Cockwell,class A,1941-01-12
-1160,"Edward DeBartolo, Jr.",class B,1946-11-06
+1160,Edward DeBartolo,class B,1946-11-06
 1161,Abilio dos Santos Diniz,class F,1936-12-28
-1162,"John Dorrance, III.",class D,1944-01-01
+1162,John Dorrance,class D,1944-01-01
 1163,Hailiang Feng,class D,1960-10-01
 1164,Xingjiang Gao,class F,1963-11-01
 1165,Carlos Hank Rhon,class D,1947-12-10
@@ -1170,7 +1170,7 @@
 1190,Dong Wei,class D,1971-01-01
 1191,Sandeep Engineer,class E,1961-05-11
 1192,Alceu Elias Feldmann,class C,1949-07-01
-1193,"Frank Fertitta, III.",class E,1962-02-24
+1193,Frank Fertitta,class E,1962-02-24
 1194,Lorenzo Fertitta,class A,1969-01-03
 1195,Doris Fisher,class E,1931-08-23
 1196,Alec Gores,class D,1953-03-18
@@ -1364,7 +1364,7 @@
 1384,John Hancock,class D,1976-01-02
 1385,Georg Haub,class A,1962-01-01
 1386,Hortensia Herrero,class B,1950-05-20
-1387,"B. Wayne Hughes, Jr.",class D,1961-01-01
+1387,B. Wayne Hughes,class D,1961-01-01
 1388,Bruce Karsh,class B,1955-10-10
 1389,Shlomo Kramer,class A,1966-03-14
 1390,Jonathan Kwok,class C,1992-03-01
@@ -1507,7 +1507,7 @@
 1527,Jennifer Pritzker,class F,1950-08-13
 1528,Linda Pritzker,class E,1953-09-14
 1529,P.V. Ramprasad Reddy,class E,1958-03-30
-1530,"Joe Rogers, Jr.",class F,1946-12-02
+1530,Joe Rogers,class F,1946-12-02
 1531,Ruan Shuilong & family,class D,1935-12-01
 1532,Phil Ruffin,class F,1935-03-17
 1533,Vinod Saraf,class C,1952-06-16
@@ -1758,7 +1758,7 @@
 1778,Zhu Yiming,class C,1972-07-01
 1779,Zhaojiang Zhu,class D,1974-01-01
 1780,Anita Zucker,class E,1952-01-19
-1781,"Herbert Allen, Jr. & family",class C,1940-03-05
+1781,Herbert Allen,class C,1940-03-05
 1782,Vasily Anisimov,class F,1951-09-19
 1783,Mori Arkin,class C,1952-09-24
 1784,Semahat Sevim Arsel,class B,1928-09-08
@@ -1814,7 +1814,7 @@
 1834,Catherine Lozick,class E,1945-05-01
 1835,Lu Zongjun,class F,1963-06-01
 1836,Lv Jianming,class D,1965-01-01
-1837,"Cargill MacMillan, III.",class E,1959-12-21
+1837,Cargill MacMillan,class E,1959-12-21
 1838,Duncan MacMillan,class F,1937-12-17
 1839,John MacMillan,class B,1949-09-20
 1840,Martha MacMillan,class E,1951-10-01
@@ -1972,7 +1972,7 @@
 1992,Tom Persson,class E,1985-01-01
 1993,Kevin Plank,class A,1972-08-13
 1994,Andreas Pohl,class E,1964-07-28
-1995,"Reinfried Pohl, Jr.",class B,1959-11-02
+1995,Reinfried Pohl,class B,1959-11-02
 1996,Michael Polsky,class C,1949-01-01
 1997,Qin Long,class D,1965-07-01
 1998,G. M. Rao,class E,1950-07-01
@@ -2035,7 +2035,7 @@
 2055,Ramesh Kumar Dua,class B,1954-03-24
 2056,Fan Minhua,class C,1961-10-23
 2057,Hongbo Fang,class A,1967-01-01
-2058,"William Foley, II.",class A,1944-12-29
+2058,William Foley,class A,1944-12-29
 2059,Jayme Garfinkel & family,class E,1945-11-30
 2060,Radhe Shyam Goenka,class F,1946-02-01
 2061,Maggie Hardy Knox,class E,1965-12-07
@@ -2231,7 +2231,7 @@
 2251,Wang Jianyi,class F,1963-01-12
 2252,Wang Qinghua,class B,1965-07-01
 2253,Pengcheng Wen & family,class B,1962-10-08
-2254,"Alfred West, Jr.",class E,1942-12-07
+2254,Alfred West,class E,1942-12-07
 2255,Dan Wilks,class B,1956-05-30
 2256,Farris Wilks,class D,1952-02-09
 2257,Gang Xu,class E,1963-04-17
@@ -2445,7 +2445,7 @@
 2465,Anton Rabie,class B,1972-01-01
 2466,Igor Rybakov,class D,1972-05-16
 2467,K. Rai Sahi,class D,1946-04-30
-2468,"Karl Scheufele, III. & family",class A,1939-01-01
+2468,Karl Scheufele,class A,1939-01-01
 2469,Steven Schuurman,class C,1975-09-24
 2470,Analjit Singh,class E,1954-01-11
 2471,Kavita Singhania,class D,1962-01-01
@@ -2483,7 +2483,7 @@
 2503,Baoshen Zhong,class F,1967-12-01
 2504,Zhou Minghua,class D,1964-01-01
 2505,Krishna Kumar Bangur,class A,1960-07-02
-2506,"Wilbur  'Ed' Bosarge, Jr.",class E,1939-07-28
+2506,Wilbur  Ed Bosarge,class E,1939-07-28
 2507,Johanna Braun,class E,1980-01-01
 2508,Karl Friedrich Braun,class A,1983-01-01
 2509,Jean-Pierre Cayard,class E,1943-01-01
@@ -2565,7 +2565,7 @@
 2585,Yao Hsiao Tung,class F,1940-01-01
 2586,Yao Liangbo,class D,1969-04-01
 2587,Ye Qiongjiu,class D,1954-10-14
-2588,"Richard Yuengling, Jr.",class C,1943-03-10
+2588,Richard Yuengling,class C,1943-03-10
 2589,Zhang Kapeng,class A,1965-01-01
 2590,Zhang Yuqiang,class A,1955-09-01
 2591,Zhou Ruxin,class B,1963-03-01
